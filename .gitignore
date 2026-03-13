@@ -1,0 +1,41 @@
+# Dependencies
+node_modules/
+package-lock.json
+
+# Build output
+dist/
+*.js.map
+
+# Database
+*.lance/
+*.sqlite
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+
+# Environment
+.env
+.env.local
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Test data
+test_*.js
+check_*.js
+migrate_*.js
+verify.js
+
+# Temporary files
+*.tmp
+*.bak
+temp_*.json
