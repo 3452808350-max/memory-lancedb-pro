@@ -1,0 +1,42 @@
+{
+  "name": "@openclaw/memory-lancedb-pro",
+  "version": "2026.2.16",
+  "private": true,
+  "description": "Enhanced LanceDB memory plugin with hybrid retrieval (Vector + BM25), cross-encoder rerank, and multi-scope isolation",
+  "description:zh-CN": "增强型 LanceDB 记忆插件，支持混合检索（Vector + BM25）、Cross-Encoder Rerank 和多 Scope 隔离",
+  "type": "module",
+  "main": "index.ts",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/3452808350-max/memory-lancedb-pro.git"
+  },
+  "keywords": [
+    "openclaw",
+    "lancedb",
+    "memory",
+    "vector-search",
+    "hybrid-retrieval",
+    "bm25",
+    "ai",
+    "llm",
+    "plugin",
+    "typescript"
+  ],
+  "author": "River Jiert",
+  "license": "MIT",
+  "dependencies": {
+    "@lancedb/lancedb": "^0.26.2",
+    "@sinclair/typebox": "0.34.48",
+    "openai": "^6.21.0"
+  },
+  "openclaw": {
+    "extensions": [
+      "./index.ts"
+    ]
+  },
+  "devDependencies": {
+    "typescript": "^5.9.3",
+    "tsx": "^4.21.0",
+    "commander": "^13.0.0"
+  }
+}
