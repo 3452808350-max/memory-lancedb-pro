@@ -1,0 +1,2202 @@
+[
+  {
+    "id": "q_00038",
+    "type": "keyword",
+    "query": "查找 AI-Agent 相关的 subagent 信息",
+    "target_memory_id": "mem_00038",
+    "target_memory_content": "在 AI-Agent 项目中，我们讨论了 subagent 的实现方案",
+    "expected_keywords": [
+      "AI-Agent",
+      "subagent"
+    ]
+  },
+  {
+    "id": "q_00115",
+    "type": "keyword",
+    "query": "RAG 系统 的 日志系统 怎么配置",
+    "target_memory_id": "mem_00115",
+    "target_memory_content": "在 RAG 系统 项目中，我们讨论了 日志系统 的实现方案",
+    "expected_keywords": [
+      "RAG 系统",
+      "日志系统"
+    ]
+  },
+  {
+    "id": "q_00021",
+    "type": "semantic",
+    "query": "RAG 系统 项目中如何优化 BM25",
+    "target_memory_id": "mem_00021",
+    "target_memory_content": "明天要和 张工 讨论 RAG 系统 的进度",
+    "expected_keywords": [
+      "RAG 系统",
+      "BM25"
+    ]
+  },
+  {
+    "id": "q_00152",
+    "type": "hybrid",
+    "query": "Sarah 在 vLLM 优化 项目中怎么使用 缓存策略",
+    "target_memory_id": "mem_00152",
+    "target_memory_content": "有人提到过类似的 缓存策略 方案但不是用于 vLLM 优化",
+    "expected_keywords": [
+      "vLLM 优化",
+      "缓存策略"
+    ]
+  },
+  {
+    "id": "q_00195",
+    "type": "hybrid",
+    "query": "吴博士 在 Kimi Remote API 项目中怎么使用 向量检索",
+    "target_memory_id": "mem_00195",
+    "target_memory_content": "在 Kimi Remote API 项目中，我们讨论了 向量检索 的实现方案",
+    "expected_keywords": [
+      "Kimi Remote API",
+      "向量检索"
+    ]
+  },
+  {
+    "id": "q_00134",
+    "type": "semantic",
+    "query": "关于 智能客服 的 性能优化 最佳实践",
+    "target_memory_id": "mem_00134",
+    "target_memory_content": "张工 喜欢用 性能优化 来处理 智能客服 相关任务",
+    "expected_keywords": [
+      "智能客服",
+      "性能优化"
+    ]
+  },
+  {
+    "id": "q_00037",
+    "type": "keyword",
+    "query": "AI-Agent 的 rerank 怎么配置",
+    "target_memory_id": "mem_00037",
+    "target_memory_content": "有人提到过类似的 rerank 方案但不是用于 AI-Agent",
+    "expected_keywords": [
+      "AI-Agent",
+      "rerank"
+    ]
+  },
+  {
+    "id": "q_00010",
+    "type": "keyword",
+    "query": "rerank 在 智能客服 中怎么用",
+    "target_memory_id": "mem_00010",
+    "target_memory_content": "明天要和 Sarah 讨论 智能客服 的进度",
+    "expected_keywords": [
+      "智能客服",
+      "rerank"
+    ]
+  },
+  {
+    "id": "q_00193",
+    "type": "hybrid",
+    "query": "赵博士 在 Ollama 部署 中推荐的 API 方案",
+    "target_memory_id": "mem_00193",
+    "target_memory_content": "明天要和 赵博士 讨论 Ollama 部署 的进度",
+    "expected_keywords": [
+      "Ollama 部署",
+      "API"
+    ]
+  },
+  {
+    "id": "q_00073",
+    "type": "hybrid",
+    "query": "详细说说 Ollama 部署 中 认证机制 的使用",
+    "target_memory_id": "mem_00073",
+    "target_memory_content": "在 Ollama 部署 项目中，我们讨论了 认证机制 的实现方案",
+    "expected_keywords": [
+      "Ollama 部署",
+      "认证机制"
+    ]
+  },
+  {
+    "id": "q_00161",
+    "type": "semantic",
+    "query": "OpenClaw 里 向量检索 的实现细节",
+    "target_memory_id": "mem_00161",
+    "target_memory_content": "吴博士 说他最近在研究 OpenClaw",
+    "expected_keywords": [
+      "OpenClaw",
+      "向量检索"
+    ]
+  },
+  {
+    "id": "q_00101",
+    "type": "hybrid",
+    "query": "详细说说 Kimi Remote API 中 rerank 的使用",
+    "target_memory_id": "mem_00101",
+    "target_memory_content": "有人提到过类似的 rerank 方案但不是用于 Kimi Remote API",
+    "expected_keywords": [
+      "Kimi Remote API",
+      "rerank"
+    ]
+  },
+  {
+    "id": "q_00033",
+    "type": "hybrid",
+    "query": "详细说说 RAG 系统 中 性能优化 的使用",
+    "target_memory_id": "mem_00033",
+    "target_memory_content": "Alex 喜欢用 性能优化 来处理 RAG 系统 相关任务",
+    "expected_keywords": [
+      "RAG 系统",
+      "性能优化"
+    ]
+  },
+  {
+    "id": "q_00017",
+    "type": "keyword",
+    "query": "subagent 在 知识图谱 中怎么用",
+    "target_memory_id": "mem_00017",
+    "target_memory_content": "明天要和 陈工 讨论 知识图谱 的进度",
+    "expected_keywords": [
+      "知识图谱",
+      "subagent"
+    ]
+  },
+  {
+    "id": "q_00180",
+    "type": "semantic",
+    "query": "Kimi Remote API 里 缓存策略 的实现细节",
+    "target_memory_id": "mem_00180",
+    "target_memory_content": "赵博士 喜欢用 缓存策略 来处理 Kimi Remote API 相关任务",
+    "expected_keywords": [
+      "Kimi Remote API",
+      "缓存策略"
+    ]
+  },
+  {
+    "id": "q_00159",
+    "type": "keyword",
+    "query": "查找 vLLM 优化 相关的 embedding 信息",
+    "target_memory_id": "mem_00159",
+    "target_memory_content": "李老师 说他最近在研究 vLLM 优化",
+    "expected_keywords": [
+      "vLLM 优化",
+      "embedding"
+    ]
+  },
+  {
+    "id": "q_00062",
+    "type": "hybrid",
+    "query": "详细说说 RAG 系统 中 日志系统 的使用",
+    "target_memory_id": "mem_00062",
+    "target_memory_content": "明天要和 李老师 讨论 RAG 系统 的进度",
+    "expected_keywords": [
+      "RAG 系统",
+      "日志系统"
+    ]
+  },
+  {
+    "id": "q_00001",
+    "type": "keyword",
+    "query": "知识图谱 的 缓存策略 怎么配置",
+    "target_memory_id": "mem_00001",
+    "target_memory_content": "在 知识图谱 项目中，我们讨论了 缓存策略 的实现方案",
+    "expected_keywords": [
+      "知识图谱",
+      "缓存策略"
+    ]
+  },
+  {
+    "id": "q_00184",
+    "type": "hybrid",
+    "query": "赵博士 在 RAG 系统 项目中怎么使用 日志系统",
+    "target_memory_id": "mem_00184",
+    "target_memory_content": "有人提到过类似的 日志系统 方案但不是用于 RAG 系统",
+    "expected_keywords": [
+      "RAG 系统",
+      "日志系统"
+    ]
+  },
+  {
+    "id": "q_00154",
+    "type": "hybrid",
+    "query": "Sarah 在 OpenClaw 中推荐的 rerank 方案",
+    "target_memory_id": "mem_00154",
+    "target_memory_content": "有人提到过类似的 rerank 方案但不是用于 OpenClaw",
+    "expected_keywords": [
+      "OpenClaw",
+      "rerank"
+    ]
+  },
+  {
+    "id": "q_00196",
+    "type": "semantic",
+    "query": "关于 智能客服 的 API 最佳实践",
+    "target_memory_id": "mem_00196",
+    "target_memory_content": "在 智能客服 项目中，我们讨论了 API 的实现方案",
+    "expected_keywords": [
+      "智能客服",
+      "API"
+    ]
+  },
+  {
+    "id": "q_00068",
+    "type": "hybrid",
+    "query": "K 在 知识图谱 项目中怎么使用 向量检索",
+    "target_memory_id": "mem_00068",
+    "target_memory_content": "明天要和 K 讨论 知识图谱 的进度",
+    "expected_keywords": [
+      "知识图谱",
+      "向量检索"
+    ]
+  },
+  {
+    "id": "q_00190",
+    "type": "keyword",
+    "query": "查找 OpenClaw 相关的 scope 信息",
+    "target_memory_id": "mem_00190",
+    "target_memory_content": "有人提到过类似的 scope 方案但不是用于 OpenClaw",
+    "expected_keywords": [
+      "OpenClaw",
+      "scope"
+    ]
+  },
+  {
+    "id": "q_00085",
+    "type": "hybrid",
+    "query": "王总 在 memory-lancedb-pro 项目中怎么使用 subagent",
+    "target_memory_id": "mem_00085",
+    "target_memory_content": "王总 说他最近在研究 memory-lancedb-pro",
+    "expected_keywords": [
+      "memory-lancedb-pro",
+      "subagent"
+    ]
+  },
+  {
+    "id": "q_00046",
+    "type": "keyword",
+    "query": "subagent 在 Ollama 部署 中怎么用",
+    "target_memory_id": "mem_00046",
+    "target_memory_content": "在 Ollama 部署 项目中，我们讨论了 subagent 的实现方案",
+    "expected_keywords": [
+      "Ollama 部署",
+      "subagent"
+    ]
+  },
+  {
+    "id": "q_00155",
+    "type": "keyword",
+    "query": "知识图谱 的 embedding 怎么配置",
+    "target_memory_id": "mem_00155",
+    "target_memory_content": "张工 说他最近在研究 知识图谱",
+    "expected_keywords": [
+      "知识图谱",
+      "embedding"
+    ]
+  },
+  {
+    "id": "q_00167",
+    "type": "hybrid",
+    "query": "K 在 Kimi Remote API 项目中怎么使用 BM25",
+    "target_memory_id": "mem_00167",
+    "target_memory_content": "在 Kimi Remote API 项目中，我们讨论了 BM25 的实现方案",
+    "expected_keywords": [
+      "Kimi Remote API",
+      "BM25"
+    ]
+  },
+  {
+    "id": "q_00058",
+    "type": "keyword",
+    "query": "认证机制 在 知识图谱 中怎么用",
+    "target_memory_id": "mem_00058",
+    "target_memory_content": "明天要和 张工 讨论 知识图谱 的进度",
+    "expected_keywords": [
+      "知识图谱",
+      "认证机制"
+    ]
+  },
+  {
+    "id": "q_00138",
+    "type": "hybrid",
+    "query": "详细说说 AI-Agent 中 性能优化 的使用",
+    "target_memory_id": "mem_00138",
+    "target_memory_content": "陈工 说他最近在研究 AI-Agent",
+    "expected_keywords": [
+      "AI-Agent",
+      "性能优化"
+    ]
+  },
+  {
+    "id": "q_00127",
+    "type": "hybrid",
+    "query": "王总 在 DSS 选股系统 项目中怎么使用 BM25",
+    "target_memory_id": "mem_00127",
+    "target_memory_content": "王总 喜欢用 BM25 来处理 DSS 选股系统 相关任务",
+    "expected_keywords": [
+      "DSS 选股系统",
+      "BM25"
+    ]
+  },
+  {
+    "id": "q_00135",
+    "type": "hybrid",
+    "query": "李老师 在 Ollama 部署 中推荐的 API 方案",
+    "target_memory_id": "mem_00135",
+    "target_memory_content": "有人提到过类似的 API 方案但不是用于 Ollama 部署",
+    "expected_keywords": [
+      "Ollama 部署",
+      "API"
+    ]
+  },
+  {
+    "id": "q_00086",
+    "type": "semantic",
+    "query": "DSS 选股系统 里 scope 的实现细节",
+    "target_memory_id": "mem_00086",
+    "target_memory_content": "有人提到过类似的 scope 方案但不是用于 DSS 选股系统",
+    "expected_keywords": [
+      "DSS 选股系统",
+      "scope"
+    ]
+  },
+  {
+    "id": "q_00142",
+    "type": "keyword",
+    "query": "Ollama 部署 的 scope 怎么配置",
+    "target_memory_id": "mem_00142",
+    "target_memory_content": "明天要和 吴博士 讨论 Ollama 部署 的进度",
+    "expected_keywords": [
+      "Ollama 部署",
+      "scope"
+    ]
+  },
+  {
+    "id": "q_00022",
+    "type": "keyword",
+    "query": "embedding 在 RAG 系统 中怎么用",
+    "target_memory_id": "mem_00022",
+    "target_memory_content": "在 RAG 系统 项目中，我们讨论了 embedding 的实现方案",
+    "expected_keywords": [
+      "RAG 系统",
+      "embedding"
+    ]
+  },
+  {
+    "id": "q_00100",
+    "type": "hybrid",
+    "query": "详细说说 Kimi Remote API 中 embedding 的使用",
+    "target_memory_id": "mem_00100",
+    "target_memory_content": "K 喜欢用 embedding 来处理 Kimi Remote API 相关任务",
+    "expected_keywords": [
+      "Kimi Remote API",
+      "embedding"
+    ]
+  },
+  {
+    "id": "q_00123",
+    "type": "hybrid",
+    "query": "K 在 知识图谱 中推荐的 subagent 方案",
+    "target_memory_id": "mem_00123",
+    "target_memory_content": "在 知识图谱 项目中，我们讨论了 subagent 的实现方案",
+    "expected_keywords": [
+      "知识图谱",
+      "subagent"
+    ]
+  },
+  {
+    "id": "q_00055",
+    "type": "hybrid",
+    "query": "Sarah 在 AI-Agent 中推荐的 rerank 方案",
+    "target_memory_id": "mem_00055",
+    "target_memory_content": "在 AI-Agent 项目中，我们讨论了 rerank 的实现方案",
+    "expected_keywords": [
+      "AI-Agent",
+      "rerank"
+    ]
+  },
+  {
+    "id": "q_00192",
+    "type": "hybrid",
+    "query": "吴博士 在 智能客服 项目中怎么使用 embedding",
+    "target_memory_id": "mem_00192",
+    "target_memory_content": "吴博士 喜欢用 embedding 来处理 智能客服 相关任务",
+    "expected_keywords": [
+      "智能客服",
+      "embedding"
+    ]
+  },
+  {
+    "id": "q_00095",
+    "type": "keyword",
+    "query": "查找 OpenClaw 相关的 API 信息",
+    "target_memory_id": "mem_00095",
+    "target_memory_content": "K 说他最近在研究 OpenClaw",
+    "expected_keywords": [
+      "OpenClaw",
+      "API"
+    ]
+  },
+  {
+    "id": "q_00008",
+    "type": "keyword",
+    "query": "性能优化 在 vLLM 优化 中怎么用",
+    "target_memory_id": "mem_00008",
+    "target_memory_content": "明天要和 王总 讨论 vLLM 优化 的进度",
+    "expected_keywords": [
+      "vLLM 优化",
+      "性能优化"
+    ]
+  },
+  {
+    "id": "q_00132",
+    "type": "hybrid",
+    "query": "详细说说 Kimi Remote API 中 rerank 的使用",
+    "target_memory_id": "mem_00132",
+    "target_memory_content": "张工 喜欢用 rerank 来处理 Kimi Remote API 相关任务",
+    "expected_keywords": [
+      "Kimi Remote API",
+      "rerank"
+    ]
+  },
+  {
+    "id": "q_00160",
+    "type": "keyword",
+    "query": "查找 AI-Agent 相关的 embedding 信息",
+    "target_memory_id": "mem_00160",
+    "target_memory_content": "在 AI-Agent 项目中，我们讨论了 embedding 的实现方案",
+    "expected_keywords": [
+      "AI-Agent",
+      "embedding"
+    ]
+  },
+  {
+    "id": "q_00026",
+    "type": "keyword",
+    "query": "日志系统 在 RAG 系统 中怎么用",
+    "target_memory_id": "mem_00026",
+    "target_memory_content": "明天要和 陈工 讨论 RAG 系统 的进度",
+    "expected_keywords": [
+      "RAG 系统",
+      "日志系统"
+    ]
+  },
+  {
+    "id": "q_00121",
+    "type": "hybrid",
+    "query": "Sarah 在 AI-Agent 项目中怎么使用 日志系统",
+    "target_memory_id": "mem_00121",
+    "target_memory_content": "在 AI-Agent 项目中，我们讨论了 日志系统 的实现方案",
+    "expected_keywords": [
+      "AI-Agent",
+      "日志系统"
+    ]
+  },
+  {
+    "id": "q_00023",
+    "type": "semantic",
+    "query": "DSS 选股系统 里 认证机制 的实现细节",
+    "target_memory_id": "mem_00023",
+    "target_memory_content": "Sarah 喜欢用 认证机制 来处理 DSS 选股系统 相关任务",
+    "expected_keywords": [
+      "DSS 选股系统",
+      "认证机制"
+    ]
+  },
+  {
+    "id": "q_00090",
+    "type": "semantic",
+    "query": "知识图谱 里 缓存策略 的实现细节",
+    "target_memory_id": "mem_00090",
+    "target_memory_content": "在 知识图谱 项目中，我们讨论了 缓存策略 的实现方案",
+    "expected_keywords": [
+      "知识图谱",
+      "缓存策略"
+    ]
+  },
+  {
+    "id": "q_00035",
+    "type": "hybrid",
+    "query": "陈工 在 智能客服 项目中怎么使用 日志系统",
+    "target_memory_id": "mem_00035",
+    "target_memory_content": "明天要和 陈工 讨论 智能客服 的进度",
+    "expected_keywords": [
+      "智能客服",
+      "日志系统"
+    ]
+  },
+  {
+    "id": "q_00112",
+    "type": "semantic",
+    "query": "OpenClaw 里 认证机制 的实现细节",
+    "target_memory_id": "mem_00112",
+    "target_memory_content": "赵博士 喜欢用 认证机制 来处理 OpenClaw 相关任务",
+    "expected_keywords": [
+      "OpenClaw",
+      "认证机制"
+    ]
+  },
+  {
+    "id": "q_00044",
+    "type": "hybrid",
+    "query": "张工 在 AI-Agent 项目中怎么使用 缓存策略",
+    "target_memory_id": "mem_00044",
+    "target_memory_content": "在 AI-Agent 项目中，我们讨论了 缓存策略 的实现方案",
+    "expected_keywords": [
+      "AI-Agent",
+      "缓存策略"
+    ]
+  },
+  {
+    "id": "q_00007",
+    "type": "semantic",
+    "query": "DSS 选股系统 项目中如何优化 subagent",
+    "target_memory_id": "mem_00007",
+    "target_memory_content": "王总 说他最近在研究 DSS 选股系统",
+    "expected_keywords": [
+      "DSS 选股系统",
+      "subagent"
+    ]
+  },
+  {
+    "id": "q_00056",
+    "type": "hybrid",
+    "query": "详细说说 memory-lancedb-pro 中 embedding 的使用",
+    "target_memory_id": "mem_00056",
+    "target_memory_content": "有人提到过类似的 embedding 方案但不是用于 memory-lancedb-pro",
+    "expected_keywords": [
+      "memory-lancedb-pro",
+      "embedding"
+    ]
+  },
+  {
+    "id": "q_00108",
+    "type": "keyword",
+    "query": "查找 memory-lancedb-pro 相关的 API 信息",
+    "target_memory_id": "mem_00108",
+    "target_memory_content": "有人提到过类似的 API 方案但不是用于 memory-lancedb-pro",
+    "expected_keywords": [
+      "memory-lancedb-pro",
+      "API"
+    ]
+  },
+  {
+    "id": "q_00063",
+    "type": "hybrid",
+    "query": "详细说说 Ollama 部署 中 API 的使用",
+    "target_memory_id": "mem_00063",
+    "target_memory_content": "明天要和 Sarah 讨论 Ollama 部署 的进度",
+    "expected_keywords": [
+      "Ollama 部署",
+      "API"
+    ]
+  },
+  {
+    "id": "q_00088",
+    "type": "hybrid",
+    "query": "K 在 AI-Agent 项目中怎么使用 认证机制",
+    "target_memory_id": "mem_00088",
+    "target_memory_content": "有人提到过类似的 认证机制 方案但不是用于 AI-Agent",
+    "expected_keywords": [
+      "AI-Agent",
+      "认证机制"
+    ]
+  },
+  {
+    "id": "q_00126",
+    "type": "semantic",
+    "query": "vLLM 优化 里 API 的实现细节",
+    "target_memory_id": "mem_00126",
+    "target_memory_content": "有人提到过类似的 API 方案但不是用于 vLLM 优化",
+    "expected_keywords": [
+      "vLLM 优化",
+      "API"
+    ]
+  },
+  {
+    "id": "q_00187",
+    "type": "semantic",
+    "query": "智能客服 里 scope 的实现细节",
+    "target_memory_id": "mem_00187",
+    "target_memory_content": "刘博 喜欢用 scope 来处理 智能客服 相关任务",
+    "expected_keywords": [
+      "智能客服",
+      "scope"
+    ]
+  },
+  {
+    "id": "q_00143",
+    "type": "hybrid",
+    "query": "详细说说 知识图谱 中 scope 的使用",
+    "target_memory_id": "mem_00143",
+    "target_memory_content": "赵博士 说他最近在研究 知识图谱",
+    "expected_keywords": [
+      "知识图谱",
+      "scope"
+    ]
+  },
+  {
+    "id": "q_00168",
+    "type": "hybrid",
+    "query": "K 在 vLLM 优化 项目中怎么使用 认证机制",
+    "target_memory_id": "mem_00168",
+    "target_memory_content": "明天要和 K 讨论 vLLM 优化 的进度",
+    "expected_keywords": [
+      "vLLM 优化",
+      "认证机制"
+    ]
+  },
+  {
+    "id": "q_00171",
+    "type": "semantic",
+    "query": "Ollama 部署 项目中如何优化 API",
+    "target_memory_id": "mem_00171",
+    "target_memory_content": "明天要和 陈工 讨论 Ollama 部署 的进度",
+    "expected_keywords": [
+      "Ollama 部署",
+      "API"
+    ]
+  },
+  {
+    "id": "q_00027",
+    "type": "keyword",
+    "query": "BM25 在 RAG 系统 中怎么用",
+    "target_memory_id": "mem_00027",
+    "target_memory_content": "明天要和 Alex 讨论 RAG 系统 的进度",
+    "expected_keywords": [
+      "RAG 系统",
+      "BM25"
+    ]
+  },
+  {
+    "id": "q_00040",
+    "type": "hybrid",
+    "query": "详细说说 RAG 系统 中 scope 的使用",
+    "target_memory_id": "mem_00040",
+    "target_memory_content": "Alex 说他最近在研究 RAG 系统",
+    "expected_keywords": [
+      "RAG 系统",
+      "scope"
+    ]
+  },
+  {
+    "id": "q_00032",
+    "type": "keyword",
+    "query": "向量检索 在 Ollama 部署 中怎么用",
+    "target_memory_id": "mem_00032",
+    "target_memory_content": "吴博士 喜欢用 向量检索 来处理 Ollama 部署 相关任务",
+    "expected_keywords": [
+      "Ollama 部署",
+      "向量检索"
+    ]
+  },
+  {
+    "id": "q_00157",
+    "type": "semantic",
+    "query": "vLLM 优化 项目中如何优化 日志系统",
+    "target_memory_id": "mem_00157",
+    "target_memory_content": "赵博士 喜欢用 日志系统 来处理 vLLM 优化 相关任务",
+    "expected_keywords": [
+      "vLLM 优化",
+      "日志系统"
+    ]
+  },
+  {
+    "id": "q_00163",
+    "type": "hybrid",
+    "query": "陈工 在 知识图谱 项目中怎么使用 BM25",
+    "target_memory_id": "mem_00163",
+    "target_memory_content": "明天要和 陈工 讨论 知识图谱 的进度",
+    "expected_keywords": [
+      "知识图谱",
+      "BM25"
+    ]
+  },
+  {
+    "id": "q_00067",
+    "type": "keyword",
+    "query": "memory-lancedb-pro 的 性能优化 怎么配置",
+    "target_memory_id": "mem_00067",
+    "target_memory_content": "在 memory-lancedb-pro 项目中，我们讨论了 性能优化 的实现方案",
+    "expected_keywords": [
+      "memory-lancedb-pro",
+      "性能优化"
+    ]
+  },
+  {
+    "id": "q_00189",
+    "type": "semantic",
+    "query": "智能客服 项目中如何优化 subagent",
+    "target_memory_id": "mem_00189",
+    "target_memory_content": "有人提到过类似的 subagent 方案但不是用于 智能客服",
+    "expected_keywords": [
+      "智能客服",
+      "subagent"
+    ]
+  },
+  {
+    "id": "q_00054",
+    "type": "keyword",
+    "query": "查找 DSS 选股系统 相关的 embedding 信息",
+    "target_memory_id": "mem_00054",
+    "target_memory_content": "在 DSS 选股系统 项目中，我们讨论了 embedding 的实现方案",
+    "expected_keywords": [
+      "DSS 选股系统",
+      "embedding"
+    ]
+  },
+  {
+    "id": "q_00178",
+    "type": "semantic",
+    "query": "AI-Agent 项目中如何优化 subagent",
+    "target_memory_id": "mem_00178",
+    "target_memory_content": "吴博士 喜欢用 subagent 来处理 AI-Agent 相关任务",
+    "expected_keywords": [
+      "AI-Agent",
+      "subagent"
+    ]
+  },
+  {
+    "id": "q_00144",
+    "type": "semantic",
+    "query": "DSS 选股系统 项目中如何优化 缓存策略",
+    "target_memory_id": "mem_00144",
+    "target_memory_content": "有人提到过类似的 缓存策略 方案但不是用于 DSS 选股系统",
+    "expected_keywords": [
+      "DSS 选股系统",
+      "缓存策略"
+    ]
+  },
+  {
+    "id": "q_00050",
+    "type": "keyword",
+    "query": "查找 Kimi Remote API 相关的 向量检索 信息",
+    "target_memory_id": "mem_00050",
+    "target_memory_content": "Alex 喜欢用 向量检索 来处理 Kimi Remote API 相关任务",
+    "expected_keywords": [
+      "Kimi Remote API",
+      "向量检索"
+    ]
+  },
+  {
+    "id": "q_00176",
+    "type": "hybrid",
+    "query": "详细说说 DSS 选股系统 中 API 的使用",
+    "target_memory_id": "mem_00176",
+    "target_memory_content": "赵博士 喜欢用 API 来处理 DSS 选股系统 相关任务",
+    "expected_keywords": [
+      "DSS 选股系统",
+      "API"
+    ]
+  },
+  {
+    "id": "q_00118",
+    "type": "semantic",
+    "query": "Ollama 部署 项目中如何优化 API",
+    "target_memory_id": "mem_00118",
+    "target_memory_content": "刘博 喜欢用 API 来处理 Ollama 部署 相关任务",
+    "expected_keywords": [
+      "Ollama 部署",
+      "API"
+    ]
+  },
+  {
+    "id": "q_00031",
+    "type": "keyword",
+    "query": "subagent 在 vLLM 优化 中怎么用",
+    "target_memory_id": "mem_00031",
+    "target_memory_content": "在 vLLM 优化 项目中，我们讨论了 subagent 的实现方案",
+    "expected_keywords": [
+      "vLLM 优化",
+      "subagent"
+    ]
+  },
+  {
+    "id": "q_00166",
+    "type": "semantic",
+    "query": "OpenClaw 里 embedding 的实现细节",
+    "target_memory_id": "mem_00166",
+    "target_memory_content": "有人提到过类似的 embedding 方案但不是用于 OpenClaw",
+    "expected_keywords": [
+      "OpenClaw",
+      "embedding"
+    ]
+  },
+  {
+    "id": "q_00081",
+    "type": "hybrid",
+    "query": "李老师 在 OpenClaw 项目中怎么使用 subagent",
+    "target_memory_id": "mem_00081",
+    "target_memory_content": "有人提到过类似的 subagent 方案但不是用于 OpenClaw",
+    "expected_keywords": [
+      "OpenClaw",
+      "subagent"
+    ]
+  },
+  {
+    "id": "q_00064",
+    "type": "keyword",
+    "query": "RAG 系统 的 性能优化 怎么配置",
+    "target_memory_id": "mem_00064",
+    "target_memory_content": "明天要和 吴博士 讨论 RAG 系统 的进度",
+    "expected_keywords": [
+      "RAG 系统",
+      "性能优化"
+    ]
+  },
+  {
+    "id": "q_00104",
+    "type": "keyword",
+    "query": "日志系统 在 知识图谱 中怎么用",
+    "target_memory_id": "mem_00104",
+    "target_memory_content": "张工 喜欢用 日志系统 来处理 知识图谱 相关任务",
+    "expected_keywords": [
+      "知识图谱",
+      "日志系统"
+    ]
+  },
+  {
+    "id": "q_00005",
+    "type": "hybrid",
+    "query": "陈工 在 AI-Agent 项目中怎么使用 日志系统",
+    "target_memory_id": "mem_00005",
+    "target_memory_content": "有人提到过类似的 日志系统 方案但不是用于 AI-Agent",
+    "expected_keywords": [
+      "AI-Agent",
+      "日志系统"
+    ]
+  },
+  {
+    "id": "q_00172",
+    "type": "semantic",
+    "query": "智能客服 里 subagent 的实现细节",
+    "target_memory_id": "mem_00172",
+    "target_memory_content": "明天要和 李老师 讨论 智能客服 的进度",
+    "expected_keywords": [
+      "智能客服",
+      "subagent"
+    ]
+  },
+  {
+    "id": "q_00018",
+    "type": "hybrid",
+    "query": "张工 在 Kimi Remote API 项目中怎么使用 认证机制",
+    "target_memory_id": "mem_00018",
+    "target_memory_content": "明天要和 张工 讨论 Kimi Remote API 的进度",
+    "expected_keywords": [
+      "Kimi Remote API",
+      "认证机制"
+    ]
+  },
+  {
+    "id": "q_00015",
+    "type": "hybrid",
+    "query": "详细说说 memory-lancedb-pro 中 性能优化 的使用",
+    "target_memory_id": "mem_00015",
+    "target_memory_content": "赵博士 说他最近在研究 memory-lancedb-pro",
+    "expected_keywords": [
+      "memory-lancedb-pro",
+      "性能优化"
+    ]
+  },
+  {
+    "id": "q_00053",
+    "type": "keyword",
+    "query": "OpenClaw 的 BM25 怎么配置",
+    "target_memory_id": "mem_00053",
+    "target_memory_content": "有人提到过类似的 BM25 方案但不是用于 OpenClaw",
+    "expected_keywords": [
+      "OpenClaw",
+      "BM25"
+    ]
+  },
+  {
+    "id": "q_00039",
+    "type": "hybrid",
+    "query": "Alex 在 AI-Agent 项目中怎么使用 性能优化",
+    "target_memory_id": "mem_00039",
+    "target_memory_content": "在 AI-Agent 项目中，我们讨论了 性能优化 的实现方案",
+    "expected_keywords": [
+      "AI-Agent",
+      "性能优化"
+    ]
+  },
+  {
+    "id": "q_00060",
+    "type": "hybrid",
+    "query": "Sarah 在 DSS 选股系统 中推荐的 subagent 方案",
+    "target_memory_id": "mem_00060",
+    "target_memory_content": "有人提到过类似的 subagent 方案但不是用于 DSS 选股系统",
+    "expected_keywords": [
+      "DSS 选股系统",
+      "subagent"
+    ]
+  },
+  {
+    "id": "q_00182",
+    "type": "semantic",
+    "query": "知识图谱 里 认证机制 的实现细节",
+    "target_memory_id": "mem_00182",
+    "target_memory_content": "吴博士 说他最近在研究 知识图谱",
+    "expected_keywords": [
+      "知识图谱",
+      "认证机制"
+    ]
+  },
+  {
+    "id": "q_00191",
+    "type": "semantic",
+    "query": "Kimi Remote API 里 性能优化 的实现细节",
+    "target_memory_id": "mem_00191",
+    "target_memory_content": "吴博士 说他最近在研究 Kimi Remote API",
+    "expected_keywords": [
+      "Kimi Remote API",
+      "性能优化"
+    ]
+  },
+  {
+    "id": "q_00083",
+    "type": "keyword",
+    "query": "性能优化 在 AI-Agent 中怎么用",
+    "target_memory_id": "mem_00083",
+    "target_memory_content": "Sarah 喜欢用 性能优化 来处理 AI-Agent 相关任务",
+    "expected_keywords": [
+      "AI-Agent",
+      "性能优化"
+    ]
+  },
+  {
+    "id": "q_00125",
+    "type": "hybrid",
+    "query": "Sarah 在 AI-Agent 项目中怎么使用 subagent",
+    "target_memory_id": "mem_00125",
+    "target_memory_content": "在 AI-Agent 项目中，我们讨论了 subagent 的实现方案",
+    "expected_keywords": [
+      "AI-Agent",
+      "subagent"
+    ]
+  },
+  {
+    "id": "q_00079",
+    "type": "hybrid",
+    "query": "李老师 在 智能客服 项目中怎么使用 embedding",
+    "target_memory_id": "mem_00079",
+    "target_memory_content": "在 智能客服 项目中，我们讨论了 embedding 的实现方案",
+    "expected_keywords": [
+      "智能客服",
+      "embedding"
+    ]
+  },
+  {
+    "id": "q_00042",
+    "type": "semantic",
+    "query": "关于 智能客服 的 认证机制 最佳实践",
+    "target_memory_id": "mem_00042",
+    "target_memory_content": "在 智能客服 项目中，我们讨论了 认证机制 的实现方案",
+    "expected_keywords": [
+      "智能客服",
+      "认证机制"
+    ]
+  },
+  {
+    "id": "q_00116",
+    "type": "semantic",
+    "query": "关于 智能客服 的 缓存策略 最佳实践",
+    "target_memory_id": "mem_00116",
+    "target_memory_content": "明天要和 陈工 讨论 智能客服 的进度",
+    "expected_keywords": [
+      "智能客服",
+      "缓存策略"
+    ]
+  },
+  {
+    "id": "q_00153",
+    "type": "semantic",
+    "query": "关于 知识图谱 的 rerank 最佳实践",
+    "target_memory_id": "mem_00153",
+    "target_memory_content": "赵博士 喜欢用 rerank 来处理 知识图谱 相关任务",
+    "expected_keywords": [
+      "知识图谱",
+      "rerank"
+    ]
+  },
+  {
+    "id": "q_00004",
+    "type": "hybrid",
+    "query": "详细说说 AI-Agent 中 scope 的使用",
+    "target_memory_id": "mem_00004",
+    "target_memory_content": "在 AI-Agent 项目中，我们讨论了 scope 的实现方案",
+    "expected_keywords": [
+      "AI-Agent",
+      "scope"
+    ]
+  },
+  {
+    "id": "q_00179",
+    "type": "hybrid",
+    "query": "赵博士 在 知识图谱 项目中怎么使用 BM25",
+    "target_memory_id": "mem_00179",
+    "target_memory_content": "赵博士 说他最近在研究 知识图谱",
+    "expected_keywords": [
+      "知识图谱",
+      "BM25"
+    ]
+  },
+  {
+    "id": "q_00130",
+    "type": "semantic",
+    "query": "关于 Ollama 部署 的 日志系统 最佳实践",
+    "target_memory_id": "mem_00130",
+    "target_memory_content": "明天要和 Sarah 讨论 Ollama 部署 的进度",
+    "expected_keywords": [
+      "Ollama 部署",
+      "日志系统"
+    ]
+  },
+  {
+    "id": "q_00185",
+    "type": "semantic",
+    "query": "关于 Ollama 部署 的 BM25 最佳实践",
+    "target_memory_id": "mem_00185",
+    "target_memory_content": "明天要和 王总 讨论 Ollama 部署 的进度",
+    "expected_keywords": [
+      "Ollama 部署",
+      "BM25"
+    ]
+  },
+  {
+    "id": "q_00014",
+    "type": "hybrid",
+    "query": "Sarah 在 RAG 系统 中推荐的 BM25 方案",
+    "target_memory_id": "mem_00014",
+    "target_memory_content": "在 RAG 系统 项目中，我们讨论了 BM25 的实现方案",
+    "expected_keywords": [
+      "RAG 系统",
+      "BM25"
+    ]
+  },
+  {
+    "id": "q_00106",
+    "type": "semantic",
+    "query": "RAG 系统 里 缓存策略 的实现细节",
+    "target_memory_id": "mem_00106",
+    "target_memory_content": "在 RAG 系统 项目中，我们讨论了 缓存策略 的实现方案",
+    "expected_keywords": [
+      "RAG 系统",
+      "缓存策略"
+    ]
+  },
+  {
+    "id": "q_00082",
+    "type": "hybrid",
+    "query": "王总 在 memory-lancedb-pro 中推荐的 rerank 方案",
+    "target_memory_id": "mem_00082",
+    "target_memory_content": "明天要和 王总 讨论 memory-lancedb-pro 的进度",
+    "expected_keywords": [
+      "memory-lancedb-pro",
+      "rerank"
+    ]
+  },
+  {
+    "id": "q_00158",
+    "type": "semantic",
+    "query": "知识图谱 项目中如何优化 scope",
+    "target_memory_id": "mem_00158",
+    "target_memory_content": "李老师 说他最近在研究 知识图谱",
+    "expected_keywords": [
+      "知识图谱",
+      "scope"
+    ]
+  },
+  {
+    "id": "q_00075",
+    "type": "hybrid",
+    "query": "王总 在 memory-lancedb-pro 中推荐的 embedding 方案",
+    "target_memory_id": "mem_00075",
+    "target_memory_content": "王总 说他最近在研究 memory-lancedb-pro",
+    "expected_keywords": [
+      "memory-lancedb-pro",
+      "embedding"
+    ]
+  },
+  {
+    "id": "q_00110",
+    "type": "semantic",
+    "query": "知识图谱 里 认证机制 的实现细节",
+    "target_memory_id": "mem_00110",
+    "target_memory_content": "在 知识图谱 项目中，我们讨论了 认证机制 的实现方案",
+    "expected_keywords": [
+      "知识图谱",
+      "认证机制"
+    ]
+  },
+  {
+    "id": "q_00105",
+    "type": "semantic",
+    "query": "知识图谱 里 分页加载 的实现细节",
+    "target_memory_id": "mem_00105",
+    "target_memory_content": "明天要和 张工 讨论 知识图谱 的进度",
+    "expected_keywords": [
+      "知识图谱",
+      "分页加载"
+    ]
+  },
+  {
+    "id": "q_00096",
+    "type": "hybrid",
+    "query": "详细说说 Kimi Remote API 中 认证机制 的使用",
+    "target_memory_id": "mem_00096",
+    "target_memory_content": "有人提到过类似的 认证机制 方案但不是用于 Kimi Remote API",
+    "expected_keywords": [
+      "Kimi Remote API",
+      "认证机制"
+    ]
+  },
+  {
+    "id": "q_00137",
+    "type": "keyword",
+    "query": "查找 Kimi Remote API 相关的 API 信息",
+    "target_memory_id": "mem_00137",
+    "target_memory_content": "赵博士 喜欢用 API 来处理 Kimi Remote API 相关任务",
+    "expected_keywords": [
+      "Kimi Remote API",
+      "API"
+    ]
+  },
+  {
+    "id": "q_00048",
+    "type": "keyword",
+    "query": "AI-Agent 的 认证机制 怎么配置",
+    "target_memory_id": "mem_00048",
+    "target_memory_content": "赵博士 喜欢用 认证机制 来处理 AI-Agent 相关任务",
+    "expected_keywords": [
+      "AI-Agent",
+      "认证机制"
+    ]
+  },
+  {
+    "id": "q_00162",
+    "type": "semantic",
+    "query": "Kimi Remote API 里 subagent 的实现细节",
+    "target_memory_id": "mem_00162",
+    "target_memory_content": "有人提到过类似的 subagent 方案但不是用于 Kimi Remote API",
+    "expected_keywords": [
+      "Kimi Remote API",
+      "subagent"
+    ]
+  },
+  {
+    "id": "q_00016",
+    "type": "keyword",
+    "query": "智能客服 的 API 怎么配置",
+    "target_memory_id": "mem_00016",
+    "target_memory_content": "有人提到过类似的 API 方案但不是用于 智能客服",
+    "expected_keywords": [
+      "智能客服",
+      "API"
+    ]
+  },
+  {
+    "id": "q_00069",
+    "type": "keyword",
+    "query": "Ollama 部署 的 API 怎么配置",
+    "target_memory_id": "mem_00069",
+    "target_memory_content": "有人提到过类似的 API 方案但不是用于 Ollama 部署",
+    "expected_keywords": [
+      "Ollama 部署",
+      "API"
+    ]
+  },
+  {
+    "id": "q_00141",
+    "type": "hybrid",
+    "query": "李老师 在 AI-Agent 中推荐的 subagent 方案",
+    "target_memory_id": "mem_00141",
+    "target_memory_content": "明天要和 李老师 讨论 AI-Agent 的进度",
+    "expected_keywords": [
+      "AI-Agent",
+      "subagent"
+    ]
+  },
+  {
+    "id": "q_00002",
+    "type": "semantic",
+    "query": "DSS 选股系统 项目中如何优化 rerank",
+    "target_memory_id": "mem_00002",
+    "target_memory_content": "在 DSS 选股系统 项目中，我们讨论了 rerank 的实现方案",
+    "expected_keywords": [
+      "DSS 选股系统",
+      "rerank"
+    ]
+  },
+  {
+    "id": "q_00119",
+    "type": "keyword",
+    "query": "OpenClaw 的 缓存策略 怎么配置",
+    "target_memory_id": "mem_00119",
+    "target_memory_content": "在 OpenClaw 项目中，我们讨论了 缓存策略 的实现方案",
+    "expected_keywords": [
+      "OpenClaw",
+      "缓存策略"
+    ]
+  },
+  {
+    "id": "q_00170",
+    "type": "hybrid",
+    "query": "K 在 智能客服 项目中怎么使用 认证机制",
+    "target_memory_id": "mem_00170",
+    "target_memory_content": "在 智能客服 项目中，我们讨论了 认证机制 的实现方案",
+    "expected_keywords": [
+      "智能客服",
+      "认证机制"
+    ]
+  },
+  {
+    "id": "q_00012",
+    "type": "hybrid",
+    "query": "陈工 在 知识图谱 项目中怎么使用 日志系统",
+    "target_memory_id": "mem_00012",
+    "target_memory_content": "在 知识图谱 项目中，我们讨论了 日志系统 的实现方案",
+    "expected_keywords": [
+      "知识图谱",
+      "日志系统"
+    ]
+  },
+  {
+    "id": "q_00047",
+    "type": "keyword",
+    "query": "查找 DSS 选股系统 相关的 缓存策略 信息",
+    "target_memory_id": "mem_00047",
+    "target_memory_content": "有人提到过类似的 缓存策略 方案但不是用于 DSS 选股系统",
+    "expected_keywords": [
+      "DSS 选股系统",
+      "缓存策略"
+    ]
+  },
+  {
+    "id": "q_00072",
+    "type": "keyword",
+    "query": "embedding 在 AI-Agent 中怎么用",
+    "target_memory_id": "mem_00072",
+    "target_memory_content": "在 AI-Agent 项目中，我们讨论了 embedding 的实现方案",
+    "expected_keywords": [
+      "AI-Agent",
+      "embedding"
+    ]
+  },
+  {
+    "id": "q_00103",
+    "type": "semantic",
+    "query": "AI-Agent 里 embedding 的实现细节",
+    "target_memory_id": "mem_00103",
+    "target_memory_content": "李老师 喜欢用 embedding 来处理 AI-Agent 相关任务",
+    "expected_keywords": [
+      "AI-Agent",
+      "embedding"
+    ]
+  },
+  {
+    "id": "q_00188",
+    "type": "keyword",
+    "query": "RAG 系统 的 日志系统 怎么配置",
+    "target_memory_id": "mem_00188",
+    "target_memory_content": "陈工 喜欢用 日志系统 来处理 RAG 系统 相关任务",
+    "expected_keywords": [
+      "RAG 系统",
+      "日志系统"
+    ]
+  },
+  {
+    "id": "q_00183",
+    "type": "semantic",
+    "query": "知识图谱 里 scope 的实现细节",
+    "target_memory_id": "mem_00183",
+    "target_memory_content": "明天要和 刘博 讨论 知识图谱 的进度",
+    "expected_keywords": [
+      "知识图谱",
+      "scope"
+    ]
+  },
+  {
+    "id": "q_00122",
+    "type": "hybrid",
+    "query": "详细说说 vLLM 优化 中 rerank 的使用",
+    "target_memory_id": "mem_00122",
+    "target_memory_content": "明天要和 K 讨论 vLLM 优化 的进度",
+    "expected_keywords": [
+      "vLLM 优化",
+      "rerank"
+    ]
+  },
+  {
+    "id": "q_00093",
+    "type": "hybrid",
+    "query": "详细说说 Ollama 部署 中 embedding 的使用",
+    "target_memory_id": "mem_00093",
+    "target_memory_content": "在 Ollama 部署 项目中，我们讨论了 embedding 的实现方案",
+    "expected_keywords": [
+      "Ollama 部署",
+      "embedding"
+    ]
+  },
+  {
+    "id": "q_00131",
+    "type": "keyword",
+    "query": "查找 智能客服 相关的 缓存策略 信息",
+    "target_memory_id": "mem_00131",
+    "target_memory_content": "有人提到过类似的 缓存策略 方案但不是用于 智能客服",
+    "expected_keywords": [
+      "智能客服",
+      "缓存策略"
+    ]
+  },
+  {
+    "id": "q_00111",
+    "type": "keyword",
+    "query": "查找 AI-Agent 相关的 日志系统 信息",
+    "target_memory_id": "mem_00111",
+    "target_memory_content": "有人提到过类似的 日志系统 方案但不是用于 AI-Agent",
+    "expected_keywords": [
+      "AI-Agent",
+      "日志系统"
+    ]
+  },
+  {
+    "id": "q_00029",
+    "type": "hybrid",
+    "query": "Alex 在 Ollama 部署 项目中怎么使用 API",
+    "target_memory_id": "mem_00029",
+    "target_memory_content": "Alex 说他最近在研究 Ollama 部署",
+    "expected_keywords": [
+      "Ollama 部署",
+      "API"
+    ]
+  },
+  {
+    "id": "q_00133",
+    "type": "semantic",
+    "query": "OpenClaw 项目中如何优化 日志系统",
+    "target_memory_id": "mem_00133",
+    "target_memory_content": "王总 喜欢用 日志系统 来处理 OpenClaw 相关任务",
+    "expected_keywords": [
+      "OpenClaw",
+      "日志系统"
+    ]
+  },
+  {
+    "id": "q_00097",
+    "type": "keyword",
+    "query": "Kimi Remote API 的 认证机制 怎么配置",
+    "target_memory_id": "mem_00097",
+    "target_memory_content": "陈工 说他最近在研究 Kimi Remote API",
+    "expected_keywords": [
+      "Kimi Remote API",
+      "认证机制"
+    ]
+  },
+  {
+    "id": "q_00194",
+    "type": "keyword",
+    "query": "查找 AI-Agent 相关的 scope 信息",
+    "target_memory_id": "mem_00194",
+    "target_memory_content": "李老师 说他最近在研究 AI-Agent",
+    "expected_keywords": [
+      "AI-Agent",
+      "scope"
+    ]
+  },
+  {
+    "id": "q_00020",
+    "type": "hybrid",
+    "query": "李老师 在 vLLM 优化 项目中怎么使用 认证机制",
+    "target_memory_id": "mem_00020",
+    "target_memory_content": "有人提到过类似的 认证机制 方案但不是用于 vLLM 优化",
+    "expected_keywords": [
+      "vLLM 优化",
+      "认证机制"
+    ]
+  },
+  {
+    "id": "q_00199",
+    "type": "hybrid",
+    "query": "Sarah 在 AI-Agent 中推荐的 日志系统 方案",
+    "target_memory_id": "mem_00199",
+    "target_memory_content": "Sarah 喜欢用 日志系统 来处理 AI-Agent 相关任务",
+    "expected_keywords": [
+      "AI-Agent",
+      "日志系统"
+    ]
+  },
+  {
+    "id": "q_00030",
+    "type": "semantic",
+    "query": "DSS 选股系统 项目中如何优化 分页加载",
+    "target_memory_id": "mem_00030",
+    "target_memory_content": "刘博 喜欢用 分页加载 来处理 DSS 选股系统 相关任务",
+    "expected_keywords": [
+      "DSS 选股系统",
+      "分页加载"
+    ]
+  },
+  {
+    "id": "q_00087",
+    "type": "hybrid",
+    "query": "陈工 在 智能客服 项目中怎么使用 认证机制",
+    "target_memory_id": "mem_00087",
+    "target_memory_content": "明天要和 陈工 讨论 智能客服 的进度",
+    "expected_keywords": [
+      "智能客服",
+      "认证机制"
+    ]
+  },
+  {
+    "id": "q_00146",
+    "type": "hybrid",
+    "query": "李老师 在 OpenClaw 项目中怎么使用 API",
+    "target_memory_id": "mem_00146",
+    "target_memory_content": "李老师 说他最近在研究 OpenClaw",
+    "expected_keywords": [
+      "OpenClaw",
+      "API"
+    ]
+  },
+  {
+    "id": "q_00181",
+    "type": "hybrid",
+    "query": "详细说说 AI-Agent 中 rerank 的使用",
+    "target_memory_id": "mem_00181",
+    "target_memory_content": "陈工 说他最近在研究 AI-Agent",
+    "expected_keywords": [
+      "AI-Agent",
+      "rerank"
+    ]
+  },
+  {
+    "id": "q_00066",
+    "type": "semantic",
+    "query": "关于 知识图谱 的 BM25 最佳实践",
+    "target_memory_id": "mem_00066",
+    "target_memory_content": "明天要和 张工 讨论 知识图谱 的进度",
+    "expected_keywords": [
+      "知识图谱",
+      "BM25"
+    ]
+  },
+  {
+    "id": "q_00043",
+    "type": "hybrid",
+    "query": "吴博士 在 OpenClaw 项目中怎么使用 认证机制",
+    "target_memory_id": "mem_00043",
+    "target_memory_content": "在 OpenClaw 项目中，我们讨论了 认证机制 的实现方案",
+    "expected_keywords": [
+      "OpenClaw",
+      "认证机制"
+    ]
+  },
+  {
+    "id": "q_00070",
+    "type": "hybrid",
+    "query": "详细说说 OpenClaw 中 分页加载 的使用",
+    "target_memory_id": "mem_00070",
+    "target_memory_content": "Alex 说他最近在研究 OpenClaw",
+    "expected_keywords": [
+      "OpenClaw",
+      "分页加载"
+    ]
+  },
+  {
+    "id": "q_00129",
+    "type": "hybrid",
+    "query": "详细说说 memory-lancedb-pro 中 向量检索 的使用",
+    "target_memory_id": "mem_00129",
+    "target_memory_content": "K 喜欢用 向量检索 来处理 memory-lancedb-pro 相关任务",
+    "expected_keywords": [
+      "memory-lancedb-pro",
+      "向量检索"
+    ]
+  },
+  {
+    "id": "q_00136",
+    "type": "hybrid",
+    "query": "张工 在 memory-lancedb-pro 中推荐的 日志系统 方案",
+    "target_memory_id": "mem_00136",
+    "target_memory_content": "在 memory-lancedb-pro 项目中，我们讨论了 日志系统 的实现方案",
+    "expected_keywords": [
+      "memory-lancedb-pro",
+      "日志系统"
+    ]
+  },
+  {
+    "id": "q_00150",
+    "type": "keyword",
+    "query": "向量检索 在 OpenClaw 中怎么用",
+    "target_memory_id": "mem_00150",
+    "target_memory_content": "在 OpenClaw 项目中，我们讨论了 向量检索 的实现方案",
+    "expected_keywords": [
+      "OpenClaw",
+      "向量检索"
+    ]
+  },
+  {
+    "id": "q_00139",
+    "type": "semantic",
+    "query": "关于 Ollama 部署 的 BM25 最佳实践",
+    "target_memory_id": "mem_00139",
+    "target_memory_content": "明天要和 赵博士 讨论 Ollama 部署 的进度",
+    "expected_keywords": [
+      "Ollama 部署",
+      "BM25"
+    ]
+  },
+  {
+    "id": "q_00175",
+    "type": "keyword",
+    "query": "查找 知识图谱 相关的 BM25 信息",
+    "target_memory_id": "mem_00175",
+    "target_memory_content": "在 知识图谱 项目中，我们讨论了 BM25 的实现方案",
+    "expected_keywords": [
+      "知识图谱",
+      "BM25"
+    ]
+  },
+  {
+    "id": "q_00052",
+    "type": "semantic",
+    "query": "OpenClaw 里 rerank 的实现细节",
+    "target_memory_id": "mem_00052",
+    "target_memory_content": "明天要和 刘博 讨论 OpenClaw 的进度",
+    "expected_keywords": [
+      "OpenClaw",
+      "rerank"
+    ]
+  },
+  {
+    "id": "q_00045",
+    "type": "semantic",
+    "query": "RAG 系统 项目中如何优化 性能优化",
+    "target_memory_id": "mem_00045",
+    "target_memory_content": "陈工 说他最近在研究 RAG 系统",
+    "expected_keywords": [
+      "RAG 系统",
+      "性能优化"
+    ]
+  },
+  {
+    "id": "q_00107",
+    "type": "semantic",
+    "query": "关于 DSS 选股系统 的 认证机制 最佳实践",
+    "target_memory_id": "mem_00107",
+    "target_memory_content": "张工 说他最近在研究 DSS 选股系统",
+    "expected_keywords": [
+      "DSS 选股系统",
+      "认证机制"
+    ]
+  },
+  {
+    "id": "q_00084",
+    "type": "hybrid",
+    "query": "详细说说 Ollama 部署 中 BM25 的使用",
+    "target_memory_id": "mem_00084",
+    "target_memory_content": "刘博 喜欢用 BM25 来处理 Ollama 部署 相关任务",
+    "expected_keywords": [
+      "Ollama 部署",
+      "BM25"
+    ]
+  },
+  {
+    "id": "q_00173",
+    "type": "keyword",
+    "query": "Kimi Remote API 的 认证机制 怎么配置",
+    "target_memory_id": "mem_00173",
+    "target_memory_content": "在 Kimi Remote API 项目中，我们讨论了 认证机制 的实现方案",
+    "expected_keywords": [
+      "Kimi Remote API",
+      "认证机制"
+    ]
+  },
+  {
+    "id": "q_00024",
+    "type": "keyword",
+    "query": "BM25 在 知识图谱 中怎么用",
+    "target_memory_id": "mem_00024",
+    "target_memory_content": "Alex 喜欢用 BM25 来处理 知识图谱 相关任务",
+    "expected_keywords": [
+      "知识图谱",
+      "BM25"
+    ]
+  },
+  {
+    "id": "q_00034",
+    "type": "hybrid",
+    "query": "张工 在 Ollama 部署 中推荐的 scope 方案",
+    "target_memory_id": "mem_00034",
+    "target_memory_content": "张工 喜欢用 scope 来处理 Ollama 部署 相关任务",
+    "expected_keywords": [
+      "Ollama 部署",
+      "scope"
+    ]
+  },
+  {
+    "id": "q_00094",
+    "type": "semantic",
+    "query": "AI-Agent 项目中如何优化 embedding",
+    "target_memory_id": "mem_00094",
+    "target_memory_content": "明天要和 吴博士 讨论 AI-Agent 的进度",
+    "expected_keywords": [
+      "AI-Agent",
+      "embedding"
+    ]
+  },
+  {
+    "id": "q_00149",
+    "type": "semantic",
+    "query": "关于 DSS 选股系统 的 subagent 最佳实践",
+    "target_memory_id": "mem_00149",
+    "target_memory_content": "明天要和 赵博士 讨论 DSS 选股系统 的进度",
+    "expected_keywords": [
+      "DSS 选股系统",
+      "subagent"
+    ]
+  },
+  {
+    "id": "q_00009",
+    "type": "keyword",
+    "query": "认证机制 在 DSS 选股系统 中怎么用",
+    "target_memory_id": "mem_00009",
+    "target_memory_content": "Alex 喜欢用 认证机制 来处理 DSS 选股系统 相关任务",
+    "expected_keywords": [
+      "DSS 选股系统",
+      "认证机制"
+    ]
+  },
+  {
+    "id": "q_00113",
+    "type": "hybrid",
+    "query": "详细说说 Kimi Remote API 中 向量检索 的使用",
+    "target_memory_id": "mem_00113",
+    "target_memory_content": "K 喜欢用 向量检索 来处理 Kimi Remote API 相关任务",
+    "expected_keywords": [
+      "Kimi Remote API",
+      "向量检索"
+    ]
+  },
+  {
+    "id": "q_00080",
+    "type": "semantic",
+    "query": "OpenClaw 项目中如何优化 subagent",
+    "target_memory_id": "mem_00080",
+    "target_memory_content": "有人提到过类似的 subagent 方案但不是用于 OpenClaw",
+    "expected_keywords": [
+      "OpenClaw",
+      "subagent"
+    ]
+  },
+  {
+    "id": "q_00011",
+    "type": "keyword",
+    "query": "AI-Agent 的 性能优化 怎么配置",
+    "target_memory_id": "mem_00011",
+    "target_memory_content": "在 AI-Agent 项目中，我们讨论了 性能优化 的实现方案",
+    "expected_keywords": [
+      "AI-Agent",
+      "性能优化"
+    ]
+  },
+  {
+    "id": "q_00025",
+    "type": "semantic",
+    "query": "知识图谱 项目中如何优化 embedding",
+    "target_memory_id": "mem_00025",
+    "target_memory_content": "在 知识图谱 项目中，我们讨论了 embedding 的实现方案",
+    "expected_keywords": [
+      "知识图谱",
+      "embedding"
+    ]
+  },
+  {
+    "id": "q_00036",
+    "type": "semantic",
+    "query": "AI-Agent 项目中如何优化 subagent",
+    "target_memory_id": "mem_00036",
+    "target_memory_content": "在 AI-Agent 项目中，我们讨论了 subagent 的实现方案",
+    "expected_keywords": [
+      "AI-Agent",
+      "subagent"
+    ]
+  },
+  {
+    "id": "q_00186",
+    "type": "semantic",
+    "query": "AI-Agent 项目中如何优化 rerank",
+    "target_memory_id": "mem_00186",
+    "target_memory_content": "明天要和 张工 讨论 AI-Agent 的进度",
+    "expected_keywords": [
+      "AI-Agent",
+      "rerank"
+    ]
+  },
+  {
+    "id": "q_00049",
+    "type": "semantic",
+    "query": "关于 memory-lancedb-pro 的 性能优化 最佳实践",
+    "target_memory_id": "mem_00049",
+    "target_memory_content": "刘博 喜欢用 性能优化 来处理 memory-lancedb-pro 相关任务",
+    "expected_keywords": [
+      "memory-lancedb-pro",
+      "性能优化"
+    ]
+  },
+  {
+    "id": "q_00057",
+    "type": "hybrid",
+    "query": "详细说说 知识图谱 中 缓存策略 的使用",
+    "target_memory_id": "mem_00057",
+    "target_memory_content": "有人提到过类似的 缓存策略 方案但不是用于 知识图谱",
+    "expected_keywords": [
+      "知识图谱",
+      "缓存策略"
+    ]
+  },
+  {
+    "id": "q_00091",
+    "type": "semantic",
+    "query": "Kimi Remote API 里 日志系统 的实现细节",
+    "target_memory_id": "mem_00091",
+    "target_memory_content": "有人提到过类似的 日志系统 方案但不是用于 Kimi Remote API",
+    "expected_keywords": [
+      "Kimi Remote API",
+      "日志系统"
+    ]
+  },
+  {
+    "id": "q_00165",
+    "type": "keyword",
+    "query": "知识图谱 的 API 怎么配置",
+    "target_memory_id": "mem_00165",
+    "target_memory_content": "明天要和 Sarah 讨论 知识图谱 的进度",
+    "expected_keywords": [
+      "知识图谱",
+      "API"
+    ]
+  },
+  {
+    "id": "q_00059",
+    "type": "keyword",
+    "query": "查找 智能客服 相关的 subagent 信息",
+    "target_memory_id": "mem_00059",
+    "target_memory_content": "明天要和 赵博士 讨论 智能客服 的进度",
+    "expected_keywords": [
+      "智能客服",
+      "subagent"
+    ]
+  },
+  {
+    "id": "q_00198",
+    "type": "keyword",
+    "query": "向量检索 在 RAG 系统 中怎么用",
+    "target_memory_id": "mem_00198",
+    "target_memory_content": "有人提到过类似的 向量检索 方案但不是用于 RAG 系统",
+    "expected_keywords": [
+      "RAG 系统",
+      "向量检索"
+    ]
+  },
+  {
+    "id": "q_00128",
+    "type": "semantic",
+    "query": "关于 Kimi Remote API 的 subagent 最佳实践",
+    "target_memory_id": "mem_00128",
+    "target_memory_content": "在 Kimi Remote API 项目中，我们讨论了 subagent 的实现方案",
+    "expected_keywords": [
+      "Kimi Remote API",
+      "subagent"
+    ]
+  },
+  {
+    "id": "q_00156",
+    "type": "keyword",
+    "query": "Ollama 部署 的 subagent 怎么配置",
+    "target_memory_id": "mem_00156",
+    "target_memory_content": "K 说他最近在研究 Ollama 部署",
+    "expected_keywords": [
+      "Ollama 部署",
+      "subagent"
+    ]
+  },
+  {
+    "id": "q_00013",
+    "type": "hybrid",
+    "query": "王总 在 智能客服 项目中怎么使用 缓存策略",
+    "target_memory_id": "mem_00013",
+    "target_memory_content": "王总 说他最近在研究 智能客服",
+    "expected_keywords": [
+      "智能客服",
+      "缓存策略"
+    ]
+  },
+  {
+    "id": "q_00145",
+    "type": "hybrid",
+    "query": "详细说说 知识图谱 中 API 的使用",
+    "target_memory_id": "mem_00145",
+    "target_memory_content": "明天要和 K 讨论 知识图谱 的进度",
+    "expected_keywords": [
+      "知识图谱",
+      "API"
+    ]
+  },
+  {
+    "id": "q_00200",
+    "type": "semantic",
+    "query": "知识图谱 里 日志系统 的实现细节",
+    "target_memory_id": "mem_00200",
+    "target_memory_content": "赵博士 说他最近在研究 知识图谱",
+    "expected_keywords": [
+      "知识图谱",
+      "日志系统"
+    ]
+  },
+  {
+    "id": "q_00071",
+    "type": "semantic",
+    "query": "关于 RAG 系统 的 API 最佳实践",
+    "target_memory_id": "mem_00071",
+    "target_memory_content": "陈工 说他最近在研究 RAG 系统",
+    "expected_keywords": [
+      "RAG 系统",
+      "API"
+    ]
+  },
+  {
+    "id": "q_00102",
+    "type": "hybrid",
+    "query": "Alex 在 Kimi Remote API 项目中怎么使用 向量检索",
+    "target_memory_id": "mem_00102",
+    "target_memory_content": "Alex 喜欢用 向量检索 来处理 Kimi Remote API 相关任务",
+    "expected_keywords": [
+      "Kimi Remote API",
+      "向量检索"
+    ]
+  },
+  {
+    "id": "q_00169",
+    "type": "semantic",
+    "query": "关于 智能客服 的 认证机制 最佳实践",
+    "target_memory_id": "mem_00169",
+    "target_memory_content": "在 智能客服 项目中，我们讨论了 认证机制 的实现方案",
+    "expected_keywords": [
+      "智能客服",
+      "认证机制"
+    ]
+  },
+  {
+    "id": "q_00006",
+    "type": "semantic",
+    "query": "memory-lancedb-pro 项目中如何优化 分页加载",
+    "target_memory_id": "mem_00006",
+    "target_memory_content": "在 memory-lancedb-pro 项目中，我们讨论了 分页加载 的实现方案",
+    "expected_keywords": [
+      "memory-lancedb-pro",
+      "分页加载"
+    ]
+  },
+  {
+    "id": "q_00197",
+    "type": "hybrid",
+    "query": "陈工 在 RAG 系统 项目中怎么使用 缓存策略",
+    "target_memory_id": "mem_00197",
+    "target_memory_content": "明天要和 陈工 讨论 RAG 系统 的进度",
+    "expected_keywords": [
+      "RAG 系统",
+      "缓存策略"
+    ]
+  },
+  {
+    "id": "q_00076",
+    "type": "keyword",
+    "query": "查找 DSS 选股系统 相关的 认证机制 信息",
+    "target_memory_id": "mem_00076",
+    "target_memory_content": "明天要和 K 讨论 DSS 选股系统 的进度",
+    "expected_keywords": [
+      "DSS 选股系统",
+      "认证机制"
+    ]
+  },
+  {
+    "id": "q_00148",
+    "type": "keyword",
+    "query": "Kimi Remote API 的 分页加载 怎么配置",
+    "target_memory_id": "mem_00148",
+    "target_memory_content": "赵博士 喜欢用 分页加载 来处理 Kimi Remote API 相关任务",
+    "expected_keywords": [
+      "Kimi Remote API",
+      "分页加载"
+    ]
+  },
+  {
+    "id": "q_00092",
+    "type": "keyword",
+    "query": "scope 在 Kimi Remote API 中怎么用",
+    "target_memory_id": "mem_00092",
+    "target_memory_content": "Alex 说他最近在研究 Kimi Remote API",
+    "expected_keywords": [
+      "Kimi Remote API",
+      "scope"
+    ]
+  },
+  {
+    "id": "q_00147",
+    "type": "hybrid",
+    "query": "赵博士 在 DSS 选股系统 项目中怎么使用 API",
+    "target_memory_id": "mem_00147",
+    "target_memory_content": "赵博士 说他最近在研究 DSS 选股系统",
+    "expected_keywords": [
+      "DSS 选股系统",
+      "API"
+    ]
+  },
+  {
+    "id": "q_00098",
+    "type": "keyword",
+    "query": "缓存策略 在 memory-lancedb-pro 中怎么用",
+    "target_memory_id": "mem_00098",
+    "target_memory_content": "在 memory-lancedb-pro 项目中，我们讨论了 缓存策略 的实现方案",
+    "expected_keywords": [
+      "memory-lancedb-pro",
+      "缓存策略"
+    ]
+  },
+  {
+    "id": "q_00061",
+    "type": "keyword",
+    "query": "RAG 系统 的 分页加载 怎么配置",
+    "target_memory_id": "mem_00061",
+    "target_memory_content": "有人提到过类似的 分页加载 方案但不是用于 RAG 系统",
+    "expected_keywords": [
+      "RAG 系统",
+      "分页加载"
+    ]
+  },
+  {
+    "id": "q_00028",
+    "type": "keyword",
+    "query": "查找 vLLM 优化 相关的 缓存策略 信息",
+    "target_memory_id": "mem_00028",
+    "target_memory_content": "明天要和 Alex 讨论 vLLM 优化 的进度",
+    "expected_keywords": [
+      "vLLM 优化",
+      "缓存策略"
+    ]
+  },
+  {
+    "id": "q_00124",
+    "type": "hybrid",
+    "query": "Sarah 在 memory-lancedb-pro 中推荐的 认证机制 方案",
+    "target_memory_id": "mem_00124",
+    "target_memory_content": "明天要和 Sarah 讨论 memory-lancedb-pro 的进度",
+    "expected_keywords": [
+      "memory-lancedb-pro",
+      "认证机制"
+    ]
+  },
+  {
+    "id": "q_00099",
+    "type": "keyword",
+    "query": "OpenClaw 的 BM25 怎么配置",
+    "target_memory_id": "mem_00099",
+    "target_memory_content": "有人提到过类似的 BM25 方案但不是用于 OpenClaw",
+    "expected_keywords": [
+      "OpenClaw",
+      "BM25"
+    ]
+  },
+  {
+    "id": "q_00051",
+    "type": "hybrid",
+    "query": "刘博 在 vLLM 优化 中推荐的 scope 方案",
+    "target_memory_id": "mem_00051",
+    "target_memory_content": "刘博 说他最近在研究 vLLM 优化",
+    "expected_keywords": [
+      "vLLM 优化",
+      "scope"
+    ]
+  },
+  {
+    "id": "q_00078",
+    "type": "semantic",
+    "query": "关于 AI-Agent 的 认证机制 最佳实践",
+    "target_memory_id": "mem_00078",
+    "target_memory_content": "刘博 说他最近在研究 AI-Agent",
+    "expected_keywords": [
+      "AI-Agent",
+      "认证机制"
+    ]
+  },
+  {
+    "id": "q_00117",
+    "type": "semantic",
+    "query": "知识图谱 项目中如何优化 认证机制",
+    "target_memory_id": "mem_00117",
+    "target_memory_content": "明天要和 陈工 讨论 知识图谱 的进度",
+    "expected_keywords": [
+      "知识图谱",
+      "认证机制"
+    ]
+  },
+  {
+    "id": "q_00065",
+    "type": "hybrid",
+    "query": "K 在 知识图谱 中推荐的 性能优化 方案",
+    "target_memory_id": "mem_00065",
+    "target_memory_content": "有人提到过类似的 性能优化 方案但不是用于 知识图谱",
+    "expected_keywords": [
+      "知识图谱",
+      "性能优化"
+    ]
+  },
+  {
+    "id": "q_00177",
+    "type": "keyword",
+    "query": "BM25 在 知识图谱 中怎么用",
+    "target_memory_id": "mem_00177",
+    "target_memory_content": "K 说他最近在研究 知识图谱",
+    "expected_keywords": [
+      "知识图谱",
+      "BM25"
+    ]
+  },
+  {
+    "id": "q_00109",
+    "type": "semantic",
+    "query": "关于 OpenClaw 的 rerank 最佳实践",
+    "target_memory_id": "mem_00109",
+    "target_memory_content": "Sarah 喜欢用 rerank 来处理 OpenClaw 相关任务",
+    "expected_keywords": [
+      "OpenClaw",
+      "rerank"
+    ]
+  },
+  {
+    "id": "q_00164",
+    "type": "semantic",
+    "query": "vLLM 优化 里 API 的实现细节",
+    "target_memory_id": "mem_00164",
+    "target_memory_content": "吴博士 喜欢用 API 来处理 vLLM 优化 相关任务",
+    "expected_keywords": [
+      "vLLM 优化",
+      "API"
+    ]
+  },
+  {
+    "id": "q_00077",
+    "type": "semantic",
+    "query": "Kimi Remote API 项目中如何优化 分页加载",
+    "target_memory_id": "mem_00077",
+    "target_memory_content": "张工 说他最近在研究 Kimi Remote API",
+    "expected_keywords": [
+      "Kimi Remote API",
+      "分页加载"
+    ]
+  },
+  {
+    "id": "q_00151",
+    "type": "hybrid",
+    "query": "吴博士 在 AI-Agent 项目中怎么使用 subagent",
+    "target_memory_id": "mem_00151",
+    "target_memory_content": "明天要和 吴博士 讨论 AI-Agent 的进度",
+    "expected_keywords": [
+      "AI-Agent",
+      "subagent"
+    ]
+  },
+  {
+    "id": "q_00089",
+    "type": "semantic",
+    "query": "vLLM 优化 里 性能优化 的实现细节",
+    "target_memory_id": "mem_00089",
+    "target_memory_content": "Sarah 说他最近在研究 vLLM 优化",
+    "expected_keywords": [
+      "vLLM 优化",
+      "性能优化"
+    ]
+  },
+  {
+    "id": "q_00114",
+    "type": "hybrid",
+    "query": "陈工 在 vLLM 优化 中推荐的 rerank 方案",
+    "target_memory_id": "mem_00114",
+    "target_memory_content": "在 vLLM 优化 项目中，我们讨论了 rerank 的实现方案",
+    "expected_keywords": [
+      "vLLM 优化",
+      "rerank"
+    ]
+  },
+  {
+    "id": "q_00019",
+    "type": "hybrid",
+    "query": "详细说说 RAG 系统 中 缓存策略 的使用",
+    "target_memory_id": "mem_00019",
+    "target_memory_content": "李老师 说他最近在研究 RAG 系统",
+    "expected_keywords": [
+      "RAG 系统",
+      "缓存策略"
+    ]
+  },
+  {
+    "id": "q_00041",
+    "type": "keyword",
+    "query": "Kimi Remote API 的 认证机制 怎么配置",
+    "target_memory_id": "mem_00041",
+    "target_memory_content": "张工 喜欢用 认证机制 来处理 Kimi Remote API 相关任务",
+    "expected_keywords": [
+      "Kimi Remote API",
+      "认证机制"
+    ]
+  },
+  {
+    "id": "q_00140",
+    "type": "semantic",
+    "query": "关于 智能客服 的 scope 最佳实践",
+    "target_memory_id": "mem_00140",
+    "target_memory_content": "有人提到过类似的 scope 方案但不是用于 智能客服",
+    "expected_keywords": [
+      "智能客服",
+      "scope"
+    ]
+  },
+  {
+    "id": "q_00174",
+    "type": "hybrid",
+    "query": "王总 在 vLLM 优化 项目中怎么使用 日志系统",
+    "target_memory_id": "mem_00174",
+    "target_memory_content": "有人提到过类似的 日志系统 方案但不是用于 vLLM 优化",
+    "expected_keywords": [
+      "vLLM 优化",
+      "日志系统"
+    ]
+  },
+  {
+    "id": "q_00074",
+    "type": "semantic",
+    "query": "RAG 系统 项目中如何优化 向量检索",
+    "target_memory_id": "mem_00074",
+    "target_memory_content": "张工 说他最近在研究 RAG 系统",
+    "expected_keywords": [
+      "RAG 系统",
+      "向量检索"
+    ]
+  },
+  {
+    "id": "q_00120",
+    "type": "semantic",
+    "query": "AI-Agent 里 向量检索 的实现细节",
+    "target_memory_id": "mem_00120",
+    "target_memory_content": "有人提到过类似的 向量检索 方案但不是用于 AI-Agent",
+    "expected_keywords": [
+      "AI-Agent",
+      "向量检索"
+    ]
+  },
+  {
+    "id": "q_00003",
+    "type": "hybrid",
+    "query": "详细说说 AI-Agent 中 缓存策略 的使用",
+    "target_memory_id": "mem_00003",
+    "target_memory_content": "在 AI-Agent 项目中，我们讨论了 缓存策略 的实现方案",
+    "expected_keywords": [
+      "AI-Agent",
+      "缓存策略"
+    ]
+  }
+]

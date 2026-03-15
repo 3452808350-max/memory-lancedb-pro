@@ -1,14 +1,14 @@
 {
-  "name": "@openclaw/memory-lancedb-pro",
+  "name": "@openclaw/MemQ",
   "version": "2026.2.16",
   "private": true,
-  "description": "Enhanced LanceDB memory plugin with hybrid retrieval (Vector + BM25), cross-encoder rerank, and multi-scope isolation",
+  "description": "MemQ: Quality-Aware Memory Retrieval for LLM Agents",
   "description:zh-CN": "增强型 LanceDB 记忆插件，支持混合检索（Vector + BM25）、Cross-Encoder Rerank 和多 Scope 隔离",
   "type": "module",
   "main": "index.ts",
   "repository": {
     "type": "git",
-    "url": "https://github.com/3452808350-max/memory-lancedb-pro.git"
+    "url": "https://github.com/3452808350-max/MemQ.git"
   },
   "keywords": [
     "openclaw",

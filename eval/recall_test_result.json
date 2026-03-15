@@ -1,0 +1,172 @@
+{
+  "timestamp": "2026-03-13T13:48:43.210Z",
+  "model": "kimi-k2.5",
+  "total": 10,
+  "success": 7,
+  "partial": 1,
+  "failed": 2,
+  "recall_rate": "75.0",
+  "by_category": {
+    "preference": {
+      "total": 3,
+      "success": 3,
+      "partial": 0
+    },
+    "fact": {
+      "total": 5,
+      "success": 2,
+      "partial": 1
+    },
+    "decision": {
+      "total": 2,
+      "success": 2,
+      "partial": 0
+    }
+  },
+  "details": [
+    {
+      "query": "K 的性格特点是什么？",
+      "category": "preference",
+      "expected": [
+        "专注",
+        "好奇",
+        "独立"
+      ],
+      "retrieved_count": 5,
+      "success": true,
+      "partial": false,
+      "score": 100,
+      "eval": "1. 是\n2. 无\n3. 100 分"
+    },
+    {
+      "query": "K 的价值观是什么？",
+      "category": "preference",
+      "expected": [
+        "自由",
+        "平等"
+      ],
+      "retrieved_count": 5,
+      "success": true,
+      "partial": false,
+      "score": 0,
+      "eval": "1. 是\n2. 无\n3. 100"
+    },
+    {
+      "query": "K 有什么特长？",
+      "category": "preference",
+      "expected": [
+        "技术",
+        "摄影",
+        "HiFi",
+        "电脑硬件"
+      ],
+      "retrieved_count": 5,
+      "success": true,
+      "partial": false,
+      "score": 0,
+      "eval": "1. 是\n2. 无\n3. 100"
+    },
+    {
+      "query": "MemQ 项目的检索率提升了多少？",
+      "category": "fact",
+      "expected": [
+        "68%",
+        "78%",
+        "15%"
+      ],
+      "retrieved_count": 5,
+      "success": false,
+      "partial": false,
+      "score": 0,
+      "eval": "1. **否**\n\n2. 缺少所有期望的关键信息：68%、78%、15%（这些数字代表检索率提升的具体数值，检索结果中完全未提及）\n\n3. **0 分**"
+    },
+    {
+      "query": "K 申请的是哪所韩国大学？",
+      "category": "fact",
+      "expected": [
+        "成均馆",
+        "Sungkyunkwan"
+      ],
+      "retrieved_count": 5,
+      "success": true,
+      "partial": false,
+      "score": 100,
+      "eval": "1. 是\n2. 无\n3. 100 分"
+    },
+    {
+      "query": "K 的技术实践经历有哪些？",
+      "category": "fact",
+      "expected": [
+        "OpenWrt",
+        "Linux",
+        "VPS",
+        "Ollama",
+        "vLLM"
+      ],
+      "retrieved_count": 5,
+      "success": false,
+      "partial": false,
+      "score": 0,
+      "eval": "1. 否\n2. 缺少：OpenWrt, Linux, VPS, Ollama, vLLM（所有具体技术实践均未提及）\n3. 0 分"
+    },
+    {
+      "query": "K 的母亲对 K 有什么影响？",
+      "category": "fact",
+      "expected": [
+        "西方教育",
+        "自由",
+        "平等",
+        "开明"
+      ],
+      "retrieved_count": 5,
+      "success": false,
+      "partial": true,
+      "score": 75,
+      "eval": "1. **部分**\n\n2. **缺少：开明**（\"西方教育、自由、平等\"已包含，\"开明\"未明确提及）\n\n3. **75 分**"
+    },
+    {
+      "query": "K 毕业后想做什么？",
+      "category": "decision",
+      "expected": [
+        "三星",
+        "Naver",
+        "AI 工程师"
+      ],
+      "retrieved_count": 5,
+      "success": true,
+      "partial": false,
+      "score": 0,
+      "eval": "1. 是\n2. 无\n3. 100"
+    },
+    {
+      "query": "K 遇到过什么困难？",
+      "category": "fact",
+      "expected": [
+        "AI Brain Fry",
+        "FOMO",
+        "焦虑"
+      ],
+      "retrieved_count": 5,
+      "success": true,
+      "partial": false,
+      "score": 0,
+      "eval": "1. 是\n2. 无\n3. 100"
+    },
+    {
+      "query": "K 的学习计划是什么？",
+      "category": "decision",
+      "expected": [
+        "大一",
+        "大二",
+        "大三",
+        "大四",
+        "实习"
+      ],
+      "retrieved_count": 5,
+      "success": true,
+      "partial": false,
+      "score": 0,
+      "eval": "1. 是\n2. 无\n3. 100"
+    }
+  ]
+}

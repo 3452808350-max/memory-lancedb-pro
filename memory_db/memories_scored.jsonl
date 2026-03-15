@@ -1,0 +1,500 @@
+{"id": "mem_00001", "type": "event", "content": "明天要和 刘博 讨论 RAG 系统 的进度", "metadata": {"person": "刘博", "project": "RAG 系统", "tech": "scope"}, "quality_score": 0.9900000000000001}
+{"id": "mem_00002", "type": "code", "content": "在 Kimi Remote API 项目中，我们讨论了 日志系统 的实现方案", "metadata": {"person": "吴博士", "project": "Kimi Remote API", "tech": "日志系统"}, "quality_score": 0.9504}
+{"id": "mem_00003", "type": "noise", "content": "有人提到过类似的 BM25 方案但不是用于 Kimi Remote API", "metadata": {"person": "吴博士", "project": "Kimi Remote API", "tech": "BM25"}, "quality_score": 0.2376}
+{"id": "mem_00004", "type": "code", "content": "在 知识图谱 项目中，我们讨论了 日志系统 的实现方案", "metadata": {"person": "Alex", "project": "知识图谱", "tech": "日志系统"}, "quality_score": 0.9504}
+{"id": "mem_00005", "type": "code", "content": "在 memory-lancedb-pro 项目中，我们讨论了 认证机制 的实现方案", "metadata": {"person": "赵博士", "project": "memory-lancedb-pro", "tech": "认证机制"}, "quality_score": 0.792}
+{"id": "mem_00006", "type": "knowledge", "content": "赵博士 喜欢用 subagent 来处理 DSS 选股系统 相关任务", "metadata": {"person": "赵博士", "project": "DSS 选股系统", "tech": "subagent"}, "quality_score": 1.0}
+{"id": "mem_00007", "type": "conversation", "content": "吴博士 说他最近在研究 RAG 系统", "metadata": {"person": "吴博士", "project": "RAG 系统", "tech": "性能优化"}, "quality_score": 0.7920000000000001}
+{"id": "mem_00008", "type": "noise", "content": "有人提到过类似的 认证机制 方案但不是用于 智能客服", "metadata": {"person": "Alex", "project": "智能客服", "tech": "认证机制"}, "quality_score": 0.1584}
+{"id": "mem_00009", "type": "event", "content": "明天要和 赵博士 讨论 Ollama 部署 的进度", "metadata": {"person": "赵博士", "project": "Ollama 部署", "tech": "rerank"}, "quality_score": 0.9900000000000001}
+{"id": "mem_00010", "type": "code", "content": "在 AI-Agent 项目中，我们讨论了 认证机制 的实现方案", "metadata": {"person": "Alex", "project": "AI-Agent", "tech": "认证机制"}, "quality_score": 0.9504}
+{"id": "mem_00011", "type": "knowledge", "content": "王总 喜欢用 认证机制 来处理 Kimi Remote API 相关任务", "metadata": {"person": "王总", "project": "Kimi Remote API", "tech": "认证机制"}, "quality_score": 1.0}
+{"id": "mem_00012", "type": "code", "content": "在 memory-lancedb-pro 项目中，我们讨论了 分页加载 的实现方案", "metadata": {"person": "王总", "project": "memory-lancedb-pro", "tech": "分页加载"}, "quality_score": 0.792}
+{"id": "mem_00013", "type": "event", "content": "明天要和 K 讨论 Kimi Remote API 的进度", "metadata": {"person": "K", "project": "Kimi Remote API", "tech": "subagent"}, "quality_score": 1.0}
+{"id": "mem_00014", "type": "code", "content": "在 DSS 选股系统 项目中，我们讨论了 scope 的实现方案", "metadata": {"person": "陈工", "project": "DSS 选股系统", "tech": "scope"}, "quality_score": 0.9504}
+{"id": "mem_00015", "type": "conversation", "content": "Alex 说他最近在研究 OpenClaw", "metadata": {"person": "Alex", "project": "OpenClaw", "tech": "rerank"}, "quality_score": 1.0}
+{"id": "mem_00016", "type": "event", "content": "明天要和 吴博士 讨论 memory-lancedb-pro 的进度", "metadata": {"person": "吴博士", "project": "memory-lancedb-pro", "tech": "分页加载"}, "quality_score": 0.7920000000000001}
+{"id": "mem_00017", "type": "code", "content": "在 vLLM 优化 项目中，我们讨论了 性能优化 的实现方案", "metadata": {"person": "李老师", "project": "vLLM 优化", "tech": "性能优化"}, "quality_score": 0.792}
+{"id": "mem_00018", "type": "noise", "content": "有人提到过类似的 向量检索 方案但不是用于 AI-Agent", "metadata": {"person": "Alex", "project": "AI-Agent", "tech": "向量检索"}, "quality_score": 0.2376}
+{"id": "mem_00019", "type": "conversation", "content": "吴博士 说他最近在研究 智能客服", "metadata": {"person": "吴博士", "project": "智能客服", "tech": "BM25"}, "quality_score": 0.6336000000000002}
+{"id": "mem_00020", "type": "event", "content": "明天要和 Sarah 讨论 AI-Agent 的进度", "metadata": {"person": "Sarah", "project": "AI-Agent", "tech": "认证机制"}, "quality_score": 1.0}
+{"id": "mem_00021", "type": "noise", "content": "有人提到过类似的 rerank 方案但不是用于 OpenClaw", "metadata": {"person": "Alex", "project": "OpenClaw", "tech": "rerank"}, "quality_score": 0.2376}
+{"id": "mem_00022", "type": "event", "content": "明天要和 刘博 讨论 RAG 系统 的进度", "metadata": {"person": "刘博", "project": "RAG 系统", "tech": "性能优化"}, "quality_score": 0.9900000000000001}
+{"id": "mem_00023", "type": "event", "content": "明天要和 王总 讨论 OpenClaw 的进度", "metadata": {"person": "王总", "project": "OpenClaw", "tech": "向量检索"}, "quality_score": 1.0}
+{"id": "mem_00024", "type": "knowledge", "content": "吴博士 喜欢用 scope 来处理 RAG 系统 相关任务", "metadata": {"person": "吴博士", "project": "RAG 系统", "tech": "scope"}, "quality_score": 1.0}
+{"id": "mem_00025", "type": "code", "content": "在 AI-Agent 项目中，我们讨论了 认证机制 的实现方案", "metadata": {"person": "Alex", "project": "AI-Agent", "tech": "认证机制"}, "quality_score": 0.9504}
+{"id": "mem_00026", "type": "event", "content": "明天要和 K 讨论 智能客服 的进度", "metadata": {"person": "K", "project": "智能客服", "tech": "性能优化"}, "quality_score": 0.6336000000000002}
+{"id": "mem_00027", "type": "noise", "content": "有人提到过类似的 API 方案但不是用于 DSS 选股系统", "metadata": {"person": "Sarah", "project": "DSS 选股系统", "tech": "API"}, "quality_score": 0.2376}
+{"id": "mem_00028", "type": "noise", "content": "有人提到过类似的 性能优化 方案但不是用于 DSS 选股系统", "metadata": {"person": "刘博", "project": "DSS 选股系统", "tech": "性能优化"}, "quality_score": 0.198}
+{"id": "mem_00029", "type": "knowledge", "content": "赵博士 喜欢用 日志系统 来处理 vLLM 优化 相关任务", "metadata": {"person": "赵博士", "project": "vLLM 优化", "tech": "日志系统"}, "quality_score": 1.0}
+{"id": "mem_00030", "type": "conversation", "content": "Alex 说他最近在研究 DSS 选股系统", "metadata": {"person": "Alex", "project": "DSS 选股系统", "tech": "分页加载"}, "quality_score": 1.0}
+{"id": "mem_00031", "type": "event", "content": "明天要和 Sarah 讨论 Kimi Remote API 的进度", "metadata": {"person": "Sarah", "project": "Kimi Remote API", "tech": "BM25"}, "quality_score": 1.0}
+{"id": "mem_00032", "type": "code", "content": "在 memory-lancedb-pro 项目中，我们讨论了 rerank 的实现方案", "metadata": {"person": "张工", "project": "memory-lancedb-pro", "tech": "rerank"}, "quality_score": 0.792}
+{"id": "mem_00033", "type": "conversation", "content": "李老师 说他最近在研究 AI-Agent", "metadata": {"person": "李老师", "project": "AI-Agent", "tech": "向量检索"}, "quality_score": 1.0}
+{"id": "mem_00034", "type": "event", "content": "明天要和 吴博士 讨论 OpenClaw 的进度", "metadata": {"person": "吴博士", "project": "OpenClaw", "tech": "日志系统"}, "quality_score": 1.0}
+{"id": "mem_00035", "type": "conversation", "content": "K 说他最近在研究 memory-lancedb-pro", "metadata": {"person": "K", "project": "memory-lancedb-pro", "tech": "BM25"}, "quality_score": 0.7920000000000001}
+{"id": "mem_00036", "type": "noise", "content": "有人提到过类似的 subagent 方案但不是用于 智能客服", "metadata": {"person": "Alex", "project": "智能客服", "tech": "subagent"}, "quality_score": 0.1584}
+{"id": "mem_00037", "type": "code", "content": "在 OpenClaw 项目中，我们讨论了 日志系统 的实现方案", "metadata": {"person": "陈工", "project": "OpenClaw", "tech": "日志系统"}, "quality_score": 0.9504}
+{"id": "mem_00038", "type": "noise", "content": "有人提到过类似的 认证机制 方案但不是用于 vLLM 优化", "metadata": {"person": "陈工", "project": "vLLM 优化", "tech": "认证机制"}, "quality_score": 0.1584}
+{"id": "mem_00039", "type": "knowledge", "content": "李老师 喜欢用 认证机制 来处理 DSS 选股系统 相关任务", "metadata": {"person": "李老师", "project": "DSS 选股系统", "tech": "认证机制"}, "quality_score": 1.0}
+{"id": "mem_00040", "type": "conversation", "content": "Sarah 说他最近在研究 Kimi Remote API", "metadata": {"person": "Sarah", "project": "Kimi Remote API", "tech": "scope"}, "quality_score": 1.0}
+{"id": "mem_00041", "type": "knowledge", "content": "吴博士 喜欢用 认证机制 来处理 AI-Agent 相关任务", "metadata": {"person": "吴博士", "project": "AI-Agent", "tech": "认证机制"}, "quality_score": 1.0}
+{"id": "mem_00042", "type": "noise", "content": "有人提到过类似的 性能优化 方案但不是用于 memory-lancedb-pro", "metadata": {"person": "吴博士", "project": "memory-lancedb-pro", "tech": "性能优化"}, "quality_score": 0.1584}
+{"id": "mem_00043", "type": "conversation", "content": "王总 说他最近在研究 RAG 系统", "metadata": {"person": "王总", "project": "RAG 系统", "tech": "subagent"}, "quality_score": 0.7920000000000001}
+{"id": "mem_00044", "type": "code", "content": "在 Ollama 部署 项目中，我们讨论了 缓存策略 的实现方案", "metadata": {"person": "Alex", "project": "Ollama 部署", "tech": "缓存策略"}, "quality_score": 0.9504}
+{"id": "mem_00045", "type": "conversation", "content": "张工 说他最近在研究 DSS 选股系统", "metadata": {"person": "张工", "project": "DSS 选股系统", "tech": "向量检索"}, "quality_score": 0.7920000000000001}
+{"id": "mem_00046", "type": "conversation", "content": "Sarah 说他最近在研究 RAG 系统", "metadata": {"person": "Sarah", "project": "RAG 系统", "tech": "embedding"}, "quality_score": 1.0}
+{"id": "mem_00047", "type": "knowledge", "content": "赵博士 喜欢用 rerank 来处理 vLLM 优化 相关任务", "metadata": {"person": "赵博士", "project": "vLLM 优化", "tech": "rerank"}, "quality_score": 1.0}
+{"id": "mem_00048", "type": "noise", "content": "有人提到过类似的 embedding 方案但不是用于 智能客服", "metadata": {"person": "Sarah", "project": "智能客服", "tech": "embedding"}, "quality_score": 0.1584}
+{"id": "mem_00049", "type": "knowledge", "content": "吴博士 喜欢用 日志系统 来处理 Kimi Remote API 相关任务", "metadata": {"person": "吴博士", "project": "Kimi Remote API", "tech": "日志系统"}, "quality_score": 1.0}
+{"id": "mem_00050", "type": "event", "content": "明天要和 Sarah 讨论 OpenClaw 的进度", "metadata": {"person": "Sarah", "project": "OpenClaw", "tech": "分页加载"}, "quality_score": 1.0}
+{"id": "mem_00051", "type": "event", "content": "明天要和 赵博士 讨论 Kimi Remote API 的进度", "metadata": {"person": "赵博士", "project": "Kimi Remote API", "tech": "API"}, "quality_score": 1.0}
+{"id": "mem_00052", "type": "event", "content": "明天要和 吴博士 讨论 DSS 选股系统 的进度", "metadata": {"person": "吴博士", "project": "DSS 选股系统", "tech": "rerank"}, "quality_score": 0.9900000000000001}
+{"id": "mem_00053", "type": "knowledge", "content": "赵博士 喜欢用 BM25 来处理 vLLM 优化 相关任务", "metadata": {"person": "赵博士", "project": "vLLM 优化", "tech": "BM25"}, "quality_score": 1.0}
+{"id": "mem_00054", "type": "knowledge", "content": "Sarah 喜欢用 分页加载 来处理 AI-Agent 相关任务", "metadata": {"person": "Sarah", "project": "AI-Agent", "tech": "分页加载"}, "quality_score": 1.0}
+{"id": "mem_00055", "type": "noise", "content": "有人提到过类似的 日志系统 方案但不是用于 OpenClaw", "metadata": {"person": "K", "project": "OpenClaw", "tech": "日志系统"}, "quality_score": 0.2376}
+{"id": "mem_00056", "type": "code", "content": "在 RAG 系统 项目中，我们讨论了 API 的实现方案", "metadata": {"person": "Alex", "project": "RAG 系统", "tech": "API"}, "quality_score": 0.9504}
+{"id": "mem_00057", "type": "knowledge", "content": "赵博士 喜欢用 BM25 来处理 Ollama 部署 相关任务", "metadata": {"person": "赵博士", "project": "Ollama 部署", "tech": "BM25"}, "quality_score": 1.0}
+{"id": "mem_00058", "type": "event", "content": "明天要和 王总 讨论 知识图谱 的进度", "metadata": {"person": "王总", "project": "知识图谱", "tech": "认证机制"}, "quality_score": 0.6336000000000002}
+{"id": "mem_00059", "type": "noise", "content": "有人提到过类似的 subagent 方案但不是用于 智能客服", "metadata": {"person": "刘博", "project": "智能客服", "tech": "subagent"}, "quality_score": 0.1584}
+{"id": "mem_00060", "type": "noise", "content": "有人提到过类似的 性能优化 方案但不是用于 知识图谱", "metadata": {"person": "陈工", "project": "知识图谱", "tech": "性能优化"}, "quality_score": 0.1584}
+{"id": "mem_00061", "type": "noise", "content": "有人提到过类似的 subagent 方案但不是用于 智能客服", "metadata": {"person": "K", "project": "智能客服", "tech": "subagent"}, "quality_score": 0.1584}
+{"id": "mem_00062", "type": "conversation", "content": "王总 说他最近在研究 知识图谱", "metadata": {"person": "王总", "project": "知识图谱", "tech": "embedding"}, "quality_score": 0.6336000000000002}
+{"id": "mem_00063", "type": "knowledge", "content": "K 喜欢用 scope 来处理 vLLM 优化 相关任务", "metadata": {"person": "K", "project": "vLLM 优化", "tech": "scope"}, "quality_score": 1.0}
+{"id": "mem_00064", "type": "noise", "content": "有人提到过类似的 向量检索 方案但不是用于 智能客服", "metadata": {"person": "陈工", "project": "智能客服", "tech": "向量检索"}, "quality_score": 0.1584}
+{"id": "mem_00065", "type": "noise", "content": "有人提到过类似的 BM25 方案但不是用于 memory-lancedb-pro", "metadata": {"person": "吴博士", "project": "memory-lancedb-pro", "tech": "BM25"}, "quality_score": 0.1584}
+{"id": "mem_00066", "type": "event", "content": "明天要和 李老师 讨论 RAG 系统 的进度", "metadata": {"person": "李老师", "project": "RAG 系统", "tech": "缓存策略"}, "quality_score": 0.9900000000000001}
+{"id": "mem_00067", "type": "conversation", "content": "张工 说他最近在研究 RAG 系统", "metadata": {"person": "张工", "project": "RAG 系统", "tech": "向量检索"}, "quality_score": 0.7920000000000001}
+{"id": "mem_00068", "type": "code", "content": "在 Ollama 部署 项目中，我们讨论了 scope 的实现方案", "metadata": {"person": "Alex", "project": "Ollama 部署", "tech": "scope"}, "quality_score": 0.9504}
+{"id": "mem_00069", "type": "event", "content": "明天要和 Sarah 讨论 RAG 系统 的进度", "metadata": {"person": "Sarah", "project": "RAG 系统", "tech": "rerank"}, "quality_score": 1.0}
+{"id": "mem_00070", "type": "conversation", "content": "K 说他最近在研究 vLLM 优化", "metadata": {"person": "K", "project": "vLLM 优化", "tech": "向量检索"}, "quality_score": 0.6336000000000002}
+{"id": "mem_00071", "type": "code", "content": "在 智能客服 项目中，我们讨论了 embedding 的实现方案", "metadata": {"person": "陈工", "project": "智能客服", "tech": "embedding"}, "quality_score": 0.792}
+{"id": "mem_00072", "type": "knowledge", "content": "Sarah 喜欢用 scope 来处理 知识图谱 相关任务", "metadata": {"person": "Sarah", "project": "知识图谱", "tech": "scope"}, "quality_score": 1.0}
+{"id": "mem_00073", "type": "noise", "content": "有人提到过类似的 日志系统 方案但不是用于 知识图谱", "metadata": {"person": "张工", "project": "知识图谱", "tech": "日志系统"}, "quality_score": 0.198}
+{"id": "mem_00074", "type": "noise", "content": "有人提到过类似的 性能优化 方案但不是用于 Kimi Remote API", "metadata": {"person": "赵博士", "project": "Kimi Remote API", "tech": "性能优化"}, "quality_score": 0.2376}
+{"id": "mem_00075", "type": "noise", "content": "有人提到过类似的 缓存策略 方案但不是用于 RAG 系统", "metadata": {"person": "陈工", "project": "RAG 系统", "tech": "缓存策略"}, "quality_score": 0.198}
+{"id": "mem_00076", "type": "event", "content": "明天要和 刘博 讨论 Kimi Remote API 的进度", "metadata": {"person": "刘博", "project": "Kimi Remote API", "tech": "分页加载"}, "quality_score": 1.0}
+{"id": "mem_00077", "type": "noise", "content": "有人提到过类似的 subagent 方案但不是用于 知识图谱", "metadata": {"person": "吴博士", "project": "知识图谱", "tech": "subagent"}, "quality_score": 0.1584}
+{"id": "mem_00078", "type": "knowledge", "content": "Alex 喜欢用 认证机制 来处理 RAG 系统 相关任务", "metadata": {"person": "Alex", "project": "RAG 系统", "tech": "认证机制"}, "quality_score": 1.0}
+{"id": "mem_00079", "type": "knowledge", "content": "王总 喜欢用 认证机制 来处理 OpenClaw 相关任务", "metadata": {"person": "王总", "project": "OpenClaw", "tech": "认证机制"}, "quality_score": 1.0}
+{"id": "mem_00080", "type": "noise", "content": "有人提到过类似的 认证机制 方案但不是用于 AI-Agent", "metadata": {"person": "王总", "project": "AI-Agent", "tech": "认证机制"}, "quality_score": 0.2376}
+{"id": "mem_00081", "type": "conversation", "content": "刘博 说他最近在研究 智能客服", "metadata": {"person": "刘博", "project": "智能客服", "tech": "subagent"}, "quality_score": 0.6336000000000002}
+{"id": "mem_00082", "type": "event", "content": "明天要和 K 讨论 RAG 系统 的进度", "metadata": {"person": "K", "project": "RAG 系统", "tech": "API"}, "quality_score": 0.9900000000000001}
+{"id": "mem_00083", "type": "conversation", "content": "赵博士 说他最近在研究 Kimi Remote API", "metadata": {"person": "赵博士", "project": "Kimi Remote API", "tech": "rerank"}, "quality_score": 1.0}
+{"id": "mem_00084", "type": "code", "content": "在 AI-Agent 项目中，我们讨论了 向量检索 的实现方案", "metadata": {"person": "李老师", "project": "AI-Agent", "tech": "向量检索"}, "quality_score": 0.9504}
+{"id": "mem_00085", "type": "noise", "content": "有人提到过类似的 subagent 方案但不是用于 memory-lancedb-pro", "metadata": {"person": "Alex", "project": "memory-lancedb-pro", "tech": "subagent"}, "quality_score": 0.1584}
+{"id": "mem_00086", "type": "event", "content": "明天要和 吴博士 讨论 OpenClaw 的进度", "metadata": {"person": "吴博士", "project": "OpenClaw", "tech": "缓存策略"}, "quality_score": 1.0}
+{"id": "mem_00087", "type": "noise", "content": "有人提到过类似的 subagent 方案但不是用于 DSS 选股系统", "metadata": {"person": "赵博士", "project": "DSS 选股系统", "tech": "subagent"}, "quality_score": 0.198}
+{"id": "mem_00088", "type": "noise", "content": "有人提到过类似的 rerank 方案但不是用于 Ollama 部署", "metadata": {"person": "刘博", "project": "Ollama 部署", "tech": "rerank"}, "quality_score": 0.198}
+{"id": "mem_00089", "type": "conversation", "content": "李老师 说他最近在研究 memory-lancedb-pro", "metadata": {"person": "李老师", "project": "memory-lancedb-pro", "tech": "API"}, "quality_score": 0.7920000000000001}
+{"id": "mem_00090", "type": "conversation", "content": "Sarah 说他最近在研究 memory-lancedb-pro", "metadata": {"person": "Sarah", "project": "memory-lancedb-pro", "tech": "向量检索"}, "quality_score": 0.9900000000000001}
+{"id": "mem_00091", "type": "code", "content": "在 智能客服 项目中，我们讨论了 subagent 的实现方案", "metadata": {"person": "Alex", "project": "智能客服", "tech": "subagent"}, "quality_score": 0.792}
+{"id": "mem_00092", "type": "noise", "content": "有人提到过类似的 API 方案但不是用于 Ollama 部署", "metadata": {"person": "Alex", "project": "Ollama 部署", "tech": "API"}, "quality_score": 0.2376}
+{"id": "mem_00093", "type": "code", "content": "在 智能客服 项目中，我们讨论了 性能优化 的实现方案", "metadata": {"person": "陈工", "project": "智能客服", "tech": "性能优化"}, "quality_score": 0.792}
+{"id": "mem_00094", "type": "event", "content": "明天要和 吴博士 讨论 智能客服 的进度", "metadata": {"person": "吴博士", "project": "智能客服", "tech": "缓存策略"}, "quality_score": 0.7920000000000001}
+{"id": "mem_00095", "type": "code", "content": "在 智能客服 项目中，我们讨论了 向量检索 的实现方案", "metadata": {"person": "Sarah", "project": "智能客服", "tech": "向量检索"}, "quality_score": 0.792}
+{"id": "mem_00096", "type": "noise", "content": "有人提到过类似的 embedding 方案但不是用于 RAG 系统", "metadata": {"person": "王总", "project": "RAG 系统", "tech": "embedding"}, "quality_score": 0.198}
+{"id": "mem_00097", "type": "knowledge", "content": "K 喜欢用 subagent 来处理 RAG 系统 相关任务", "metadata": {"person": "K", "project": "RAG 系统", "tech": "subagent"}, "quality_score": 1.0}
+{"id": "mem_00098", "type": "code", "content": "在 AI-Agent 项目中，我们讨论了 API 的实现方案", "metadata": {"person": "李老师", "project": "AI-Agent", "tech": "API"}, "quality_score": 0.9504}
+{"id": "mem_00099", "type": "event", "content": "明天要和 李老师 讨论 Ollama 部署 的进度", "metadata": {"person": "李老师", "project": "Ollama 部署", "tech": "认证机制"}, "quality_score": 0.9900000000000001}
+{"id": "mem_00100", "type": "event", "content": "明天要和 刘博 讨论 AI-Agent 的进度", "metadata": {"person": "刘博", "project": "AI-Agent", "tech": "性能优化"}, "quality_score": 1.0}
+{"id": "mem_00101", "type": "event", "content": "明天要和 李老师 讨论 DSS 选股系统 的进度", "metadata": {"person": "李老师", "project": "DSS 选股系统", "tech": "分页加载"}, "quality_score": 0.9900000000000001}
+{"id": "mem_00102", "type": "knowledge", "content": "陈工 喜欢用 向量检索 来处理 智能客服 相关任务", "metadata": {"person": "陈工", "project": "智能客服", "tech": "向量检索"}, "quality_score": 1.0}
+{"id": "mem_00103", "type": "knowledge", "content": "王总 喜欢用 性能优化 来处理 Ollama 部署 相关任务", "metadata": {"person": "王总", "project": "Ollama 部署", "tech": "性能优化"}, "quality_score": 1.0}
+{"id": "mem_00104", "type": "knowledge", "content": "吴博士 喜欢用 rerank 来处理 memory-lancedb-pro 相关任务", "metadata": {"person": "吴博士", "project": "memory-lancedb-pro", "tech": "rerank"}, "quality_score": 1.0}
+{"id": "mem_00105", "type": "event", "content": "明天要和 王总 讨论 DSS 选股系统 的进度", "metadata": {"person": "王总", "project": "DSS 选股系统", "tech": "subagent"}, "quality_score": 0.9900000000000001}
+{"id": "mem_00106", "type": "event", "content": "明天要和 李老师 讨论 Kimi Remote API 的进度", "metadata": {"person": "李老师", "project": "Kimi Remote API", "tech": "rerank"}, "quality_score": 1.0}
+{"id": "mem_00107", "type": "conversation", "content": "赵博士 说他最近在研究 智能客服", "metadata": {"person": "赵博士", "project": "智能客服", "tech": "日志系统"}, "quality_score": 0.6336000000000002}
+{"id": "mem_00108", "type": "event", "content": "明天要和 Sarah 讨论 memory-lancedb-pro 的进度", "metadata": {"person": "Sarah", "project": "memory-lancedb-pro", "tech": "性能优化"}, "quality_score": 0.9900000000000001}
+{"id": "mem_00109", "type": "code", "content": "在 智能客服 项目中，我们讨论了 BM25 的实现方案", "metadata": {"person": "陈工", "project": "智能客服", "tech": "BM25"}, "quality_score": 0.792}
+{"id": "mem_00110", "type": "conversation", "content": "刘博 说他最近在研究 RAG 系统", "metadata": {"person": "刘博", "project": "RAG 系统", "tech": "rerank"}, "quality_score": 0.7920000000000001}
+{"id": "mem_00111", "type": "code", "content": "在 DSS 选股系统 项目中，我们讨论了 缓存策略 的实现方案", "metadata": {"person": "K", "project": "DSS 选股系统", "tech": "缓存策略"}, "quality_score": 0.9504}
+{"id": "mem_00112", "type": "event", "content": "明天要和 陈工 讨论 vLLM 优化 的进度", "metadata": {"person": "陈工", "project": "vLLM 优化", "tech": "API"}, "quality_score": 0.7920000000000001}
+{"id": "mem_00113", "type": "knowledge", "content": "王总 喜欢用 日志系统 来处理 智能客服 相关任务", "metadata": {"person": "王总", "project": "智能客服", "tech": "日志系统"}, "quality_score": 1.0}
+{"id": "mem_00114", "type": "conversation", "content": "Alex 说他最近在研究 智能客服", "metadata": {"person": "Alex", "project": "智能客服", "tech": "认证机制"}, "quality_score": 0.7920000000000001}
+{"id": "mem_00115", "type": "event", "content": "明天要和 张工 讨论 DSS 选股系统 的进度", "metadata": {"person": "张工", "project": "DSS 选股系统", "tech": "API"}, "quality_score": 0.9900000000000001}
+{"id": "mem_00116", "type": "knowledge", "content": "Alex 喜欢用 BM25 来处理 memory-lancedb-pro 相关任务", "metadata": {"person": "Alex", "project": "memory-lancedb-pro", "tech": "BM25"}, "quality_score": 1.0}
+{"id": "mem_00117", "type": "event", "content": "明天要和 赵博士 讨论 AI-Agent 的进度", "metadata": {"person": "赵博士", "project": "AI-Agent", "tech": "rerank"}, "quality_score": 1.0}
+{"id": "mem_00118", "type": "knowledge", "content": "张工 喜欢用 向量检索 来处理 DSS 选股系统 相关任务", "metadata": {"person": "张工", "project": "DSS 选股系统", "tech": "向量检索"}, "quality_score": 1.0}
+{"id": "mem_00119", "type": "conversation", "content": "赵博士 说他最近在研究 DSS 选股系统", "metadata": {"person": "赵博士", "project": "DSS 选股系统", "tech": "embedding"}, "quality_score": 0.9900000000000001}
+{"id": "mem_00120", "type": "event", "content": "明天要和 吴博士 讨论 Ollama 部署 的进度", "metadata": {"person": "吴博士", "project": "Ollama 部署", "tech": "BM25"}, "quality_score": 0.9900000000000001}
+{"id": "mem_00121", "type": "conversation", "content": "K 说他最近在研究 智能客服", "metadata": {"person": "K", "project": "智能客服", "tech": "BM25"}, "quality_score": 0.6336000000000002}
+{"id": "mem_00122", "type": "conversation", "content": "K 说他最近在研究 AI-Agent", "metadata": {"person": "K", "project": "AI-Agent", "tech": "日志系统"}, "quality_score": 0.9504000000000001}
+{"id": "mem_00123", "type": "noise", "content": "有人提到过类似的 日志系统 方案但不是用于 智能客服", "metadata": {"person": "Sarah", "project": "智能客服", "tech": "日志系统"}, "quality_score": 0.198}
+{"id": "mem_00124", "type": "noise", "content": "有人提到过类似的 性能优化 方案但不是用于 DSS 选股系统", "metadata": {"person": "吴博士", "project": "DSS 选股系统", "tech": "性能优化"}, "quality_score": 0.198}
+{"id": "mem_00125", "type": "knowledge", "content": "Alex 喜欢用 认证机制 来处理 memory-lancedb-pro 相关任务", "metadata": {"person": "Alex", "project": "memory-lancedb-pro", "tech": "认证机制"}, "quality_score": 1.0}
+{"id": "mem_00126", "type": "conversation", "content": "王总 说他最近在研究 DSS 选股系统", "metadata": {"person": "王总", "project": "DSS 选股系统", "tech": "日志系统"}, "quality_score": 0.7920000000000001}
+{"id": "mem_00127", "type": "noise", "content": "有人提到过类似的 BM25 方案但不是用于 RAG 系统", "metadata": {"person": "王总", "project": "RAG 系统", "tech": "BM25"}, "quality_score": 0.198}
+{"id": "mem_00128", "type": "conversation", "content": "K 说他最近在研究 memory-lancedb-pro", "metadata": {"person": "K", "project": "memory-lancedb-pro", "tech": "BM25"}, "quality_score": 0.7920000000000001}
+{"id": "mem_00129", "type": "noise", "content": "有人提到过类似的 向量检索 方案但不是用于 知识图谱", "metadata": {"person": "K", "project": "知识图谱", "tech": "向量检索"}, "quality_score": 0.1584}
+{"id": "mem_00130", "type": "conversation", "content": "王总 说他最近在研究 Ollama 部署", "metadata": {"person": "王总", "project": "Ollama 部署", "tech": "性能优化"}, "quality_score": 0.9900000000000001}
+{"id": "mem_00131", "type": "conversation", "content": "Alex 说他最近在研究 知识图谱", "metadata": {"person": "Alex", "project": "知识图谱", "tech": "向量检索"}, "quality_score": 0.7920000000000001}
+{"id": "mem_00132", "type": "noise", "content": "有人提到过类似的 BM25 方案但不是用于 DSS 选股系统", "metadata": {"person": "Alex", "project": "DSS 选股系统", "tech": "BM25"}, "quality_score": 0.198}
+{"id": "mem_00133", "type": "noise", "content": "有人提到过类似的 向量检索 方案但不是用于 RAG 系统", "metadata": {"person": "Sarah", "project": "RAG 系统", "tech": "向量检索"}, "quality_score": 0.198}
+{"id": "mem_00134", "type": "noise", "content": "有人提到过类似的 API 方案但不是用于 vLLM 优化", "metadata": {"person": "王总", "project": "vLLM 优化", "tech": "API"}, "quality_score": 0.198}
+{"id": "mem_00135", "type": "code", "content": "在 知识图谱 项目中，我们讨论了 embedding 的实现方案", "metadata": {"person": "Sarah", "project": "知识图谱", "tech": "embedding"}, "quality_score": 0.792}
+{"id": "mem_00136", "type": "knowledge", "content": "Sarah 喜欢用 日志系统 来处理 OpenClaw 相关任务", "metadata": {"person": "Sarah", "project": "OpenClaw", "tech": "日志系统"}, "quality_score": 1.0}
+{"id": "mem_00137", "type": "event", "content": "明天要和 李老师 讨论 Kimi Remote API 的进度", "metadata": {"person": "李老师", "project": "Kimi Remote API", "tech": "缓存策略"}, "quality_score": 1.0}
+{"id": "mem_00138", "type": "event", "content": "明天要和 赵博士 讨论 DSS 选股系统 的进度", "metadata": {"person": "赵博士", "project": "DSS 选股系统", "tech": "scope"}, "quality_score": 0.9900000000000001}
+{"id": "mem_00139", "type": "knowledge", "content": "陈工 喜欢用 日志系统 来处理 Kimi Remote API 相关任务", "metadata": {"person": "陈工", "project": "Kimi Remote API", "tech": "日志系统"}, "quality_score": 1.0}
+{"id": "mem_00140", "type": "noise", "content": "有人提到过类似的 scope 方案但不是用于 智能客服", "metadata": {"person": "K", "project": "智能客服", "tech": "scope"}, "quality_score": 0.1584}
+{"id": "mem_00141", "type": "event", "content": "明天要和 陈工 讨论 RAG 系统 的进度", "metadata": {"person": "陈工", "project": "RAG 系统", "tech": "分页加载"}, "quality_score": 0.9900000000000001}
+{"id": "mem_00142", "type": "code", "content": "在 AI-Agent 项目中，我们讨论了 日志系统 的实现方案", "metadata": {"person": "王总", "project": "AI-Agent", "tech": "日志系统"}, "quality_score": 0.9504}
+{"id": "mem_00143", "type": "knowledge", "content": "张工 喜欢用 subagent 来处理 RAG 系统 相关任务", "metadata": {"person": "张工", "project": "RAG 系统", "tech": "subagent"}, "quality_score": 1.0}
+{"id": "mem_00144", "type": "knowledge", "content": "Sarah 喜欢用 缓存策略 来处理 memory-lancedb-pro 相关任务", "metadata": {"person": "Sarah", "project": "memory-lancedb-pro", "tech": "缓存策略"}, "quality_score": 1.0}
+{"id": "mem_00145", "type": "noise", "content": "有人提到过类似的 向量检索 方案但不是用于 AI-Agent", "metadata": {"person": "王总", "project": "AI-Agent", "tech": "向量检索"}, "quality_score": 0.2376}
+{"id": "mem_00146", "type": "knowledge", "content": "赵博士 喜欢用 日志系统 来处理 知识图谱 相关任务", "metadata": {"person": "赵博士", "project": "知识图谱", "tech": "日志系统"}, "quality_score": 1.0}
+{"id": "mem_00147", "type": "knowledge", "content": "Alex 喜欢用 缓存策略 来处理 Kimi Remote API 相关任务", "metadata": {"person": "Alex", "project": "Kimi Remote API", "tech": "缓存策略"}, "quality_score": 1.0}
+{"id": "mem_00148", "type": "event", "content": "明天要和 刘博 讨论 OpenClaw 的进度", "metadata": {"person": "刘博", "project": "OpenClaw", "tech": "性能优化"}, "quality_score": 1.0}
+{"id": "mem_00149", "type": "knowledge", "content": "李老师 喜欢用 API 来处理 Ollama 部署 相关任务", "metadata": {"person": "李老师", "project": "Ollama 部署", "tech": "API"}, "quality_score": 1.0}
+{"id": "mem_00150", "type": "conversation", "content": "李老师 说他最近在研究 智能客服", "metadata": {"person": "李老师", "project": "智能客服", "tech": "认证机制"}, "quality_score": 0.6336000000000002}
+{"id": "mem_00151", "type": "knowledge", "content": "刘博 喜欢用 BM25 来处理 vLLM 优化 相关任务", "metadata": {"person": "刘博", "project": "vLLM 优化", "tech": "BM25"}, "quality_score": 1.0}
+{"id": "mem_00152", "type": "noise", "content": "有人提到过类似的 认证机制 方案但不是用于 DSS 选股系统", "metadata": {"person": "李老师", "project": "DSS 选股系统", "tech": "认证机制"}, "quality_score": 0.198}
+{"id": "mem_00153", "type": "noise", "content": "有人提到过类似的 embedding 方案但不是用于 vLLM 优化", "metadata": {"person": "李老师", "project": "vLLM 优化", "tech": "embedding"}, "quality_score": 0.1584}
+{"id": "mem_00154", "type": "conversation", "content": "吴博士 说他最近在研究 memory-lancedb-pro", "metadata": {"person": "吴博士", "project": "memory-lancedb-pro", "tech": "分页加载"}, "quality_score": 0.7920000000000001}
+{"id": "mem_00155", "type": "event", "content": "明天要和 K 讨论 AI-Agent 的进度", "metadata": {"person": "K", "project": "AI-Agent", "tech": "rerank"}, "quality_score": 1.0}
+{"id": "mem_00156", "type": "noise", "content": "有人提到过类似的 API 方案但不是用于 OpenClaw", "metadata": {"person": "刘博", "project": "OpenClaw", "tech": "API"}, "quality_score": 0.2376}
+{"id": "mem_00157", "type": "event", "content": "明天要和 赵博士 讨论 Ollama 部署 的进度", "metadata": {"person": "赵博士", "project": "Ollama 部署", "tech": "日志系统"}, "quality_score": 0.9900000000000001}
+{"id": "mem_00158", "type": "noise", "content": "有人提到过类似的 rerank 方案但不是用于 智能客服", "metadata": {"person": "K", "project": "智能客服", "tech": "rerank"}, "quality_score": 0.1584}
+{"id": "mem_00159", "type": "knowledge", "content": "Sarah 喜欢用 rerank 来处理 知识图谱 相关任务", "metadata": {"person": "Sarah", "project": "知识图谱", "tech": "rerank"}, "quality_score": 1.0}
+{"id": "mem_00160", "type": "noise", "content": "有人提到过类似的 scope 方案但不是用于 Kimi Remote API", "metadata": {"person": "Alex", "project": "Kimi Remote API", "tech": "scope"}, "quality_score": 0.2376}
+{"id": "mem_00161", "type": "knowledge", "content": "刘博 喜欢用 分页加载 来处理 智能客服 相关任务", "metadata": {"person": "刘博", "project": "智能客服", "tech": "分页加载"}, "quality_score": 1.0}
+{"id": "mem_00162", "type": "knowledge", "content": "Sarah 喜欢用 scope 来处理 知识图谱 相关任务", "metadata": {"person": "Sarah", "project": "知识图谱", "tech": "scope"}, "quality_score": 1.0}
+{"id": "mem_00163", "type": "code", "content": "在 Kimi Remote API 项目中，我们讨论了 性能优化 的实现方案", "metadata": {"person": "Sarah", "project": "Kimi Remote API", "tech": "性能优化"}, "quality_score": 0.9504}
+{"id": "mem_00164", "type": "noise", "content": "有人提到过类似的 rerank 方案但不是用于 OpenClaw", "metadata": {"person": "张工", "project": "OpenClaw", "tech": "rerank"}, "quality_score": 0.2376}
+{"id": "mem_00165", "type": "noise", "content": "有人提到过类似的 向量检索 方案但不是用于 memory-lancedb-pro", "metadata": {"person": "Sarah", "project": "memory-lancedb-pro", "tech": "向量检索"}, "quality_score": 0.1584}
+{"id": "mem_00166", "type": "code", "content": "在 DSS 选股系统 项目中，我们讨论了 缓存策略 的实现方案", "metadata": {"person": "Sarah", "project": "DSS 选股系统", "tech": "缓存策略"}, "quality_score": 0.9504}
+{"id": "mem_00167", "type": "event", "content": "明天要和 陈工 讨论 RAG 系统 的进度", "metadata": {"person": "陈工", "project": "RAG 系统", "tech": "认证机制"}, "quality_score": 0.9900000000000001}
+{"id": "mem_00168", "type": "knowledge", "content": "Alex 喜欢用 日志系统 来处理 vLLM 优化 相关任务", "metadata": {"person": "Alex", "project": "vLLM 优化", "tech": "日志系统"}, "quality_score": 1.0}
+{"id": "mem_00169", "type": "code", "content": "在 Ollama 部署 项目中，我们讨论了 缓存策略 的实现方案", "metadata": {"person": "K", "project": "Ollama 部署", "tech": "缓存策略"}, "quality_score": 0.9504}
+{"id": "mem_00170", "type": "knowledge", "content": "Alex 喜欢用 分页加载 来处理 memory-lancedb-pro 相关任务", "metadata": {"person": "Alex", "project": "memory-lancedb-pro", "tech": "分页加载"}, "quality_score": 1.0}
+{"id": "mem_00171", "type": "noise", "content": "有人提到过类似的 分页加载 方案但不是用于 Ollama 部署", "metadata": {"person": "王总", "project": "Ollama 部署", "tech": "分页加载"}, "quality_score": 0.198}
+{"id": "mem_00172", "type": "event", "content": "明天要和 Sarah 讨论 Kimi Remote API 的进度", "metadata": {"person": "Sarah", "project": "Kimi Remote API", "tech": "缓存策略"}, "quality_score": 1.0}
+{"id": "mem_00173", "type": "noise", "content": "有人提到过类似的 性能优化 方案但不是用于 AI-Agent", "metadata": {"person": "李老师", "project": "AI-Agent", "tech": "性能优化"}, "quality_score": 0.2376}
+{"id": "mem_00174", "type": "conversation", "content": "赵博士 说他最近在研究 智能客服", "metadata": {"person": "赵博士", "project": "智能客服", "tech": "日志系统"}, "quality_score": 0.6336000000000002}
+{"id": "mem_00175", "type": "event", "content": "明天要和 李老师 讨论 DSS 选股系统 的进度", "metadata": {"person": "李老师", "project": "DSS 选股系统", "tech": "rerank"}, "quality_score": 0.9900000000000001}
+{"id": "mem_00176", "type": "knowledge", "content": "陈工 喜欢用 向量检索 来处理 智能客服 相关任务", "metadata": {"person": "陈工", "project": "智能客服", "tech": "向量检索"}, "quality_score": 1.0}
+{"id": "mem_00177", "type": "event", "content": "明天要和 吴博士 讨论 智能客服 的进度", "metadata": {"person": "吴博士", "project": "智能客服", "tech": "日志系统"}, "quality_score": 0.7920000000000001}
+{"id": "mem_00178", "type": "knowledge", "content": "张工 喜欢用 BM25 来处理 AI-Agent 相关任务", "metadata": {"person": "张工", "project": "AI-Agent", "tech": "BM25"}, "quality_score": 1.0}
+{"id": "mem_00179", "type": "event", "content": "明天要和 K 讨论 DSS 选股系统 的进度", "metadata": {"person": "K", "project": "DSS 选股系统", "tech": "rerank"}, "quality_score": 0.9900000000000001}
+{"id": "mem_00180", "type": "conversation", "content": "张工 说他最近在研究 OpenClaw", "metadata": {"person": "张工", "project": "OpenClaw", "tech": "embedding"}, "quality_score": 0.9504000000000001}
+{"id": "mem_00181", "type": "conversation", "content": "刘博 说他最近在研究 DSS 选股系统", "metadata": {"person": "刘博", "project": "DSS 选股系统", "tech": "认证机制"}, "quality_score": 0.7920000000000001}
+{"id": "mem_00182", "type": "knowledge", "content": "吴博士 喜欢用 API 来处理 RAG 系统 相关任务", "metadata": {"person": "吴博士", "project": "RAG 系统", "tech": "API"}, "quality_score": 1.0}
+{"id": "mem_00183", "type": "knowledge", "content": "赵博士 喜欢用 embedding 来处理 Kimi Remote API 相关任务", "metadata": {"person": "赵博士", "project": "Kimi Remote API", "tech": "embedding"}, "quality_score": 1.0}
+{"id": "mem_00184", "type": "event", "content": "明天要和 李老师 讨论 OpenClaw 的进度", "metadata": {"person": "李老师", "project": "OpenClaw", "tech": "subagent"}, "quality_score": 1.0}
+{"id": "mem_00185", "type": "conversation", "content": "Alex 说他最近在研究 OpenClaw", "metadata": {"person": "Alex", "project": "OpenClaw", "tech": "向量检索"}, "quality_score": 1.0}
+{"id": "mem_00186", "type": "code", "content": "在 Kimi Remote API 项目中，我们讨论了 向量检索 的实现方案", "metadata": {"person": "陈工", "project": "Kimi Remote API", "tech": "向量检索"}, "quality_score": 0.9504}
+{"id": "mem_00187", "type": "code", "content": "在 知识图谱 项目中，我们讨论了 rerank 的实现方案", "metadata": {"person": "刘博", "project": "知识图谱", "tech": "rerank"}, "quality_score": 0.792}
+{"id": "mem_00188", "type": "event", "content": "明天要和 李老师 讨论 Kimi Remote API 的进度", "metadata": {"person": "李老师", "project": "Kimi Remote API", "tech": "embedding"}, "quality_score": 1.0}
+{"id": "mem_00189", "type": "knowledge", "content": "K 喜欢用 日志系统 来处理 Ollama 部署 相关任务", "metadata": {"person": "K", "project": "Ollama 部署", "tech": "日志系统"}, "quality_score": 1.0}
+{"id": "mem_00190", "type": "code", "content": "在 RAG 系统 项目中，我们讨论了 scope 的实现方案", "metadata": {"person": "王总", "project": "RAG 系统", "tech": "scope"}, "quality_score": 0.9504}
+{"id": "mem_00191", "type": "event", "content": "明天要和 K 讨论 OpenClaw 的进度", "metadata": {"person": "K", "project": "OpenClaw", "tech": "scope"}, "quality_score": 1.0}
+{"id": "mem_00192", "type": "noise", "content": "有人提到过类似的 rerank 方案但不是用于 RAG 系统", "metadata": {"person": "张工", "project": "RAG 系统", "tech": "rerank"}, "quality_score": 0.198}
+{"id": "mem_00193", "type": "knowledge", "content": "Alex 喜欢用 subagent 来处理 智能客服 相关任务", "metadata": {"person": "Alex", "project": "智能客服", "tech": "subagent"}, "quality_score": 1.0}
+{"id": "mem_00194", "type": "code", "content": "在 RAG 系统 项目中，我们讨论了 日志系统 的实现方案", "metadata": {"person": "K", "project": "RAG 系统", "tech": "日志系统"}, "quality_score": 0.9504}
+{"id": "mem_00195", "type": "code", "content": "在 memory-lancedb-pro 项目中，我们讨论了 缓存策略 的实现方案", "metadata": {"person": "李老师", "project": "memory-lancedb-pro", "tech": "缓存策略"}, "quality_score": 0.792}
+{"id": "mem_00196", "type": "event", "content": "明天要和 李老师 讨论 vLLM 优化 的进度", "metadata": {"person": "李老师", "project": "vLLM 优化", "tech": "scope"}, "quality_score": 0.7920000000000001}
+{"id": "mem_00197", "type": "event", "content": "明天要和 王总 讨论 AI-Agent 的进度", "metadata": {"person": "王总", "project": "AI-Agent", "tech": "API"}, "quality_score": 1.0}
+{"id": "mem_00198", "type": "knowledge", "content": "李老师 喜欢用 认证机制 来处理 RAG 系统 相关任务", "metadata": {"person": "李老师", "project": "RAG 系统", "tech": "认证机制"}, "quality_score": 1.0}
+{"id": "mem_00199", "type": "event", "content": "明天要和 吴博士 讨论 知识图谱 的进度", "metadata": {"person": "吴博士", "project": "知识图谱", "tech": "分页加载"}, "quality_score": 0.7920000000000001}
+{"id": "mem_00200", "type": "conversation", "content": "K 说他最近在研究 Kimi Remote API", "metadata": {"person": "K", "project": "Kimi Remote API", "tech": "向量检索"}, "quality_score": 1.0}
+{"id": "mem_00201", "type": "noise", "content": "有人提到过类似的 scope 方案但不是用于 memory-lancedb-pro", "metadata": {"person": "王总", "project": "memory-lancedb-pro", "tech": "scope"}, "quality_score": 0.1584}
+{"id": "mem_00202", "type": "noise", "content": "有人提到过类似的 embedding 方案但不是用于 AI-Agent", "metadata": {"person": "张工", "project": "AI-Agent", "tech": "embedding"}, "quality_score": 0.2376}
+{"id": "mem_00203", "type": "noise", "content": "有人提到过类似的 scope 方案但不是用于 Ollama 部署", "metadata": {"person": "赵博士", "project": "Ollama 部署", "tech": "scope"}, "quality_score": 0.198}
+{"id": "mem_00204", "type": "noise", "content": "有人提到过类似的 BM25 方案但不是用于 OpenClaw", "metadata": {"person": "吴博士", "project": "OpenClaw", "tech": "BM25"}, "quality_score": 0.2376}
+{"id": "mem_00205", "type": "noise", "content": "有人提到过类似的 向量检索 方案但不是用于 RAG 系统", "metadata": {"person": "Alex", "project": "RAG 系统", "tech": "向量检索"}, "quality_score": 0.198}
+{"id": "mem_00206", "type": "knowledge", "content": "吴博士 喜欢用 scope 来处理 AI-Agent 相关任务", "metadata": {"person": "吴博士", "project": "AI-Agent", "tech": "scope"}, "quality_score": 1.0}
+{"id": "mem_00207", "type": "code", "content": "在 Kimi Remote API 项目中，我们讨论了 API 的实现方案", "metadata": {"person": "Alex", "project": "Kimi Remote API", "tech": "API"}, "quality_score": 0.9504}
+{"id": "mem_00208", "type": "noise", "content": "有人提到过类似的 rerank 方案但不是用于 Kimi Remote API", "metadata": {"person": "陈工", "project": "Kimi Remote API", "tech": "rerank"}, "quality_score": 0.2376}
+{"id": "mem_00209", "type": "knowledge", "content": "李老师 喜欢用 认证机制 来处理 OpenClaw 相关任务", "metadata": {"person": "李老师", "project": "OpenClaw", "tech": "认证机制"}, "quality_score": 1.0}
+{"id": "mem_00210", "type": "conversation", "content": "Sarah 说他最近在研究 DSS 选股系统", "metadata": {"person": "Sarah", "project": "DSS 选股系统", "tech": "API"}, "quality_score": 1.0}
+{"id": "mem_00211", "type": "code", "content": "在 OpenClaw 项目中，我们讨论了 subagent 的实现方案", "metadata": {"person": "Alex", "project": "OpenClaw", "tech": "subagent"}, "quality_score": 0.9504}
+{"id": "mem_00212", "type": "event", "content": "明天要和 陈工 讨论 RAG 系统 的进度", "metadata": {"person": "陈工", "project": "RAG 系统", "tech": "向量检索"}, "quality_score": 0.9900000000000001}
+{"id": "mem_00213", "type": "knowledge", "content": "王总 喜欢用 日志系统 来处理 memory-lancedb-pro 相关任务", "metadata": {"person": "王总", "project": "memory-lancedb-pro", "tech": "日志系统"}, "quality_score": 1.0}
+{"id": "mem_00214", "type": "code", "content": "在 RAG 系统 项目中，我们讨论了 embedding 的实现方案", "metadata": {"person": "Alex", "project": "RAG 系统", "tech": "embedding"}, "quality_score": 0.9504}
+{"id": "mem_00215", "type": "conversation", "content": "Alex 说他最近在研究 memory-lancedb-pro", "metadata": {"person": "Alex", "project": "memory-lancedb-pro", "tech": "BM25"}, "quality_score": 0.9900000000000001}
+{"id": "mem_00216", "type": "conversation", "content": "刘博 说他最近在研究 OpenClaw", "metadata": {"person": "刘博", "project": "OpenClaw", "tech": "性能优化"}, "quality_score": 0.9504000000000001}
+{"id": "mem_00217", "type": "noise", "content": "有人提到过类似的 认证机制 方案但不是用于 Ollama 部署", "metadata": {"person": "陈工", "project": "Ollama 部署", "tech": "认证机制"}, "quality_score": 0.198}
+{"id": "mem_00218", "type": "knowledge", "content": "王总 喜欢用 性能优化 来处理 RAG 系统 相关任务", "metadata": {"person": "王总", "project": "RAG 系统", "tech": "性能优化"}, "quality_score": 1.0}
+{"id": "mem_00219", "type": "code", "content": "在 memory-lancedb-pro 项目中，我们讨论了 rerank 的实现方案", "metadata": {"person": "刘博", "project": "memory-lancedb-pro", "tech": "rerank"}, "quality_score": 0.792}
+{"id": "mem_00220", "type": "conversation", "content": "吴博士 说他最近在研究 DSS 选股系统", "metadata": {"person": "吴博士", "project": "DSS 选股系统", "tech": "rerank"}, "quality_score": 0.9900000000000001}
+{"id": "mem_00221", "type": "noise", "content": "有人提到过类似的 scope 方案但不是用于 AI-Agent", "metadata": {"person": "刘博", "project": "AI-Agent", "tech": "scope"}, "quality_score": 0.2376}
+{"id": "mem_00222", "type": "knowledge", "content": "张工 喜欢用 缓存策略 来处理 Ollama 部署 相关任务", "metadata": {"person": "张工", "project": "Ollama 部署", "tech": "缓存策略"}, "quality_score": 1.0}
+{"id": "mem_00223", "type": "noise", "content": "有人提到过类似的 scope 方案但不是用于 AI-Agent", "metadata": {"person": "李老师", "project": "AI-Agent", "tech": "scope"}, "quality_score": 0.2376}
+{"id": "mem_00224", "type": "noise", "content": "有人提到过类似的 缓存策略 方案但不是用于 智能客服", "metadata": {"person": "Sarah", "project": "智能客服", "tech": "缓存策略"}, "quality_score": 0.1584}
+{"id": "mem_00225", "type": "noise", "content": "有人提到过类似的 性能优化 方案但不是用于 memory-lancedb-pro", "metadata": {"person": "张工", "project": "memory-lancedb-pro", "tech": "性能优化"}, "quality_score": 0.1584}
+{"id": "mem_00226", "type": "noise", "content": "有人提到过类似的 embedding 方案但不是用于 RAG 系统", "metadata": {"person": "Sarah", "project": "RAG 系统", "tech": "embedding"}, "quality_score": 0.198}
+{"id": "mem_00227", "type": "noise", "content": "有人提到过类似的 分页加载 方案但不是用于 OpenClaw", "metadata": {"person": "赵博士", "project": "OpenClaw", "tech": "分页加载"}, "quality_score": 0.2376}
+{"id": "mem_00228", "type": "knowledge", "content": "Alex 喜欢用 scope 来处理 智能客服 相关任务", "metadata": {"person": "Alex", "project": "智能客服", "tech": "scope"}, "quality_score": 1.0}
+{"id": "mem_00229", "type": "conversation", "content": "李老师 说他最近在研究 memory-lancedb-pro", "metadata": {"person": "李老师", "project": "memory-lancedb-pro", "tech": "向量检索"}, "quality_score": 0.7920000000000001}
+{"id": "mem_00230", "type": "conversation", "content": "张工 说他最近在研究 知识图谱", "metadata": {"person": "张工", "project": "知识图谱", "tech": "scope"}, "quality_score": 0.6336000000000002}
+{"id": "mem_00231", "type": "code", "content": "在 memory-lancedb-pro 项目中，我们讨论了 认证机制 的实现方案", "metadata": {"person": "Alex", "project": "memory-lancedb-pro", "tech": "认证机制"}, "quality_score": 0.792}
+{"id": "mem_00232", "type": "conversation", "content": "陈工 说他最近在研究 AI-Agent", "metadata": {"person": "陈工", "project": "AI-Agent", "tech": "性能优化"}, "quality_score": 0.9504000000000001}
+{"id": "mem_00233", "type": "code", "content": "在 智能客服 项目中，我们讨论了 subagent 的实现方案", "metadata": {"person": "赵博士", "project": "智能客服", "tech": "subagent"}, "quality_score": 0.792}
+{"id": "mem_00234", "type": "conversation", "content": "刘博 说他最近在研究 知识图谱", "metadata": {"person": "刘博", "project": "知识图谱", "tech": "认证机制"}, "quality_score": 0.6336000000000002}
+{"id": "mem_00235", "type": "noise", "content": "有人提到过类似的 缓存策略 方案但不是用于 DSS 选股系统", "metadata": {"person": "刘博", "project": "DSS 选股系统", "tech": "缓存策略"}, "quality_score": 0.198}
+{"id": "mem_00236", "type": "noise", "content": "有人提到过类似的 缓存策略 方案但不是用于 Kimi Remote API", "metadata": {"person": "张工", "project": "Kimi Remote API", "tech": "缓存策略"}, "quality_score": 0.2376}
+{"id": "mem_00237", "type": "code", "content": "在 AI-Agent 项目中，我们讨论了 scope 的实现方案", "metadata": {"person": "张工", "project": "AI-Agent", "tech": "scope"}, "quality_score": 0.9504}
+{"id": "mem_00238", "type": "knowledge", "content": "张工 喜欢用 scope 来处理 vLLM 优化 相关任务", "metadata": {"person": "张工", "project": "vLLM 优化", "tech": "scope"}, "quality_score": 1.0}
+{"id": "mem_00239", "type": "conversation", "content": "Alex 说他最近在研究 智能客服", "metadata": {"person": "Alex", "project": "智能客服", "tech": "性能优化"}, "quality_score": 0.7920000000000001}
+{"id": "mem_00240", "type": "noise", "content": "有人提到过类似的 性能优化 方案但不是用于 知识图谱", "metadata": {"person": "王总", "project": "知识图谱", "tech": "性能优化"}, "quality_score": 0.1584}
+{"id": "mem_00241", "type": "knowledge", "content": "赵博士 喜欢用 scope 来处理 DSS 选股系统 相关任务", "metadata": {"person": "赵博士", "project": "DSS 选股系统", "tech": "scope"}, "quality_score": 1.0}
+{"id": "mem_00242", "type": "conversation", "content": "王总 说他最近在研究 智能客服", "metadata": {"person": "王总", "project": "智能客服", "tech": "认证机制"}, "quality_score": 0.6336000000000002}
+{"id": "mem_00243", "type": "conversation", "content": "K 说他最近在研究 OpenClaw", "metadata": {"person": "K", "project": "OpenClaw", "tech": "性能优化"}, "quality_score": 0.9504000000000001}
+{"id": "mem_00244", "type": "noise", "content": "有人提到过类似的 向量检索 方案但不是用于 知识图谱", "metadata": {"person": "陈工", "project": "知识图谱", "tech": "向量检索"}, "quality_score": 0.1584}
+{"id": "mem_00245", "type": "conversation", "content": "陈工 说他最近在研究 vLLM 优化", "metadata": {"person": "陈工", "project": "vLLM 优化", "tech": "缓存策略"}, "quality_score": 0.6336000000000002}
+{"id": "mem_00246", "type": "event", "content": "明天要和 李老师 讨论 Kimi Remote API 的进度", "metadata": {"person": "李老师", "project": "Kimi Remote API", "tech": "scope"}, "quality_score": 1.0}
+{"id": "mem_00247", "type": "knowledge", "content": "赵博士 喜欢用 scope 来处理 RAG 系统 相关任务", "metadata": {"person": "赵博士", "project": "RAG 系统", "tech": "scope"}, "quality_score": 1.0}
+{"id": "mem_00248", "type": "conversation", "content": "Alex 说他最近在研究 Kimi Remote API", "metadata": {"person": "Alex", "project": "Kimi Remote API", "tech": "向量检索"}, "quality_score": 1.0}
+{"id": "mem_00249", "type": "code", "content": "在 OpenClaw 项目中，我们讨论了 subagent 的实现方案", "metadata": {"person": "Alex", "project": "OpenClaw", "tech": "subagent"}, "quality_score": 0.9504}
+{"id": "mem_00250", "type": "code", "content": "在 RAG 系统 项目中，我们讨论了 embedding 的实现方案", "metadata": {"person": "陈工", "project": "RAG 系统", "tech": "embedding"}, "quality_score": 0.9504}
+{"id": "mem_00251", "type": "conversation", "content": "刘博 说他最近在研究 AI-Agent", "metadata": {"person": "刘博", "project": "AI-Agent", "tech": "BM25"}, "quality_score": 0.9504000000000001}
+{"id": "mem_00252", "type": "code", "content": "在 vLLM 优化 项目中，我们讨论了 日志系统 的实现方案", "metadata": {"person": "Sarah", "project": "vLLM 优化", "tech": "日志系统"}, "quality_score": 0.9504}
+{"id": "mem_00253", "type": "code", "content": "在 Ollama 部署 项目中，我们讨论了 BM25 的实现方案", "metadata": {"person": "刘博", "project": "Ollama 部署", "tech": "BM25"}, "quality_score": 0.9504}
+{"id": "mem_00254", "type": "code", "content": "在 知识图谱 项目中，我们讨论了 BM25 的实现方案", "metadata": {"person": "Alex", "project": "知识图谱", "tech": "BM25"}, "quality_score": 0.792}
+{"id": "mem_00255", "type": "noise", "content": "有人提到过类似的 subagent 方案但不是用于 RAG 系统", "metadata": {"person": "陈工", "project": "RAG 系统", "tech": "subagent"}, "quality_score": 0.198}
+{"id": "mem_00256", "type": "conversation", "content": "张工 说他最近在研究 AI-Agent", "metadata": {"person": "张工", "project": "AI-Agent", "tech": "rerank"}, "quality_score": 0.9504000000000001}
+{"id": "mem_00257", "type": "event", "content": "明天要和 李老师 讨论 memory-lancedb-pro 的进度", "metadata": {"person": "李老师", "project": "memory-lancedb-pro", "tech": "subagent"}, "quality_score": 0.7920000000000001}
+{"id": "mem_00258", "type": "knowledge", "content": "Sarah 喜欢用 scope 来处理 AI-Agent 相关任务", "metadata": {"person": "Sarah", "project": "AI-Agent", "tech": "scope"}, "quality_score": 1.0}
+{"id": "mem_00259", "type": "code", "content": "在 DSS 选股系统 项目中，我们讨论了 认证机制 的实现方案", "metadata": {"person": "刘博", "project": "DSS 选股系统", "tech": "认证机制"}, "quality_score": 0.9504}
+{"id": "mem_00260", "type": "noise", "content": "有人提到过类似的 embedding 方案但不是用于 OpenClaw", "metadata": {"person": "赵博士", "project": "OpenClaw", "tech": "embedding"}, "quality_score": 0.2376}
+{"id": "mem_00261", "type": "conversation", "content": "吴博士 说他最近在研究 Kimi Remote API", "metadata": {"person": "吴博士", "project": "Kimi Remote API", "tech": "认证机制"}, "quality_score": 1.0}
+{"id": "mem_00262", "type": "noise", "content": "有人提到过类似的 API 方案但不是用于 Ollama 部署", "metadata": {"person": "吴博士", "project": "Ollama 部署", "tech": "API"}, "quality_score": 0.2376}
+{"id": "mem_00263", "type": "noise", "content": "有人提到过类似的 API 方案但不是用于 知识图谱", "metadata": {"person": "赵博士", "project": "知识图谱", "tech": "API"}, "quality_score": 0.198}
+{"id": "mem_00264", "type": "event", "content": "明天要和 Alex 讨论 vLLM 优化 的进度", "metadata": {"person": "Alex", "project": "vLLM 优化", "tech": "embedding"}, "quality_score": 0.9900000000000001}
+{"id": "mem_00265", "type": "event", "content": "明天要和 刘博 讨论 AI-Agent 的进度", "metadata": {"person": "刘博", "project": "AI-Agent", "tech": "rerank"}, "quality_score": 1.0}
+{"id": "mem_00266", "type": "knowledge", "content": "吴博士 喜欢用 向量检索 来处理 知识图谱 相关任务", "metadata": {"person": "吴博士", "project": "知识图谱", "tech": "向量检索"}, "quality_score": 1.0}
+{"id": "mem_00267", "type": "noise", "content": "有人提到过类似的 分页加载 方案但不是用于 Ollama 部署", "metadata": {"person": "陈工", "project": "Ollama 部署", "tech": "分页加载"}, "quality_score": 0.198}
+{"id": "mem_00268", "type": "conversation", "content": "吴博士 说他最近在研究 Ollama 部署", "metadata": {"person": "吴博士", "project": "Ollama 部署", "tech": "scope"}, "quality_score": 0.9900000000000001}
+{"id": "mem_00269", "type": "code", "content": "在 AI-Agent 项目中，我们讨论了 subagent 的实现方案", "metadata": {"person": "陈工", "project": "AI-Agent", "tech": "subagent"}, "quality_score": 0.9504}
+{"id": "mem_00270", "type": "noise", "content": "有人提到过类似的 分页加载 方案但不是用于 memory-lancedb-pro", "metadata": {"person": "Sarah", "project": "memory-lancedb-pro", "tech": "分页加载"}, "quality_score": 0.1584}
+{"id": "mem_00271", "type": "event", "content": "明天要和 赵博士 讨论 Kimi Remote API 的进度", "metadata": {"person": "赵博士", "project": "Kimi Remote API", "tech": "缓存策略"}, "quality_score": 1.0}
+{"id": "mem_00272", "type": "knowledge", "content": "陈工 喜欢用 embedding 来处理 RAG 系统 相关任务", "metadata": {"person": "陈工", "project": "RAG 系统", "tech": "embedding"}, "quality_score": 1.0}
+{"id": "mem_00273", "type": "knowledge", "content": "吴博士 喜欢用 性能优化 来处理 vLLM 优化 相关任务", "metadata": {"person": "吴博士", "project": "vLLM 优化", "tech": "性能优化"}, "quality_score": 1.0}
+{"id": "mem_00274", "type": "code", "content": "在 知识图谱 项目中，我们讨论了 向量检索 的实现方案", "metadata": {"person": "吴博士", "project": "知识图谱", "tech": "向量检索"}, "quality_score": 0.792}
+{"id": "mem_00275", "type": "conversation", "content": "陈工 说他最近在研究 智能客服", "metadata": {"person": "陈工", "project": "智能客服", "tech": "分页加载"}, "quality_score": 0.6336000000000002}
+{"id": "mem_00276", "type": "code", "content": "在 Kimi Remote API 项目中，我们讨论了 分页加载 的实现方案", "metadata": {"person": "李老师", "project": "Kimi Remote API", "tech": "分页加载"}, "quality_score": 0.9504}
+{"id": "mem_00277", "type": "conversation", "content": "吴博士 说他最近在研究 RAG 系统", "metadata": {"person": "吴博士", "project": "RAG 系统", "tech": "认证机制"}, "quality_score": 0.7920000000000001}
+{"id": "mem_00278", "type": "noise", "content": "有人提到过类似的 subagent 方案但不是用于 memory-lancedb-pro", "metadata": {"person": "Alex", "project": "memory-lancedb-pro", "tech": "subagent"}, "quality_score": 0.1584}
+{"id": "mem_00279", "type": "event", "content": "明天要和 Alex 讨论 DSS 选股系统 的进度", "metadata": {"person": "Alex", "project": "DSS 选股系统", "tech": "rerank"}, "quality_score": 1.0}
+{"id": "mem_00280", "type": "knowledge", "content": "刘博 喜欢用 认证机制 来处理 知识图谱 相关任务", "metadata": {"person": "刘博", "project": "知识图谱", "tech": "认证机制"}, "quality_score": 1.0}
+{"id": "mem_00281", "type": "noise", "content": "有人提到过类似的 BM25 方案但不是用于 vLLM 优化", "metadata": {"person": "张工", "project": "vLLM 优化", "tech": "BM25"}, "quality_score": 0.1584}
+{"id": "mem_00282", "type": "knowledge", "content": "K 喜欢用 性能优化 来处理 RAG 系统 相关任务", "metadata": {"person": "K", "project": "RAG 系统", "tech": "性能优化"}, "quality_score": 1.0}
+{"id": "mem_00283", "type": "knowledge", "content": "K 喜欢用 向量检索 来处理 DSS 选股系统 相关任务", "metadata": {"person": "K", "project": "DSS 选股系统", "tech": "向量检索"}, "quality_score": 1.0}
+{"id": "mem_00284", "type": "knowledge", "content": "李老师 喜欢用 subagent 来处理 Kimi Remote API 相关任务", "metadata": {"person": "李老师", "project": "Kimi Remote API", "tech": "subagent"}, "quality_score": 1.0}
+{"id": "mem_00285", "type": "conversation", "content": "赵博士 说他最近在研究 vLLM 优化", "metadata": {"person": "赵博士", "project": "vLLM 优化", "tech": "rerank"}, "quality_score": 0.6336000000000002}
+{"id": "mem_00286", "type": "code", "content": "在 知识图谱 项目中，我们讨论了 API 的实现方案", "metadata": {"person": "K", "project": "知识图谱", "tech": "API"}, "quality_score": 0.9504}
+{"id": "mem_00287", "type": "noise", "content": "有人提到过类似的 日志系统 方案但不是用于 智能客服", "metadata": {"person": "陈工", "project": "智能客服", "tech": "日志系统"}, "quality_score": 0.198}
+{"id": "mem_00288", "type": "noise", "content": "有人提到过类似的 分页加载 方案但不是用于 知识图谱", "metadata": {"person": "K", "project": "知识图谱", "tech": "分页加载"}, "quality_score": 0.1584}
+{"id": "mem_00289", "type": "conversation", "content": "赵博士 说他最近在研究 智能客服", "metadata": {"person": "赵博士", "project": "智能客服", "tech": "向量检索"}, "quality_score": 0.6336000000000002}
+{"id": "mem_00290", "type": "event", "content": "明天要和 赵博士 讨论 vLLM 优化 的进度", "metadata": {"person": "赵博士", "project": "vLLM 优化", "tech": "缓存策略"}, "quality_score": 0.7920000000000001}
+{"id": "mem_00291", "type": "event", "content": "明天要和 陈工 讨论 智能客服 的进度", "metadata": {"person": "陈工", "project": "智能客服", "tech": "subagent"}, "quality_score": 0.6336000000000002}
+{"id": "mem_00292", "type": "noise", "content": "有人提到过类似的 embedding 方案但不是用于 RAG 系统", "metadata": {"person": "Alex", "project": "RAG 系统", "tech": "embedding"}, "quality_score": 0.198}
+{"id": "mem_00293", "type": "knowledge", "content": "张工 喜欢用 性能优化 来处理 Kimi Remote API 相关任务", "metadata": {"person": "张工", "project": "Kimi Remote API", "tech": "性能优化"}, "quality_score": 1.0}
+{"id": "mem_00294", "type": "knowledge", "content": "赵博士 喜欢用 embedding 来处理 RAG 系统 相关任务", "metadata": {"person": "赵博士", "project": "RAG 系统", "tech": "embedding"}, "quality_score": 1.0}
+{"id": "mem_00295", "type": "event", "content": "明天要和 K 讨论 memory-lancedb-pro 的进度", "metadata": {"person": "K", "project": "memory-lancedb-pro", "tech": "认证机制"}, "quality_score": 0.7920000000000001}
+{"id": "mem_00296", "type": "noise", "content": "有人提到过类似的 认证机制 方案但不是用于 vLLM 优化", "metadata": {"person": "赵博士", "project": "vLLM 优化", "tech": "认证机制"}, "quality_score": 0.1584}
+{"id": "mem_00297", "type": "knowledge", "content": "Alex 喜欢用 分页加载 来处理 OpenClaw 相关任务", "metadata": {"person": "Alex", "project": "OpenClaw", "tech": "分页加载"}, "quality_score": 1.0}
+{"id": "mem_00298", "type": "noise", "content": "有人提到过类似的 缓存策略 方案但不是用于 DSS 选股系统", "metadata": {"person": "吴博士", "project": "DSS 选股系统", "tech": "缓存策略"}, "quality_score": 0.198}
+{"id": "mem_00299", "type": "event", "content": "明天要和 K 讨论 vLLM 优化 的进度", "metadata": {"person": "K", "project": "vLLM 优化", "tech": "API"}, "quality_score": 0.7920000000000001}
+{"id": "mem_00300", "type": "knowledge", "content": "王总 喜欢用 subagent 来处理 memory-lancedb-pro 相关任务", "metadata": {"person": "王总", "project": "memory-lancedb-pro", "tech": "subagent"}, "quality_score": 1.0}
+{"id": "mem_00301", "type": "event", "content": "明天要和 张工 讨论 Ollama 部署 的进度", "metadata": {"person": "张工", "project": "Ollama 部署", "tech": "scope"}, "quality_score": 0.9900000000000001}
+{"id": "mem_00302", "type": "noise", "content": "有人提到过类似的 日志系统 方案但不是用于 AI-Agent", "metadata": {"person": "Sarah", "project": "AI-Agent", "tech": "日志系统"}, "quality_score": 0.2376}
+{"id": "mem_00303", "type": "knowledge", "content": "Sarah 喜欢用 向量检索 来处理 Ollama 部署 相关任务", "metadata": {"person": "Sarah", "project": "Ollama 部署", "tech": "向量检索"}, "quality_score": 1.0}
+{"id": "mem_00304", "type": "knowledge", "content": "吴博士 喜欢用 认证机制 来处理 知识图谱 相关任务", "metadata": {"person": "吴博士", "project": "知识图谱", "tech": "认证机制"}, "quality_score": 1.0}
+{"id": "mem_00305", "type": "conversation", "content": "王总 说他最近在研究 知识图谱", "metadata": {"person": "王总", "project": "知识图谱", "tech": "分页加载"}, "quality_score": 0.6336000000000002}
+{"id": "mem_00306", "type": "noise", "content": "有人提到过类似的 日志系统 方案但不是用于 智能客服", "metadata": {"person": "赵博士", "project": "智能客服", "tech": "日志系统"}, "quality_score": 0.198}
+{"id": "mem_00307", "type": "knowledge", "content": "王总 喜欢用 性能优化 来处理 DSS 选股系统 相关任务", "metadata": {"person": "王总", "project": "DSS 选股系统", "tech": "性能优化"}, "quality_score": 1.0}
+{"id": "mem_00308", "type": "code", "content": "在 智能客服 项目中，我们讨论了 embedding 的实现方案", "metadata": {"person": "刘博", "project": "智能客服", "tech": "embedding"}, "quality_score": 0.792}
+{"id": "mem_00309", "type": "conversation", "content": "张工 说他最近在研究 Ollama 部署", "metadata": {"person": "张工", "project": "Ollama 部署", "tech": "向量检索"}, "quality_score": 0.9900000000000001}
+{"id": "mem_00310", "type": "event", "content": "明天要和 Alex 讨论 memory-lancedb-pro 的进度", "metadata": {"person": "Alex", "project": "memory-lancedb-pro", "tech": "日志系统"}, "quality_score": 0.9900000000000001}
+{"id": "mem_00311", "type": "conversation", "content": "K 说他最近在研究 memory-lancedb-pro", "metadata": {"person": "K", "project": "memory-lancedb-pro", "tech": "认证机制"}, "quality_score": 0.7920000000000001}
+{"id": "mem_00312", "type": "noise", "content": "有人提到过类似的 rerank 方案但不是用于 Kimi Remote API", "metadata": {"person": "张工", "project": "Kimi Remote API", "tech": "rerank"}, "quality_score": 0.2376}
+{"id": "mem_00313", "type": "code", "content": "在 AI-Agent 项目中，我们讨论了 性能优化 的实现方案", "metadata": {"person": "张工", "project": "AI-Agent", "tech": "性能优化"}, "quality_score": 0.9504}
+{"id": "mem_00314", "type": "noise", "content": "有人提到过类似的 向量检索 方案但不是用于 Ollama 部署", "metadata": {"person": "吴博士", "project": "Ollama 部署", "tech": "向量检索"}, "quality_score": 0.198}
+{"id": "mem_00315", "type": "conversation", "content": "赵博士 说他最近在研究 DSS 选股系统", "metadata": {"person": "赵博士", "project": "DSS 选股系统", "tech": "性能优化"}, "quality_score": 0.9900000000000001}
+{"id": "mem_00316", "type": "noise", "content": "有人提到过类似的 认证机制 方案但不是用于 vLLM 优化", "metadata": {"person": "王总", "project": "vLLM 优化", "tech": "认证机制"}, "quality_score": 0.1584}
+{"id": "mem_00317", "type": "noise", "content": "有人提到过类似的 分页加载 方案但不是用于 智能客服", "metadata": {"person": "吴博士", "project": "智能客服", "tech": "分页加载"}, "quality_score": 0.1584}
+{"id": "mem_00318", "type": "conversation", "content": "李老师 说他最近在研究 vLLM 优化", "metadata": {"person": "李老师", "project": "vLLM 优化", "tech": "rerank"}, "quality_score": 0.6336000000000002}
+{"id": "mem_00319", "type": "conversation", "content": "王总 说他最近在研究 DSS 选股系统", "metadata": {"person": "王总", "project": "DSS 选股系统", "tech": "缓存策略"}, "quality_score": 0.7920000000000001}
+{"id": "mem_00320", "type": "conversation", "content": "王总 说他最近在研究 RAG 系统", "metadata": {"person": "王总", "project": "RAG 系统", "tech": "BM25"}, "quality_score": 0.7920000000000001}
+{"id": "mem_00321", "type": "noise", "content": "有人提到过类似的 认证机制 方案但不是用于 vLLM 优化", "metadata": {"person": "K", "project": "vLLM 优化", "tech": "认证机制"}, "quality_score": 0.1584}
+{"id": "mem_00322", "type": "knowledge", "content": "Alex 喜欢用 BM25 来处理 RAG 系统 相关任务", "metadata": {"person": "Alex", "project": "RAG 系统", "tech": "BM25"}, "quality_score": 1.0}
+{"id": "mem_00323", "type": "event", "content": "明天要和 K 讨论 RAG 系统 的进度", "metadata": {"person": "K", "project": "RAG 系统", "tech": "分页加载"}, "quality_score": 0.9900000000000001}
+{"id": "mem_00324", "type": "code", "content": "在 OpenClaw 项目中，我们讨论了 日志系统 的实现方案", "metadata": {"person": "王总", "project": "OpenClaw", "tech": "日志系统"}, "quality_score": 0.9504}
+{"id": "mem_00325", "type": "knowledge", "content": "Alex 喜欢用 embedding 来处理 Ollama 部署 相关任务", "metadata": {"person": "Alex", "project": "Ollama 部署", "tech": "embedding"}, "quality_score": 1.0}
+{"id": "mem_00326", "type": "knowledge", "content": "陈工 喜欢用 日志系统 来处理 Kimi Remote API 相关任务", "metadata": {"person": "陈工", "project": "Kimi Remote API", "tech": "日志系统"}, "quality_score": 1.0}
+{"id": "mem_00327", "type": "noise", "content": "有人提到过类似的 性能优化 方案但不是用于 AI-Agent", "metadata": {"person": "刘博", "project": "AI-Agent", "tech": "性能优化"}, "quality_score": 0.2376}
+{"id": "mem_00328", "type": "conversation", "content": "Alex 说他最近在研究 知识图谱", "metadata": {"person": "Alex", "project": "知识图谱", "tech": "向量检索"}, "quality_score": 0.7920000000000001}
+{"id": "mem_00329", "type": "knowledge", "content": "Alex 喜欢用 subagent 来处理 Ollama 部署 相关任务", "metadata": {"person": "Alex", "project": "Ollama 部署", "tech": "subagent"}, "quality_score": 1.0}
+{"id": "mem_00330", "type": "event", "content": "明天要和 Alex 讨论 智能客服 的进度", "metadata": {"person": "Alex", "project": "智能客服", "tech": "BM25"}, "quality_score": 0.9900000000000001}
+{"id": "mem_00331", "type": "knowledge", "content": "Alex 喜欢用 认证机制 来处理 AI-Agent 相关任务", "metadata": {"person": "Alex", "project": "AI-Agent", "tech": "认证机制"}, "quality_score": 1.0}
+{"id": "mem_00332", "type": "conversation", "content": "李老师 说他最近在研究 OpenClaw", "metadata": {"person": "李老师", "project": "OpenClaw", "tech": "日志系统"}, "quality_score": 1.0}
+{"id": "mem_00333", "type": "code", "content": "在 DSS 选股系统 项目中，我们讨论了 缓存策略 的实现方案", "metadata": {"person": "赵博士", "project": "DSS 选股系统", "tech": "缓存策略"}, "quality_score": 0.9504}
+{"id": "mem_00334", "type": "noise", "content": "有人提到过类似的 embedding 方案但不是用于 vLLM 优化", "metadata": {"person": "王总", "project": "vLLM 优化", "tech": "embedding"}, "quality_score": 0.1584}
+{"id": "mem_00335", "type": "noise", "content": "有人提到过类似的 缓存策略 方案但不是用于 AI-Agent", "metadata": {"person": "K", "project": "AI-Agent", "tech": "缓存策略"}, "quality_score": 0.2376}
+{"id": "mem_00336", "type": "event", "content": "明天要和 Alex 讨论 知识图谱 的进度", "metadata": {"person": "Alex", "project": "知识图谱", "tech": "rerank"}, "quality_score": 0.9900000000000001}
+{"id": "mem_00337", "type": "event", "content": "明天要和 李老师 讨论 知识图谱 的进度", "metadata": {"person": "李老师", "project": "知识图谱", "tech": "rerank"}, "quality_score": 0.7920000000000001}
+{"id": "mem_00338", "type": "code", "content": "在 memory-lancedb-pro 项目中，我们讨论了 API 的实现方案", "metadata": {"person": "K", "project": "memory-lancedb-pro", "tech": "API"}, "quality_score": 0.9504}
+{"id": "mem_00339", "type": "conversation", "content": "K 说他最近在研究 AI-Agent", "metadata": {"person": "K", "project": "AI-Agent", "tech": "向量检索"}, "quality_score": 0.9504000000000001}
+{"id": "mem_00340", "type": "conversation", "content": "陈工 说他最近在研究 Kimi Remote API", "metadata": {"person": "陈工", "project": "Kimi Remote API", "tech": "向量检索"}, "quality_score": 1.0}
+{"id": "mem_00341", "type": "event", "content": "明天要和 陈工 讨论 memory-lancedb-pro 的进度", "metadata": {"person": "陈工", "project": "memory-lancedb-pro", "tech": "日志系统"}, "quality_score": 0.7920000000000001}
+{"id": "mem_00342", "type": "code", "content": "在 Ollama 部署 项目中，我们讨论了 scope 的实现方案", "metadata": {"person": "陈工", "project": "Ollama 部署", "tech": "scope"}, "quality_score": 0.9504}
+{"id": "mem_00343", "type": "event", "content": "明天要和 赵博士 讨论 Kimi Remote API 的进度", "metadata": {"person": "赵博士", "project": "Kimi Remote API", "tech": "分页加载"}, "quality_score": 1.0}
+{"id": "mem_00344", "type": "code", "content": "在 智能客服 项目中，我们讨论了 subagent 的实现方案", "metadata": {"person": "赵博士", "project": "智能客服", "tech": "subagent"}, "quality_score": 0.792}
+{"id": "mem_00345", "type": "conversation", "content": "陈工 说他最近在研究 AI-Agent", "metadata": {"person": "陈工", "project": "AI-Agent", "tech": "日志系统"}, "quality_score": 0.9504000000000001}
+{"id": "mem_00346", "type": "event", "content": "明天要和 王总 讨论 Ollama 部署 的进度", "metadata": {"person": "王总", "project": "Ollama 部署", "tech": "rerank"}, "quality_score": 0.9900000000000001}
+{"id": "mem_00347", "type": "knowledge", "content": "王总 喜欢用 API 来处理 OpenClaw 相关任务", "metadata": {"person": "王总", "project": "OpenClaw", "tech": "API"}, "quality_score": 1.0}
+{"id": "mem_00348", "type": "knowledge", "content": "刘博 喜欢用 向量检索 来处理 DSS 选股系统 相关任务", "metadata": {"person": "刘博", "project": "DSS 选股系统", "tech": "向量检索"}, "quality_score": 1.0}
+{"id": "mem_00349", "type": "code", "content": "在 AI-Agent 项目中，我们讨论了 scope 的实现方案", "metadata": {"person": "陈工", "project": "AI-Agent", "tech": "scope"}, "quality_score": 0.9504}
+{"id": "mem_00350", "type": "event", "content": "明天要和 K 讨论 知识图谱 的进度", "metadata": {"person": "K", "project": "知识图谱", "tech": "subagent"}, "quality_score": 0.6336000000000002}
+{"id": "mem_00351", "type": "event", "content": "明天要和 吴博士 讨论 智能客服 的进度", "metadata": {"person": "吴博士", "project": "智能客服", "tech": "embedding"}, "quality_score": 0.7920000000000001}
+{"id": "mem_00352", "type": "code", "content": "在 知识图谱 项目中，我们讨论了 scope 的实现方案", "metadata": {"person": "陈工", "project": "知识图谱", "tech": "scope"}, "quality_score": 0.792}
+{"id": "mem_00353", "type": "knowledge", "content": "吴博士 喜欢用 API 来处理 DSS 选股系统 相关任务", "metadata": {"person": "吴博士", "project": "DSS 选股系统", "tech": "API"}, "quality_score": 1.0}
+{"id": "mem_00354", "type": "code", "content": "在 vLLM 优化 项目中，我们讨论了 缓存策略 的实现方案", "metadata": {"person": "K", "project": "vLLM 优化", "tech": "缓存策略"}, "quality_score": 0.792}
+{"id": "mem_00355", "type": "knowledge", "content": "刘博 喜欢用 scope 来处理 OpenClaw 相关任务", "metadata": {"person": "刘博", "project": "OpenClaw", "tech": "scope"}, "quality_score": 1.0}
+{"id": "mem_00356", "type": "knowledge", "content": "K 喜欢用 subagent 来处理 Kimi Remote API 相关任务", "metadata": {"person": "K", "project": "Kimi Remote API", "tech": "subagent"}, "quality_score": 1.0}
+{"id": "mem_00357", "type": "code", "content": "在 DSS 选股系统 项目中，我们讨论了 分页加载 的实现方案", "metadata": {"person": "吴博士", "project": "DSS 选股系统", "tech": "分页加载"}, "quality_score": 0.9504}
+{"id": "mem_00358", "type": "conversation", "content": "陈工 说他最近在研究 RAG 系统", "metadata": {"person": "陈工", "project": "RAG 系统", "tech": "embedding"}, "quality_score": 0.7920000000000001}
+{"id": "mem_00359", "type": "code", "content": "在 vLLM 优化 项目中，我们讨论了 API 的实现方案", "metadata": {"person": "Alex", "project": "vLLM 优化", "tech": "API"}, "quality_score": 0.9504}
+{"id": "mem_00360", "type": "conversation", "content": "赵博士 说他最近在研究 智能客服", "metadata": {"person": "赵博士", "project": "智能客服", "tech": "scope"}, "quality_score": 0.6336000000000002}
+{"id": "mem_00361", "type": "conversation", "content": "陈工 说他最近在研究 vLLM 优化", "metadata": {"person": "陈工", "project": "vLLM 优化", "tech": "embedding"}, "quality_score": 0.6336000000000002}
+{"id": "mem_00362", "type": "code", "content": "在 RAG 系统 项目中，我们讨论了 subagent 的实现方案", "metadata": {"person": "吴博士", "project": "RAG 系统", "tech": "subagent"}, "quality_score": 0.9504}
+{"id": "mem_00363", "type": "knowledge", "content": "王总 喜欢用 分页加载 来处理 memory-lancedb-pro 相关任务", "metadata": {"person": "王总", "project": "memory-lancedb-pro", "tech": "分页加载"}, "quality_score": 1.0}
+{"id": "mem_00364", "type": "event", "content": "明天要和 吴博士 讨论 AI-Agent 的进度", "metadata": {"person": "吴博士", "project": "AI-Agent", "tech": "BM25"}, "quality_score": 1.0}
+{"id": "mem_00365", "type": "noise", "content": "有人提到过类似的 embedding 方案但不是用于 OpenClaw", "metadata": {"person": "李老师", "project": "OpenClaw", "tech": "embedding"}, "quality_score": 0.2376}
+{"id": "mem_00366", "type": "noise", "content": "有人提到过类似的 缓存策略 方案但不是用于 Ollama 部署", "metadata": {"person": "Sarah", "project": "Ollama 部署", "tech": "缓存策略"}, "quality_score": 0.198}
+{"id": "mem_00367", "type": "event", "content": "明天要和 刘博 讨论 AI-Agent 的进度", "metadata": {"person": "刘博", "project": "AI-Agent", "tech": "日志系统"}, "quality_score": 1.0}
+{"id": "mem_00368", "type": "conversation", "content": "赵博士 说他最近在研究 vLLM 优化", "metadata": {"person": "赵博士", "project": "vLLM 优化", "tech": "subagent"}, "quality_score": 0.6336000000000002}
+{"id": "mem_00369", "type": "event", "content": "明天要和 王总 讨论 RAG 系统 的进度", "metadata": {"person": "王总", "project": "RAG 系统", "tech": "认证机制"}, "quality_score": 0.9900000000000001}
+{"id": "mem_00370", "type": "event", "content": "明天要和 Alex 讨论 RAG 系统 的进度", "metadata": {"person": "Alex", "project": "RAG 系统", "tech": "日志系统"}, "quality_score": 1.0}
+{"id": "mem_00371", "type": "noise", "content": "有人提到过类似的 性能优化 方案但不是用于 OpenClaw", "metadata": {"person": "吴博士", "project": "OpenClaw", "tech": "性能优化"}, "quality_score": 0.2376}
+{"id": "mem_00372", "type": "code", "content": "在 Ollama 部署 项目中，我们讨论了 性能优化 的实现方案", "metadata": {"person": "陈工", "project": "Ollama 部署", "tech": "性能优化"}, "quality_score": 0.9504}
+{"id": "mem_00373", "type": "noise", "content": "有人提到过类似的 scope 方案但不是用于 memory-lancedb-pro", "metadata": {"person": "陈工", "project": "memory-lancedb-pro", "tech": "scope"}, "quality_score": 0.1584}
+{"id": "mem_00374", "type": "noise", "content": "有人提到过类似的 向量检索 方案但不是用于 vLLM 优化", "metadata": {"person": "Alex", "project": "vLLM 优化", "tech": "向量检索"}, "quality_score": 0.1584}
+{"id": "mem_00375", "type": "event", "content": "明天要和 吴博士 讨论 Ollama 部署 的进度", "metadata": {"person": "吴博士", "project": "Ollama 部署", "tech": "缓存策略"}, "quality_score": 0.9900000000000001}
+{"id": "mem_00376", "type": "event", "content": "明天要和 陈工 讨论 vLLM 优化 的进度", "metadata": {"person": "陈工", "project": "vLLM 优化", "tech": "embedding"}, "quality_score": 0.7920000000000001}
+{"id": "mem_00377", "type": "code", "content": "在 memory-lancedb-pro 项目中，我们讨论了 scope 的实现方案", "metadata": {"person": "李老师", "project": "memory-lancedb-pro", "tech": "scope"}, "quality_score": 0.792}
+{"id": "mem_00378", "type": "conversation", "content": "吴博士 说他最近在研究 memory-lancedb-pro", "metadata": {"person": "吴博士", "project": "memory-lancedb-pro", "tech": "subagent"}, "quality_score": 0.7920000000000001}
+{"id": "mem_00379", "type": "noise", "content": "有人提到过类似的 embedding 方案但不是用于 知识图谱", "metadata": {"person": "刘博", "project": "知识图谱", "tech": "embedding"}, "quality_score": 0.1584}
+{"id": "mem_00380", "type": "conversation", "content": "吴博士 说他最近在研究 OpenClaw", "metadata": {"person": "吴博士", "project": "OpenClaw", "tech": "scope"}, "quality_score": 1.0}
+{"id": "mem_00381", "type": "code", "content": "在 Kimi Remote API 项目中，我们讨论了 分页加载 的实现方案", "metadata": {"person": "K", "project": "Kimi Remote API", "tech": "分页加载"}, "quality_score": 0.9504}
+{"id": "mem_00382", "type": "event", "content": "明天要和 K 讨论 智能客服 的进度", "metadata": {"person": "K", "project": "智能客服", "tech": "向量检索"}, "quality_score": 0.6336000000000002}
+{"id": "mem_00383", "type": "code", "content": "在 智能客服 项目中，我们讨论了 认证机制 的实现方案", "metadata": {"person": "刘博", "project": "智能客服", "tech": "认证机制"}, "quality_score": 0.792}
+{"id": "mem_00384", "type": "code", "content": "在 vLLM 优化 项目中，我们讨论了 embedding 的实现方案", "metadata": {"person": "李老师", "project": "vLLM 优化", "tech": "embedding"}, "quality_score": 0.792}
+{"id": "mem_00385", "type": "knowledge", "content": "Alex 喜欢用 API 来处理 智能客服 相关任务", "metadata": {"person": "Alex", "project": "智能客服", "tech": "API"}, "quality_score": 1.0}
+{"id": "mem_00386", "type": "conversation", "content": "王总 说他最近在研究 RAG 系统", "metadata": {"person": "王总", "project": "RAG 系统", "tech": "性能优化"}, "quality_score": 0.7920000000000001}
+{"id": "mem_00387", "type": "code", "content": "在 Ollama 部署 项目中，我们讨论了 API 的实现方案", "metadata": {"person": "张工", "project": "Ollama 部署", "tech": "API"}, "quality_score": 0.9504}
+{"id": "mem_00388", "type": "conversation", "content": "刘博 说他最近在研究 Kimi Remote API", "metadata": {"person": "刘博", "project": "Kimi Remote API", "tech": "分页加载"}, "quality_score": 1.0}
+{"id": "mem_00389", "type": "conversation", "content": "刘博 说他最近在研究 Ollama 部署", "metadata": {"person": "刘博", "project": "Ollama 部署", "tech": "scope"}, "quality_score": 0.9900000000000001}
+{"id": "mem_00390", "type": "knowledge", "content": "张工 喜欢用 缓存策略 来处理 智能客服 相关任务", "metadata": {"person": "张工", "project": "智能客服", "tech": "缓存策略"}, "quality_score": 1.0}
+{"id": "mem_00391", "type": "event", "content": "明天要和 李老师 讨论 DSS 选股系统 的进度", "metadata": {"person": "李老师", "project": "DSS 选股系统", "tech": "rerank"}, "quality_score": 0.9900000000000001}
+{"id": "mem_00392", "type": "noise", "content": "有人提到过类似的 缓存策略 方案但不是用于 RAG 系统", "metadata": {"person": "刘博", "project": "RAG 系统", "tech": "缓存策略"}, "quality_score": 0.198}
+{"id": "mem_00393", "type": "knowledge", "content": "吴博士 喜欢用 性能优化 来处理 Kimi Remote API 相关任务", "metadata": {"person": "吴博士", "project": "Kimi Remote API", "tech": "性能优化"}, "quality_score": 1.0}
+{"id": "mem_00394", "type": "code", "content": "在 Kimi Remote API 项目中，我们讨论了 API 的实现方案", "metadata": {"person": "Alex", "project": "Kimi Remote API", "tech": "API"}, "quality_score": 0.9504}
+{"id": "mem_00395", "type": "event", "content": "明天要和 Sarah 讨论 知识图谱 的进度", "metadata": {"person": "Sarah", "project": "知识图谱", "tech": "scope"}, "quality_score": 0.9900000000000001}
+{"id": "mem_00396", "type": "knowledge", "content": "王总 喜欢用 日志系统 来处理 vLLM 优化 相关任务", "metadata": {"person": "王总", "project": "vLLM 优化", "tech": "日志系统"}, "quality_score": 1.0}
+{"id": "mem_00397", "type": "noise", "content": "有人提到过类似的 API 方案但不是用于 RAG 系统", "metadata": {"person": "张工", "project": "RAG 系统", "tech": "API"}, "quality_score": 0.2376}
+{"id": "mem_00398", "type": "conversation", "content": "Alex 说他最近在研究 智能客服", "metadata": {"person": "Alex", "project": "智能客服", "tech": "embedding"}, "quality_score": 0.7920000000000001}
+{"id": "mem_00399", "type": "event", "content": "明天要和 刘博 讨论 memory-lancedb-pro 的进度", "metadata": {"person": "刘博", "project": "memory-lancedb-pro", "tech": "scope"}, "quality_score": 0.7920000000000001}
+{"id": "mem_00400", "type": "code", "content": "在 Ollama 部署 项目中，我们讨论了 缓存策略 的实现方案", "metadata": {"person": "张工", "project": "Ollama 部署", "tech": "缓存策略"}, "quality_score": 0.9504}
+{"id": "mem_00401", "type": "code", "content": "在 知识图谱 项目中，我们讨论了 subagent 的实现方案", "metadata": {"person": "K", "project": "知识图谱", "tech": "subagent"}, "quality_score": 0.792}
+{"id": "mem_00402", "type": "noise", "content": "有人提到过类似的 日志系统 方案但不是用于 智能客服", "metadata": {"person": "陈工", "project": "智能客服", "tech": "日志系统"}, "quality_score": 0.198}
+{"id": "mem_00403", "type": "noise", "content": "有人提到过类似的 向量检索 方案但不是用于 Ollama 部署", "metadata": {"person": "吴博士", "project": "Ollama 部署", "tech": "向量检索"}, "quality_score": 0.198}
+{"id": "mem_00404", "type": "code", "content": "在 vLLM 优化 项目中，我们讨论了 API 的实现方案", "metadata": {"person": "Sarah", "project": "vLLM 优化", "tech": "API"}, "quality_score": 0.9504}
+{"id": "mem_00405", "type": "conversation", "content": "张工 说他最近在研究 知识图谱", "metadata": {"person": "张工", "project": "知识图谱", "tech": "性能优化"}, "quality_score": 0.6336000000000002}
+{"id": "mem_00406", "type": "event", "content": "明天要和 王总 讨论 Kimi Remote API 的进度", "metadata": {"person": "王总", "project": "Kimi Remote API", "tech": "性能优化"}, "quality_score": 1.0}
+{"id": "mem_00407", "type": "conversation", "content": "K 说他最近在研究 vLLM 优化", "metadata": {"person": "K", "project": "vLLM 优化", "tech": "subagent"}, "quality_score": 0.6336000000000002}
+{"id": "mem_00408", "type": "conversation", "content": "赵博士 说他最近在研究 Kimi Remote API", "metadata": {"person": "赵博士", "project": "Kimi Remote API", "tech": "分页加载"}, "quality_score": 1.0}
+{"id": "mem_00409", "type": "noise", "content": "有人提到过类似的 日志系统 方案但不是用于 AI-Agent", "metadata": {"person": "王总", "project": "AI-Agent", "tech": "日志系统"}, "quality_score": 0.2376}
+{"id": "mem_00410", "type": "event", "content": "明天要和 吴博士 讨论 DSS 选股系统 的进度", "metadata": {"person": "吴博士", "project": "DSS 选股系统", "tech": "向量检索"}, "quality_score": 0.9900000000000001}
+{"id": "mem_00411", "type": "noise", "content": "有人提到过类似的 分页加载 方案但不是用于 AI-Agent", "metadata": {"person": "刘博", "project": "AI-Agent", "tech": "分页加载"}, "quality_score": 0.2376}
+{"id": "mem_00412", "type": "conversation", "content": "王总 说他最近在研究 memory-lancedb-pro", "metadata": {"person": "王总", "project": "memory-lancedb-pro", "tech": "BM25"}, "quality_score": 0.7920000000000001}
+{"id": "mem_00413", "type": "event", "content": "明天要和 李老师 讨论 RAG 系统 的进度", "metadata": {"person": "李老师", "project": "RAG 系统", "tech": "API"}, "quality_score": 0.9900000000000001}
+{"id": "mem_00414", "type": "noise", "content": "有人提到过类似的 subagent 方案但不是用于 AI-Agent", "metadata": {"person": "Alex", "project": "AI-Agent", "tech": "subagent"}, "quality_score": 0.2376}
+{"id": "mem_00415", "type": "conversation", "content": "吴博士 说他最近在研究 OpenClaw", "metadata": {"person": "吴博士", "project": "OpenClaw", "tech": "API"}, "quality_score": 1.0}
+{"id": "mem_00416", "type": "conversation", "content": "陈工 说他最近在研究 智能客服", "metadata": {"person": "陈工", "project": "智能客服", "tech": "embedding"}, "quality_score": 0.6336000000000002}
+{"id": "mem_00417", "type": "code", "content": "在 vLLM 优化 项目中，我们讨论了 性能优化 的实现方案", "metadata": {"person": "Sarah", "project": "vLLM 优化", "tech": "性能优化"}, "quality_score": 0.792}
+{"id": "mem_00418", "type": "code", "content": "在 Kimi Remote API 项目中，我们讨论了 向量检索 的实现方案", "metadata": {"person": "张工", "project": "Kimi Remote API", "tech": "向量检索"}, "quality_score": 0.9504}
+{"id": "mem_00419", "type": "code", "content": "在 Kimi Remote API 项目中，我们讨论了 API 的实现方案", "metadata": {"person": "刘博", "project": "Kimi Remote API", "tech": "API"}, "quality_score": 0.9504}
+{"id": "mem_00420", "type": "knowledge", "content": "陈工 喜欢用 API 来处理 Kimi Remote API 相关任务", "metadata": {"person": "陈工", "project": "Kimi Remote API", "tech": "API"}, "quality_score": 1.0}
+{"id": "mem_00421", "type": "knowledge", "content": "K 喜欢用 缓存策略 来处理 智能客服 相关任务", "metadata": {"person": "K", "project": "智能客服", "tech": "缓存策略"}, "quality_score": 1.0}
+{"id": "mem_00422", "type": "event", "content": "明天要和 赵博士 讨论 RAG 系统 的进度", "metadata": {"person": "赵博士", "project": "RAG 系统", "tech": "API"}, "quality_score": 0.9900000000000001}
+{"id": "mem_00423", "type": "noise", "content": "有人提到过类似的 日志系统 方案但不是用于 知识图谱", "metadata": {"person": "张工", "project": "知识图谱", "tech": "日志系统"}, "quality_score": 0.198}
+{"id": "mem_00424", "type": "knowledge", "content": "刘博 喜欢用 性能优化 来处理 DSS 选股系统 相关任务", "metadata": {"person": "刘博", "project": "DSS 选股系统", "tech": "性能优化"}, "quality_score": 1.0}
+{"id": "mem_00425", "type": "knowledge", "content": "张工 喜欢用 缓存策略 来处理 Ollama 部署 相关任务", "metadata": {"person": "张工", "project": "Ollama 部署", "tech": "缓存策略"}, "quality_score": 1.0}
+{"id": "mem_00426", "type": "code", "content": "在 智能客服 项目中，我们讨论了 日志系统 的实现方案", "metadata": {"person": "陈工", "project": "智能客服", "tech": "日志系统"}, "quality_score": 0.9504}
+{"id": "mem_00427", "type": "event", "content": "明天要和 Sarah 讨论 Ollama 部署 的进度", "metadata": {"person": "Sarah", "project": "Ollama 部署", "tech": "分页加载"}, "quality_score": 1.0}
+{"id": "mem_00428", "type": "conversation", "content": "刘博 说他最近在研究 智能客服", "metadata": {"person": "刘博", "project": "智能客服", "tech": "rerank"}, "quality_score": 0.6336000000000002}
+{"id": "mem_00429", "type": "event", "content": "明天要和 刘博 讨论 Kimi Remote API 的进度", "metadata": {"person": "刘博", "project": "Kimi Remote API", "tech": "BM25"}, "quality_score": 1.0}
+{"id": "mem_00430", "type": "conversation", "content": "K 说他最近在研究 DSS 选股系统", "metadata": {"person": "K", "project": "DSS 选股系统", "tech": "缓存策略"}, "quality_score": 0.7920000000000001}
+{"id": "mem_00431", "type": "event", "content": "明天要和 Alex 讨论 OpenClaw 的进度", "metadata": {"person": "Alex", "project": "OpenClaw", "tech": "缓存策略"}, "quality_score": 1.0}
+{"id": "mem_00432", "type": "event", "content": "明天要和 K 讨论 RAG 系统 的进度", "metadata": {"person": "K", "project": "RAG 系统", "tech": "缓存策略"}, "quality_score": 0.9900000000000001}
+{"id": "mem_00433", "type": "event", "content": "明天要和 Sarah 讨论 OpenClaw 的进度", "metadata": {"person": "Sarah", "project": "OpenClaw", "tech": "scope"}, "quality_score": 1.0}
+{"id": "mem_00434", "type": "noise", "content": "有人提到过类似的 rerank 方案但不是用于 RAG 系统", "metadata": {"person": "Sarah", "project": "RAG 系统", "tech": "rerank"}, "quality_score": 0.198}
+{"id": "mem_00435", "type": "noise", "content": "有人提到过类似的 日志系统 方案但不是用于 RAG 系统", "metadata": {"person": "李老师", "project": "RAG 系统", "tech": "日志系统"}, "quality_score": 0.198}
+{"id": "mem_00436", "type": "code", "content": "在 vLLM 优化 项目中，我们讨论了 缓存策略 的实现方案", "metadata": {"person": "张工", "project": "vLLM 优化", "tech": "缓存策略"}, "quality_score": 0.792}
+{"id": "mem_00437", "type": "knowledge", "content": "刘博 喜欢用 rerank 来处理 智能客服 相关任务", "metadata": {"person": "刘博", "project": "智能客服", "tech": "rerank"}, "quality_score": 1.0}
+{"id": "mem_00438", "type": "event", "content": "明天要和 K 讨论 智能客服 的进度", "metadata": {"person": "K", "project": "智能客服", "tech": "API"}, "quality_score": 0.6336000000000002}
+{"id": "mem_00439", "type": "noise", "content": "有人提到过类似的 BM25 方案但不是用于 DSS 选股系统", "metadata": {"person": "K", "project": "DSS 选股系统", "tech": "BM25"}, "quality_score": 0.198}
+{"id": "mem_00440", "type": "event", "content": "明天要和 陈工 讨论 vLLM 优化 的进度", "metadata": {"person": "陈工", "project": "vLLM 优化", "tech": "subagent"}, "quality_score": 0.7920000000000001}
+{"id": "mem_00441", "type": "event", "content": "明天要和 K 讨论 RAG 系统 的进度", "metadata": {"person": "K", "project": "RAG 系统", "tech": "scope"}, "quality_score": 0.9900000000000001}
+{"id": "mem_00442", "type": "knowledge", "content": "王总 喜欢用 scope 来处理 RAG 系统 相关任务", "metadata": {"person": "王总", "project": "RAG 系统", "tech": "scope"}, "quality_score": 1.0}
+{"id": "mem_00443", "type": "noise", "content": "有人提到过类似的 embedding 方案但不是用于 AI-Agent", "metadata": {"person": "王总", "project": "AI-Agent", "tech": "embedding"}, "quality_score": 0.2376}
+{"id": "mem_00444", "type": "knowledge", "content": "李老师 喜欢用 向量检索 来处理 知识图谱 相关任务", "metadata": {"person": "李老师", "project": "知识图谱", "tech": "向量检索"}, "quality_score": 1.0}
+{"id": "mem_00445", "type": "code", "content": "在 memory-lancedb-pro 项目中，我们讨论了 rerank 的实现方案", "metadata": {"person": "Sarah", "project": "memory-lancedb-pro", "tech": "rerank"}, "quality_score": 0.792}
+{"id": "mem_00446", "type": "noise", "content": "有人提到过类似的 缓存策略 方案但不是用于 vLLM 优化", "metadata": {"person": "王总", "project": "vLLM 优化", "tech": "缓存策略"}, "quality_score": 0.1584}
+{"id": "mem_00447", "type": "code", "content": "在 RAG 系统 项目中，我们讨论了 分页加载 的实现方案", "metadata": {"person": "赵博士", "project": "RAG 系统", "tech": "分页加载"}, "quality_score": 0.9504}
+{"id": "mem_00448", "type": "conversation", "content": "王总 说他最近在研究 智能客服", "metadata": {"person": "王总", "project": "智能客服", "tech": "向量检索"}, "quality_score": 0.6336000000000002}
+{"id": "mem_00449", "type": "event", "content": "明天要和 赵博士 讨论 OpenClaw 的进度", "metadata": {"person": "赵博士", "project": "OpenClaw", "tech": "性能优化"}, "quality_score": 1.0}
+{"id": "mem_00450", "type": "code", "content": "在 知识图谱 项目中，我们讨论了 subagent 的实现方案", "metadata": {"person": "王总", "project": "知识图谱", "tech": "subagent"}, "quality_score": 0.792}
+{"id": "mem_00451", "type": "code", "content": "在 Kimi Remote API 项目中，我们讨论了 scope 的实现方案", "metadata": {"person": "陈工", "project": "Kimi Remote API", "tech": "scope"}, "quality_score": 0.9504}
+{"id": "mem_00452", "type": "knowledge", "content": "赵博士 喜欢用 分页加载 来处理 memory-lancedb-pro 相关任务", "metadata": {"person": "赵博士", "project": "memory-lancedb-pro", "tech": "分页加载"}, "quality_score": 1.0}
+{"id": "mem_00453", "type": "code", "content": "在 vLLM 优化 项目中，我们讨论了 embedding 的实现方案", "metadata": {"person": "赵博士", "project": "vLLM 优化", "tech": "embedding"}, "quality_score": 0.792}
+{"id": "mem_00454", "type": "conversation", "content": "赵博士 说他最近在研究 DSS 选股系统", "metadata": {"person": "赵博士", "project": "DSS 选股系统", "tech": "API"}, "quality_score": 0.9900000000000001}
+{"id": "mem_00455", "type": "event", "content": "明天要和 李老师 讨论 DSS 选股系统 的进度", "metadata": {"person": "李老师", "project": "DSS 选股系统", "tech": "subagent"}, "quality_score": 0.9900000000000001}
+{"id": "mem_00456", "type": "knowledge", "content": "K 喜欢用 BM25 来处理 DSS 选股系统 相关任务", "metadata": {"person": "K", "project": "DSS 选股系统", "tech": "BM25"}, "quality_score": 1.0}
+{"id": "mem_00457", "type": "noise", "content": "有人提到过类似的 scope 方案但不是用于 Kimi Remote API", "metadata": {"person": "Sarah", "project": "Kimi Remote API", "tech": "scope"}, "quality_score": 0.2376}
+{"id": "mem_00458", "type": "conversation", "content": "Sarah 说他最近在研究 memory-lancedb-pro", "metadata": {"person": "Sarah", "project": "memory-lancedb-pro", "tech": "向量检索"}, "quality_score": 0.9900000000000001}
+{"id": "mem_00459", "type": "event", "content": "明天要和 张工 讨论 AI-Agent 的进度", "metadata": {"person": "张工", "project": "AI-Agent", "tech": "认证机制"}, "quality_score": 1.0}
+{"id": "mem_00460", "type": "noise", "content": "有人提到过类似的 性能优化 方案但不是用于 知识图谱", "metadata": {"person": "李老师", "project": "知识图谱", "tech": "性能优化"}, "quality_score": 0.1584}
+{"id": "mem_00461", "type": "code", "content": "在 vLLM 优化 项目中，我们讨论了 BM25 的实现方案", "metadata": {"person": "陈工", "project": "vLLM 优化", "tech": "BM25"}, "quality_score": 0.792}
+{"id": "mem_00462", "type": "code", "content": "在 OpenClaw 项目中，我们讨论了 认证机制 的实现方案", "metadata": {"person": "王总", "project": "OpenClaw", "tech": "认证机制"}, "quality_score": 0.9504}
+{"id": "mem_00463", "type": "noise", "content": "有人提到过类似的 subagent 方案但不是用于 AI-Agent", "metadata": {"person": "赵博士", "project": "AI-Agent", "tech": "subagent"}, "quality_score": 0.2376}
+{"id": "mem_00464", "type": "conversation", "content": "李老师 说他最近在研究 DSS 选股系统", "metadata": {"person": "李老师", "project": "DSS 选股系统", "tech": "日志系统"}, "quality_score": 0.9900000000000001}
+{"id": "mem_00465", "type": "knowledge", "content": "赵博士 喜欢用 embedding 来处理 Kimi Remote API 相关任务", "metadata": {"person": "赵博士", "project": "Kimi Remote API", "tech": "embedding"}, "quality_score": 1.0}
+{"id": "mem_00466", "type": "noise", "content": "有人提到过类似的 分页加载 方案但不是用于 RAG 系统", "metadata": {"person": "陈工", "project": "RAG 系统", "tech": "分页加载"}, "quality_score": 0.198}
+{"id": "mem_00467", "type": "conversation", "content": "赵博士 说他最近在研究 OpenClaw", "metadata": {"person": "赵博士", "project": "OpenClaw", "tech": "性能优化"}, "quality_score": 1.0}
+{"id": "mem_00468", "type": "event", "content": "明天要和 张工 讨论 知识图谱 的进度", "metadata": {"person": "张工", "project": "知识图谱", "tech": "rerank"}, "quality_score": 0.6336000000000002}
+{"id": "mem_00469", "type": "code", "content": "在 智能客服 项目中，我们讨论了 BM25 的实现方案", "metadata": {"person": "吴博士", "project": "智能客服", "tech": "BM25"}, "quality_score": 0.792}
+{"id": "mem_00470", "type": "conversation", "content": "Alex 说他最近在研究 OpenClaw", "metadata": {"person": "Alex", "project": "OpenClaw", "tech": "认证机制"}, "quality_score": 1.0}
+{"id": "mem_00471", "type": "noise", "content": "有人提到过类似的 缓存策略 方案但不是用于 vLLM 优化", "metadata": {"person": "赵博士", "project": "vLLM 优化", "tech": "缓存策略"}, "quality_score": 0.1584}
+{"id": "mem_00472", "type": "code", "content": "在 OpenClaw 项目中，我们讨论了 BM25 的实现方案", "metadata": {"person": "陈工", "project": "OpenClaw", "tech": "BM25"}, "quality_score": 0.9504}
+{"id": "mem_00473", "type": "noise", "content": "有人提到过类似的 subagent 方案但不是用于 RAG 系统", "metadata": {"person": "Sarah", "project": "RAG 系统", "tech": "subagent"}, "quality_score": 0.198}
+{"id": "mem_00474", "type": "conversation", "content": "张工 说他最近在研究 AI-Agent", "metadata": {"person": "张工", "project": "AI-Agent", "tech": "向量检索"}, "quality_score": 0.9504000000000001}
+{"id": "mem_00475", "type": "code", "content": "在 AI-Agent 项目中，我们讨论了 embedding 的实现方案", "metadata": {"person": "陈工", "project": "AI-Agent", "tech": "embedding"}, "quality_score": 0.9504}
+{"id": "mem_00476", "type": "event", "content": "明天要和 王总 讨论 DSS 选股系统 的进度", "metadata": {"person": "王总", "project": "DSS 选股系统", "tech": "subagent"}, "quality_score": 0.9900000000000001}
+{"id": "mem_00477", "type": "knowledge", "content": "Alex 喜欢用 性能优化 来处理 智能客服 相关任务", "metadata": {"person": "Alex", "project": "智能客服", "tech": "性能优化"}, "quality_score": 1.0}
+{"id": "mem_00478", "type": "code", "content": "在 vLLM 优化 项目中，我们讨论了 BM25 的实现方案", "metadata": {"person": "Sarah", "project": "vLLM 优化", "tech": "BM25"}, "quality_score": 0.792}
+{"id": "mem_00479", "type": "knowledge", "content": "K 喜欢用 rerank 来处理 RAG 系统 相关任务", "metadata": {"person": "K", "project": "RAG 系统", "tech": "rerank"}, "quality_score": 1.0}
+{"id": "mem_00480", "type": "code", "content": "在 vLLM 优化 项目中，我们讨论了 subagent 的实现方案", "metadata": {"person": "吴博士", "project": "vLLM 优化", "tech": "subagent"}, "quality_score": 0.792}
+{"id": "mem_00481", "type": "event", "content": "明天要和 陈工 讨论 知识图谱 的进度", "metadata": {"person": "陈工", "project": "知识图谱", "tech": "认证机制"}, "quality_score": 0.6336000000000002}
+{"id": "mem_00482", "type": "noise", "content": "有人提到过类似的 API 方案但不是用于 Kimi Remote API", "metadata": {"person": "Sarah", "project": "Kimi Remote API", "tech": "API"}, "quality_score": 0.2376}
+{"id": "mem_00483", "type": "knowledge", "content": "K 喜欢用 rerank 来处理 vLLM 优化 相关任务", "metadata": {"person": "K", "project": "vLLM 优化", "tech": "rerank"}, "quality_score": 1.0}
+{"id": "mem_00484", "type": "knowledge", "content": "刘博 喜欢用 分页加载 来处理 memory-lancedb-pro 相关任务", "metadata": {"person": "刘博", "project": "memory-lancedb-pro", "tech": "分页加载"}, "quality_score": 1.0}
+{"id": "mem_00485", "type": "code", "content": "在 知识图谱 项目中，我们讨论了 分页加载 的实现方案", "metadata": {"person": "赵博士", "project": "知识图谱", "tech": "分页加载"}, "quality_score": 0.792}
+{"id": "mem_00486", "type": "event", "content": "明天要和 李老师 讨论 知识图谱 的进度", "metadata": {"person": "李老师", "project": "知识图谱", "tech": "日志系统"}, "quality_score": 0.7920000000000001}
+{"id": "mem_00487", "type": "code", "content": "在 RAG 系统 项目中，我们讨论了 性能优化 的实现方案", "metadata": {"person": "张工", "project": "RAG 系统", "tech": "性能优化"}, "quality_score": 0.9504}
+{"id": "mem_00488", "type": "event", "content": "明天要和 李老师 讨论 memory-lancedb-pro 的进度", "metadata": {"person": "李老师", "project": "memory-lancedb-pro", "tech": "rerank"}, "quality_score": 0.7920000000000001}
+{"id": "mem_00489", "type": "conversation", "content": "赵博士 说他最近在研究 AI-Agent", "metadata": {"person": "赵博士", "project": "AI-Agent", "tech": "认证机制"}, "quality_score": 1.0}
+{"id": "mem_00490", "type": "noise", "content": "有人提到过类似的 BM25 方案但不是用于 OpenClaw", "metadata": {"person": "王总", "project": "OpenClaw", "tech": "BM25"}, "quality_score": 0.2376}
+{"id": "mem_00491", "type": "event", "content": "明天要和 Alex 讨论 memory-lancedb-pro 的进度", "metadata": {"person": "Alex", "project": "memory-lancedb-pro", "tech": "向量检索"}, "quality_score": 0.9900000000000001}
+{"id": "mem_00492", "type": "code", "content": "在 AI-Agent 项目中，我们讨论了 缓存策略 的实现方案", "metadata": {"person": "K", "project": "AI-Agent", "tech": "缓存策略"}, "quality_score": 0.9504}
+{"id": "mem_00493", "type": "code", "content": "在 OpenClaw 项目中，我们讨论了 分页加载 的实现方案", "metadata": {"person": "赵博士", "project": "OpenClaw", "tech": "分页加载"}, "quality_score": 0.9504}
+{"id": "mem_00494", "type": "event", "content": "明天要和 王总 讨论 Kimi Remote API 的进度", "metadata": {"person": "王总", "project": "Kimi Remote API", "tech": "BM25"}, "quality_score": 1.0}
+{"id": "mem_00495", "type": "code", "content": "在 AI-Agent 项目中，我们讨论了 分页加载 的实现方案", "metadata": {"person": "刘博", "project": "AI-Agent", "tech": "分页加载"}, "quality_score": 0.9504}
+{"id": "mem_00496", "type": "knowledge", "content": "K 喜欢用 rerank 来处理 Kimi Remote API 相关任务", "metadata": {"person": "K", "project": "Kimi Remote API", "tech": "rerank"}, "quality_score": 1.0}
+{"id": "mem_00497", "type": "event", "content": "明天要和 K 讨论 知识图谱 的进度", "metadata": {"person": "K", "project": "知识图谱", "tech": "scope"}, "quality_score": 0.6336000000000002}
+{"id": "mem_00498", "type": "event", "content": "明天要和 刘博 讨论 memory-lancedb-pro 的进度", "metadata": {"person": "刘博", "project": "memory-lancedb-pro", "tech": "API"}, "quality_score": 0.7920000000000001}
+{"id": "mem_00499", "type": "conversation", "content": "张工 说他最近在研究 AI-Agent", "metadata": {"person": "张工", "project": "AI-Agent", "tech": "embedding"}, "quality_score": 0.9504000000000001}
+{"id": "mem_00500", "type": "knowledge", "content": "Alex 喜欢用 embedding 来处理 OpenClaw 相关任务", "metadata": {"person": "Alex", "project": "OpenClaw", "tech": "embedding"}, "quality_score": 1.0}

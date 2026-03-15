@@ -1,0 +1,10 @@
+{"id":"q0001","query":"OpenClaw 的 API 怎么配置","relevant_ids":["m00001"],"type":"keyword","expected_keywords":["OpenClaw","API"]}
+{"id":"q0002","query":"Alex 最近在研究什么项目","relevant_ids":["m00002"],"type":"semantic","expected_keywords":["Alex","RAG 系统"]}
+{"id":"q0003","query":"明天要和谁讨论 DSS 选股系统","relevant_ids":["m00003"],"type":"hybrid","expected_keywords":["吴博士","DSS 选股系统"]}
+{"id":"q0004","query":"K 喜欢用什么技术处理 memory-lancedb-pro","relevant_ids":["m00004"],"type":"hybrid","expected_keywords":["K","向量检索","memory-lancedb-pro"]}
+{"id":"q0005","query":"AI-Agent 项目中讨论了 subagent 的实现","relevant_ids":["m00005"],"type":"keyword","expected_keywords":["AI-Agent","subagent"]}
+{"id":"q0006","query":"Sarah 在研究什么","relevant_ids":["m00006"],"type":"semantic","expected_keywords":["Sarah","知识图谱"]}
+{"id":"q0007","query":"明天要和 张工 讨论什么项目","relevant_ids":["m00007"],"type":"hybrid","expected_keywords":["张工","Kimi Remote API"]}
+{"id":"q0008","query":"智能客服 相关任务用什么技术","relevant_ids":["m00008"],"type":"keyword","expected_keywords":["智能客服","BM25"]}
+{"id":"q0009","query":"vLLM 优化 项目中讨论了什么的实现","relevant_ids":["m00009"],"type":"keyword","expected_keywords":["vLLM 优化","性能优化"]}
+{"id":"q0010","query":"陈工 最近在研究什么","relevant_ids":["m00010"],"type":"semantic","expected_keywords":["陈工","Ollama 部署"]}

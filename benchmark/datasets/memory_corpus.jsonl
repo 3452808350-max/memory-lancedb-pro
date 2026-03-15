@@ -1,0 +1,10 @@
+{"id":"m00001","type":"code","text":"在 OpenClaw 项目中，我们讨论了 API 的实现方案","timestamp":"2026-03-14T10:00:00Z","metadata":{"person":"K","project":"OpenClaw","tech":"API"}}
+{"id":"m00002","type":"conversation","text":"Alex 说他最近在研究 RAG 系统","timestamp":"2026-03-14T10:05:00Z","metadata":{"person":"Alex","project":"RAG 系统","tech":""}}
+{"id":"m00003","type":"event","text":"明天要和 吴博士 讨论 DSS 选股系统 的进度","timestamp":"2026-03-14T10:10:00Z","metadata":{"person":"吴博士","project":"DSS 选股系统","tech":""}}
+{"id":"m00004","type":"knowledge","text":"K 喜欢用 向量检索 来处理 memory-lancedb-pro 相关任务","timestamp":"2026-03-14T10:15:00Z","metadata":{"person":"K","project":"memory-lancedb-pro","tech":"向量检索"}}
+{"id":"m00005","type":"code","text":"在 AI-Agent 项目中，我们讨论了 subagent 的实现方案","timestamp":"2026-03-14T10:20:00Z","metadata":{"person":"K","project":"AI-Agent","tech":"subagent"}}
+{"id":"m00006","type":"conversation","text":"Sarah 说她最近在研究 知识图谱","timestamp":"2026-03-14T10:25:00Z","metadata":{"person":"Sarah","project":"知识图谱","tech":""}}
+{"id":"m00007","type":"event","text":"明天要和 张工 讨论 Kimi Remote API 的进度","timestamp":"2026-03-14T10:30:00Z","metadata":{"person":"张工","project":"Kimi Remote API","tech":""}}
+{"id":"m00008","type":"knowledge","text":"李老师 喜欢用 BM25 来处理 智能客服 相关任务","timestamp":"2026-03-14T10:35:00Z","metadata":{"person":"李老师","project":"智能客服","tech":"BM25"}}
+{"id":"m00009","type":"code","text":"在 vLLM 优化 项目中，我们讨论了 性能优化 的实现方案","timestamp":"2026-03-14T10:40:00Z","metadata":{"person":"K","project":"vLLM 优化","tech":"性能优化"}}
+{"id":"m00010","type":"conversation","text":"陈工 说他最近在研究 Ollama 部署","timestamp":"2026-03-14T10:45:00Z","metadata":{"person":"陈工","project":"Ollama 部署","tech":""}}

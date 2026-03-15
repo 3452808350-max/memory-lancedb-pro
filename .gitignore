@@ -1,41 +1,44 @@
-# Dependencies
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+*.egg-info/
+
+# Node
 node_modules/
-package-lock.json
 
-# Build output
-dist/
-*.js.map
+# Sensitive - NEVER COMMIT
+email_config.json
+email_system.py
+kimi_cli.py
+kimi_remote_api.py
+minio_archive_system.py
+*.key
+*.secret
+*.password
 
-# Database
-*.lance/
-*.sqlite
+# Memory and personal data
+memory/*.md
+!memory/.gitkeep
+MEMORY.md
+MEMORY.md.backup
+memory-*.md
 
-# Logs
-logs/
+# Third party
+tools/
+skills/
+dsd-player/
+openclaw/
+openclaw-*
+PerLTQA/
+synthetic_perltqa/
+
+# Logs and temp
 *.log
-npm-debug.log*
-
-# Environment
-.env
-.env.local
+*.tmp
+tmp/
+temp/
 
 # OS
 .DS_Store
 Thumbs.db
-
-# IDE
-.vscode/
-.idea/
-*.swp
-*.swo
-
-# Test data
-test_*.js
-check_*.js
-migrate_*.js
-verify.js
-
-# Temporary files
-*.tmp
-*.bak
-temp_*.json
