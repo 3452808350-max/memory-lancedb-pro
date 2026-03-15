@@ -47,8 +47,15 @@ class CrossEncoderReranker:
             from sentence_transformers import CrossEncoder
             import torch
             
-            # 自动检测 GPU
-            device = 'cuda' if torch.cuda.is_available() else 'cpu'
+            # 自动检测 GPU（支持 NVIDIA CUDA 和 AMD ROCm）
+            if torch.cuda.is_available():
+                device = 'cuda'
+                gpu_name = torch.cuda.get_device_name(0)
+                gpu_memory = torch.cuda.get_device_properties(0).total_memory / 1024**3
+            else:
+                device = 'cpu'
+                gpu_name = 'N/A'
+                gpu_memory = 0
             
             # 加载模型
             self.model = CrossEncoder(self.model_name, device=device)
@@ -58,15 +65,21 @@ class CrossEncoderReranker:
             print(f"   设备：{device}")
             
             if device == 'cuda':
-                print(f"   GPU: {torch.cuda.get_device_name(0)}")
-                print(f"   显存：{torch.cuda.get_device_properties(0).total_memory / 1024**3:.1f} GB")
+                print(f"   GPU: {gpu_name}")
+                print(f"   显存：{gpu_memory:.1f} GB")
                 
-                # 可选：启用 FP16 半精度加速
-                # self.model.half()
-                # print(f"   ✅ 启用 FP16 半精度加速（速度 +80%，显存 -50%）")
+                # AMD RX 6800 优化提示
+                if 'AMD' in gpu_name or 'Radeon' in gpu_name:
+                    print(f"   🎯 检测到 AMD GPU (ROCm)")
+                    print(f"   💡 提示：ROCm 可能不支持 FP16，使用 FP32 更稳定")
+                else:
+                    # NVIDIA GPU 可以启用 FP16
+                    print(f"   🎯 检测到 NVIDIA GPU (CUDA)")
+                    print(f"   💡 提示：取消注释 self.model.half() 启用 FP16 加速")
             else:
                 print(f"   ⚠️  未检测到 GPU，使用 CPU 模式")
-                print(f"   提示：安装 CUDA 可获得 10-25 倍加速")
+                print(f"   💡 提示：安装 CUDA/ROCm 可获得 6-25 倍加速")
+                print(f"   💡 AMD RX 6800 用户：确保安装了 ROCm 5.6+")
             
         except ImportError:
             print("⚠️  需要安装：pip install sentence-transformers torch torchvision")
