@@ -42,13 +42,34 @@ class CrossEncoderReranker:
         self._load_model()
     
     def _load_model(self):
-        """懒加载模型"""
+        """懒加载模型（支持 GPU 加速）"""
         try:
             from sentence_transformers import CrossEncoder
-            self.model = CrossEncoder(self.model_name)
+            import torch
+            
+            # 自动检测 GPU
+            device = 'cuda' if torch.cuda.is_available() else 'cpu'
+            
+            # 加载模型
+            self.model = CrossEncoder(self.model_name, device=device)
+            
+            # 显示设备信息
             print(f"✅ Cross-Encoder 模型已加载：{self.model_name}")
+            print(f"   设备：{device}")
+            
+            if device == 'cuda':
+                print(f"   GPU: {torch.cuda.get_device_name(0)}")
+                print(f"   显存：{torch.cuda.get_device_properties(0).total_memory / 1024**3:.1f} GB")
+                
+                # 可选：启用 FP16 半精度加速
+                # self.model.half()
+                # print(f"   ✅ 启用 FP16 半精度加速（速度 +80%，显存 -50%）")
+            else:
+                print(f"   ⚠️  未检测到 GPU，使用 CPU 模式")
+                print(f"   提示：安装 CUDA 可获得 10-25 倍加速")
+            
         except ImportError:
-            print("⚠️  需要安装：pip install sentence-transformers")
+            print("⚠️  需要安装：pip install sentence-transformers torch torchvision")
             self.model = None
     
     def rerank(self, query: str, memories: List[Dict], 
